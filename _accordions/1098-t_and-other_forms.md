@@ -29,7 +29,7 @@ KCC can only provide you with the following 1098-T information. Please consult y
 Yes! You can securely access your 1098-T form online. You must give your consent to view the 1098-T form electronically. The form also can be printed.
 To give consent:
 
-1. Login to KCC Self-Service account
+1. Login to [KCC Self-Service](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/student){: target="_blank" rel="noopener noreferrer"} account
 2. Click on Tax Information
 3. Click on the 1098 information link
 4. Follow the prompts to give consent.
@@ -51,4 +51,4 @@ We do not have a valid permanent address on file for you.
 #### What If I Need to Correct My Social Security Number or Tax Identification Number (TIN)?
 {: .typography__h4 }
 
-Please print and complete a W-9S form and return to KCC's Admissions Office.
+Please print and complete a [W-9S form](https://www.irs.gov/pub/irs-pdf/fw9s.pdf){: target="_blank" rel="noopener noreferrer"} and return to KCC's Admissions Office.
