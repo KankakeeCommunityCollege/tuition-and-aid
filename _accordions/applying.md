@@ -16,7 +16,9 @@ Whether you are hoping to receive grants, looking for student employment or need
 
 [Create your FSA ID](http://studentaid.gov/fsaid){: target="_blank" rel="noopener noreferrer" }. Your FSA ID is used to confirm your identity when accessing your financial aid information and electronically signs your federal student aid documents.
 
-Video Link
+<div class="iframe__yt--wrapper mb-3">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/K7ihhGk8mCY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe__yt"></iframe>
+</div>
 
 Students, parents, and borrowers are required to use an FSA ID. If you are a parent with more than one child attending college, you will have one FSA ID and each student will have his/her own FSA ID.
 
@@ -25,7 +27,9 @@ Students, parents, and borrowers are required to use an FSA ID. If you are a par
 
 [File your FAFSA electronically](http://www.fafsa.gov/){: target="_blank" rel="noopener noreferrer" }, using KCC's Title IV school code 007690. It will speed up the process considerably.
 
-Video Link
+<div class="iframe__yt--wrapper mb-3">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gUis5lityCQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="iframe__yt"></iframe>
+</div>
 
 If you don't have internet access at home, computer terminals are available on campus in Student Services and Financial Aid. You can also submit electronically from KCC's North and South extension centers, local libraries and high schools.
 
