@@ -34,12 +34,11 @@ nav_links:
 #    link_href: 'reference/cloudcannon'
 #
 collections:
-  posts:
-    output: false
-    _hide_content: true
   contacts:
     output: false
   accordions:
+    output: false
+  tabs:
     output: false
 defaults:
 - scope:
@@ -64,6 +63,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 future: true
 # Build settings
 markdown: kramdown
+
+include:
+  - "_accordions/"
+  - "_tabs"
 
 exclude:
   - "gulpfile.js"
