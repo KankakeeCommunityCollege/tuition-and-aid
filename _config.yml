@@ -64,9 +64,9 @@ future: true
 # Build settings
 markdown: kramdown
 
-include:
-  - "_accordions/"
-  - "_tabs"
+#include:
+#  - "_accordions/"
+#  - "_tabs"
 
 exclude:
   - "gulpfile.js"
