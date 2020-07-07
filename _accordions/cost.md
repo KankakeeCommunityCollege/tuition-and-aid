@@ -19,7 +19,7 @@ The final cost is based on how many credit hours you take each semester. A full-
 
 The tuition calculator below this chart will help estimate tuition and fees.
 
-All amounts are effective Summer 2020. Rates are subject to change without notice. Additional course fees apply to some courses. [Financial aid](/financial-aid/), including grants, loans, scholarships and student employment, is also available.
+All amounts are effective Summer 2020. Rates are subject to change without notice. Additional course fees apply to some courses. [Financial aid](./financial-aid/), including grants, loans, scholarships and student employment, is also available.
 
 
 <table class="table table-striped">
