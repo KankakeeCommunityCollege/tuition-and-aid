@@ -29,7 +29,7 @@ The federal process selects at random one-third of KCC's students for verificati
 
 Completing the FAFSA is the first step toward receiving student loans. Once your FAFSA file is complete, contact us or visit our office for a KCC student loan or Parent Plus loan application.
 
-- [Understanding your loan](../uploads/Understanding-Federal-Direct-Staff-Loan.pdf){: target="_blank" rel="noopener noreferrer" }
+- [Understanding your loan](../uploads/understanding-federal-direct-staff-Loan.pdf){: target="_blank" rel="noopener noreferrer" }
 
 ### KCC Foundation scholarships
 {: .typography__h3 }

@@ -54,12 +54,12 @@ These loans provide for parents who want to borrow to help pay for their child's
 #### Federal Work-Study (FWS)
 {: .typography__h5 }
 
-Provides jobs for students who have applied for financial aid and are eligible to work as part of their financial aid award package. Participating students work on or off campus; money earned is paid to the student. FWS students must be enrolled at least half-time. Please visit the Student Employment page for details.
+Provides jobs for students who have applied for financial aid and are eligible to work as part of their financial aid award package. Participating students work on or off campus; money earned is paid to the student. FWS students must be enrolled at least half-time. Please view the [Student Employment tab](#student-employment) for details.
 
 ####  Regular Student Employment
 {: .typography__h5 }
 
-Visit the Student Employment page for details.
+View the [Student Employment tab](#student-employment) for details.
 For further federal and state financial aid information, visit collegezone.com.
 
 

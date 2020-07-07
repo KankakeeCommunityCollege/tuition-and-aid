@@ -36,4 +36,4 @@ If you don't have internet access at home, computer terminals are available on c
 ### 4. Check Your Status
 {: .typography__h3 }
 
-Expect an email containing your Student Aid Report (SAR) within seven business days after submitting your FAFSA online. Learn more about how to check your financial aid status and interpret various status codes.​
+Expect an email containing your Student Aid Report (SAR) within seven business days after submitting your FAFSA online. Learn more about how to [check your financial aid status](#check-financial-aid-status) and interpret various status codes.​

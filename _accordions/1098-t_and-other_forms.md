@@ -7,7 +7,7 @@ order: 4
 ### Financial Aid Forms
 {: .typography__h3 }
 
-Link to financial aid forms tab
+- [Financial aid forms](financial-aid/#financial-aid-forms)
 
 ### 1098-T Forms
 {: .typography__h3 }

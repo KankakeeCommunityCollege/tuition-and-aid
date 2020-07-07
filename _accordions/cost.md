@@ -4,7 +4,6 @@ card_heading: 'Cost to Attend'
 order: 1
 ---
 
-{% markdown %}
 ### Cost to Attend KCC
 {: .typography__h3 }
 
@@ -21,7 +20,7 @@ The final cost is based on how many credit hours you take each semester. A full-
 The tuition calculator below this chart will help estimate tuition and fees.
 
 All amounts are effective Summer 2020. Rates are subject to change without notice. Additional course fees apply to some courses. [Financial aid](/financial-aid/), including grants, loans, scholarships and student employment, is also available.
-{% endmarkdown %}
+
 
 <table class="table table-striped">
   <thead>
@@ -31,7 +30,7 @@ All amounts are effective Summer 2020. Rates are subject to change without notic
       <th>Basic fees per credit hour</th>
       <th>Out-of-district fee</th>
       <th>Total per credit hour</th>
-    <tr>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -65,19 +64,17 @@ All amounts are effective Summer 2020. Rates are subject to change without notic
   </tbody>
 </table>
 
-{% markdown %}
+
 **In-district** residency is defined as living in <a href="" class="btn btn-link disabled" tabindex="-1" aria-hidden="true">KCC's service area</a>, Community College District 520.
 
 **Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
 
 **Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens also must pay any individual course fee required.
-{% endmarkdown %}
 
 <div class="card p-1 mb-3">
   <script type="text/javascript" src="https://form.jotform.com/jsform/201115733387149"></script>
 </div>
 
-{% markdown %}
 ### Costs for Occupational and Health Career Programs
 {: .typography__h3 }
 
@@ -100,5 +97,3 @@ For financial aid budgeting purposes, estimate $1,800 annually for transportatio
 {: .typography__h4 }
 
 KCC does not offer on-campus residences. For financial aid purposes, it is estimated that room and board (housing and food) will cost $2,800 per school year for students living with parents and $6,000 for students not living with parents.​
-
-{% endmarkdown %}
