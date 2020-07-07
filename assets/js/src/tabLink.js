@@ -1,5 +1,3 @@
-const FINANCIAL_AID_PAGE_HASH_LINK = /(\/financial-aid\/#|\/financial-aid#)/g;
-
 function checkForMatchingTabOrAccordion(hash) {
   if ( document.querySelector('#financial-aid a[href="' + hash.replace(/\/$/g, '') + '"]') ) {
     $('#financial-aid a[href="' + hash.replace(/\/$/g, '') + '"]').tab('show'); // Bootstrap 4 Tab method
@@ -8,16 +6,16 @@ function checkForMatchingTabOrAccordion(hash) {
   }
 }
 
-function makeTabsLinkable() {
-  let initialURL = location.href;
-  const userIsNotOnCorrectPage = initialURL.search(FINANCIAL_AID_PAGE_HASH_LINK) === -1;
-
-  if ( userIsNotOnCorrectPage )
-    return;
-
-  if (location.hash) {
-    checkForMatchingTabOrAccordion(location.hash);
+function checkForHash() {
+  if (window.location.hash) {
+    checkForMatchingTabOrAccordion(window.location.hash);
   }
+}
+
+function makeTabsLinkable() {
+  checkForHash();
+
+  window.addEventListener('hashchange', checkForHash, false);
 }
 
 export default makeTabsLinkable;
