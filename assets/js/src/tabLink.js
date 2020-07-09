@@ -28,8 +28,8 @@ function checkForQuery(query, hash) {
 }
 
 function checkForMatchingTabOrAccordion(hash) {
-  if ( document.querySelector(`.tab-content a[href="${hash}"]`) ) {  // Looks for a matching BS4 tab element
-    let tab = $(`.tab-content a[href="${hash}"]`);  // **SIGH**, BS4 requires JQuery
+  if ( document.querySelector(`.nav-tabs a[href="${hash}"]`) ) {  // Looks for a matching BS4 tab element
+    let tab = $(`.nav-tabs a[href="${hash}"]`);  // **SIGH**, BS4 requires JQuery
 
     tab
       .on('shown.bs.tab', () => {  // Bootstrap 4 method for tab events // Must be defined before the tab is activated
