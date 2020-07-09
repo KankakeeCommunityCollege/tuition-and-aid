@@ -15,44 +15,48 @@ const queryStartRegex = /^\?/g;
 const endingSlashRegex = /\/$/g;
 
 function processIdQuery(query, hash) {
+  let id = query.replace(idRegex, '');
 
-    let id = query.replace(idRegex, '');
-    let parentEl = document.querySelector(hash.replace(endingSlashRegex, ''));
-    if ( parentEl.querySelector('#' + id) ) {
-      let el = parentEl.querySelector('#' + id);
-      el.scrollIntoView();
-    }
+  document.querySelector(hash)
+    .querySelector(`#${id}`).scrollIntoView();
 }
 
-function checkForQuery(urlQuerystring, hash) {
-  let query = urlQuerystring.replace(queryStartRegex, '');
-
-  query.search(idRegex) !== -1 ? processIdQuery(query, hash): null;
+function checkForQuery(query, hash) {
+  query.search(idRegex) !== -1 ?
+    processIdQuery(query, hash)
+  : null;
 }
 
 function checkForMatchingTabOrAccordion(hash) {
-  if ( document.querySelector('.tab-content a[href="' + hash.replace(endingSlashRegex, '') + '"]') ) {
-    $('.tab-content a[href="' + hash.replace(endingSlashRegex, '') + '"]').on('shown.bs.tab', function (e) {
-      window.location.search ? checkForQuery(window.location.search, hash): null;
-    })
-    $('.tab-content a[href="' + hash.replace(endingSlashRegex, '') + '"]').tab('show'); // Bootstrap 4 Tab method
-  } else if ( document.querySelector(hash.replace(endingSlashRegex, '') + '.collapse') ) {
-    $(hash.replace(endingSlashRegex, '')).on('shown.bs.collapse', function(e) {
-      window.location.search ? checkForQuery(window.location.search, hash): null;
-    })
-    $(hash.replace(endingSlashRegex, '')).collapse('show'); // Bootstrap 4 Collapse method
+  if ( document.querySelector(`.tab-content a[href="${hash}"]`) ) {  // Looks for a matching BS4 tab element
+    let tab = $(`.tab-content a[href="${hash}"]`);  // **SIGH**, BS4 requires JQuery
+
+    tab
+      .on('shown.bs.tab', () => {  // Bootstrap 4 method for tab events // Must be defined before the tab is activated
+        window.location.search ?
+          checkForQuery(window.location.search.replace(/^\?/g, ''), hash)
+          : null; })
+      .tab('show');  // Bootstrap 4 Tab method
+  } else if ( document.querySelector(`${hash}.collapse`) ) {  // Looks for a matching BS4 collapse element
+    let card = $(hash);  // **SIGH**, BS4 requires JQuery
+
+    card
+      .on('shown.bs.collapse', () => {  // Bootstrap 4 Collapse method // Must be defined before the collapse is activated
+        window.location.search ?
+          checkForQuery(window.location.search.replace(/^\?/g, ''), hash)
+        : null; })
+      .collapse('show'); // Bootstrap 4 Collapse method
   }
 }
 
 function checkForHash() {
-  if (window.location.hash) {
-    checkForMatchingTabOrAccordion(window.location.hash);
-  }
+  window.location.hash ?
+    checkForMatchingTabOrAccordion(window.location.hash.replace(/^\/$/g))
+  : null;
 }
 
 function makeTabsLinkable() {
   checkForHash();
-
   window.addEventListener('hashchange', checkForHash, false);
 }
 
