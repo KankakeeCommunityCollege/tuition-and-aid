@@ -7,8 +7,8 @@
 //         - look inside the opened accordion for an element with the id 'course-withdrawals', and
 //         - scroll that matching element into the user's viewport (in this case it's a heading within that accordion card)
 //
-//  This JS will allow us to link to a specific area of content in a page where a triditional hash link wouldn't work
-//  In this case hash links won't work because the element witht he matching ID is "stuck" in a closed accordion or tab.
+//  This JS will allow us to link to a specific area of content in a page where a traditional hash link wouldn't work
+//  In this case hash links won't work because the element with he matching ID is "stuck" in a closed accordion or tab.
 //
 const idRegex = /^id=/g; // Lets just cache these reused regex's here
 const queryStartRegex = /^\?/g;
@@ -34,7 +34,7 @@ function checkForMatchingTabOrAccordion(hash) {
     tab
       .on('shown.bs.tab', () => {  // Bootstrap 4 method for tab events // Must be defined before the tab is activated
         window.location.search ?
-          checkForQuery(window.location.search.replace(/^\?/g, ''), hash)
+          checkForQuery(window.location.search.replace(queryStartRegex, ''), hash)
           : null; })
       .tab('show');  // Bootstrap 4 Tab method
   } else if ( document.querySelector(`${hash}.collapse`) ) {  // Looks for a matching BS4 collapse element
@@ -43,7 +43,7 @@ function checkForMatchingTabOrAccordion(hash) {
     card
       .on('shown.bs.collapse', () => {  // Bootstrap 4 Collapse method // Must be defined before the collapse is activated
         window.location.search ?
-          checkForQuery(window.location.search.replace(/^\?/g, ''), hash)
+          checkForQuery(window.location.search.replace(queryStartRegex, ''), hash)
         : null; })
       .collapse('show'); // Bootstrap 4 Collapse method
   }
@@ -51,7 +51,7 @@ function checkForMatchingTabOrAccordion(hash) {
 
 function checkForHash() {
   window.location.hash ?
-    checkForMatchingTabOrAccordion(window.location.hash.replace(/^\/$/g))
+    checkForMatchingTabOrAccordion(window.location.hash.replace(endingSlashRegex, ''))
   : null;
 }
 
