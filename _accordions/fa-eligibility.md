@@ -23,7 +23,7 @@ Conviction of drug distribution or possession may make you ineligible.
 *[KCC RISE ACT flier and information](../uploads/kcc-rise-act-flier-and-info.pdf){: target="_blank" rel="noopener noreferrer" }
 
 ### Maintaining Financial Aid Eligibility
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 To maintain your eligibility to receive financial aid once you are enrolled at KCC, you must meet Satisfactory Academic Progress (SAP) requirements:
 

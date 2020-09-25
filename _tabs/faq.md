@@ -5,14 +5,14 @@ order: 1
 ---
 
 ### What Is a Financial Aid Eligibility Date?
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 The financial aid he financial aid _**eligibility date**_, is the day that the Office of Financial Aid takes a &ldquo;snapshot&rdquo; of your total enrollment to determine your Title IV<sup>\*</sup> federal award eligibility for the semester. This &ldquo;snapshot&rdquo; locks in the number of eligible credit hours upon which your financial aid award is based.
 
 The eligibility date applies to all courses, even those beginning later in the semester.
 
 ### When Is The Eligibility Date?
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 Upcoming eligibility dates
 
@@ -21,7 +21,7 @@ Upcoming eligibility dates
 - Summer 2020: June 5, 2020
 
 ### What Does the Eligibility Date Mean to Me?
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 Finalize your schedule by the eligibility date to receive the most aid possible.
 Title IV<sup>\*</sup> federal award payments are calculated based on your enrollment at the eligibility date. All enrollment activity (adding a class, dropping a class, withdrawing a class, etc.) before the eligibility date impacts your financial aid enrollment status and awards.
@@ -30,7 +30,7 @@ Title IV<sup>\*</sup> federal award payments are calculated based on your enroll
 - **If you add courses after the eligibility date**: The new classes will not be included in your total enrollment _for financial aid purposes_. Your Title IV<sup>\*</sup> federal **awards will NOT increase**.
 
 ### What Else Affects Financial Aid Awards?
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 - Financial aid can only be awarded for courses that are required in your academic program.
 - Financial aid is calculated based on enrollment status. Enrollment status may also be affected by limitations on repeated or remedial coursework.

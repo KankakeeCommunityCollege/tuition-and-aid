@@ -5,7 +5,7 @@ order: 4
 ---
 
 ### Need a Job?
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 Consider student employment:
 
@@ -17,7 +17,7 @@ Consider student employment:
 Depending on the position, you can work up to 20 hours a week during the fall and spring semesters and up to 29 hours a week during the summer. Most student employment positions pay minimum wage.
 
 ### Requirements
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 To be eligible for student employment, you must
 
@@ -27,7 +27,7 @@ To be eligible for student employment, you must
 - complete a Free Application for Federal Student Aid (FAFSA). _Even if you believe you wouldn't qualify for financial aid grants, you might qualify for Federal Work Study programs which would make you eligible for more student jobs at KCC._
 
 ### Apply online
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 All student employment opportunities will be posted through [KCC's job openings site](https://www.governmentjobs.com/careers/kankakeecc/transferjobs){: target="_blank" rel="noopener noreferrer" }. Applications are completed online. Below are the types of student employment available.
 
