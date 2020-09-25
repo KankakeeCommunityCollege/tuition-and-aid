@@ -5,10 +5,10 @@ order: 5
 ---
 
 ### CARES Act information
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 #### ​COVID-19 Emergency Funding for Students
-{: .typography__h4 }
+{: .typography__h4 .links__offset }
 
 If you are a KCC student with expenses related to the disruption of campus operations because of COVID-19, you may qualify for federal CARES Act grant assistance.
 
@@ -19,7 +19,7 @@ This grant provides emergency supplemental assistance intended to alleviate the 
 The application process is currently closed. If you are in need of emergency funding or would like to discuss other options, please contact the [KCC Office of Financial Aid](mailto:finaid@kcc.edu).
 
 #### Eligibility
-{: .typography__h4 }
+{: .typography__h4 .links__offset }
 
 To confirm you are an eligible or could be eligible student to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965, as amended (HEA):
 
@@ -37,7 +37,7 @@ To confirm you are an eligible or could be eligible student to participate in pr
 - Not have a federal or state conviction for drug possession or sale, with certain time limitations.
 
 #### Frequently Asked Questions
-{: .typography__h4 }
+{: .typography__h4 .links__offset }
 
 Does the money need to be repaid? No, money received through this fund is a grant and does not need to be repaid.
 
@@ -52,10 +52,10 @@ Who can I call for more information? If you have questions or need more informat
 You may also check [KCC’s Coronavirus Response webpage](https://coronavirus.kcc.edu/) for additional information on KCC's response to COVID-19.​
 
 ### Higher Education Emergency Relief Fund Reporting
-{: .typography__h3 }
+{: .typography__h3 .links__offset }
 
 #### ​Emergency Financial Aid Grants to Students
-{: .typography__h4 }
+{: .typography__h4 .links__offset }
 
 The following information is provided by Kankakee Community College (KCC) as required by the U.S. Department of Education in order to comply with reporting requirement under the CARES Act. Report Date: July 1, 2020.
 
