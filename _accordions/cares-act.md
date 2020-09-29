@@ -14,7 +14,7 @@ If you are a KCC student with expenses related to the disruption of campus opera
 
 This grant provides emergency supplemental assistance intended to alleviate the damage, loss, hardship, or suffering caused by the disruption of campus operations due to coronavirus such as food, housing, course materials, technology, health care and child care. To participate, a student must be eligible to participate in programs under Section 484 in Title IV of the Higher Education Act of 1965, as amended.
 
-[View KCC's Higher Education Emergency Relief Fund reporting page](http://www.kcc.edu/future/paying/fedstateaid/Pages/higher-education-emergency-relief-fund-reporting.aspx)
+View KCC's [Higher Education Emergency Relief Fund reporting](#higher-education-emergency-relief-fund-reporting)
 
 The application process is currently closed. If you are in need of emergency funding or would like to discuss other options, please contact the [KCC Office of Financial Aid](mailto:finaid@kcc.edu).
 
@@ -72,4 +72,4 @@ The following information is provided by Kankakee Community College (KCC) as req
 6. **Report requirement:** The method(s) used by the institution to determine which students receive Emergency Financial Aid Grants and how much they would receive under Section 18004(a)(1) of the CARES Act. <br>
 **Response:** On May 7, 2020, a mass e-mail was sent to KCC’s spring 2020 undergraduate students.  The email provided information regarding the emergency funding to students through the CARES Act Higher Education Emergency Relief Fund (HEERF). A direct link to learn more and apply for the funding was included in the email. The Office of Financial Aid will review and approve applications received. Awards will be given on a case-by-case basis and will not exceed the maximum PELL Grant award based on the applicable academic year. Students who applied and did not meet eligibility guidelines provided by the U.S. Department of Education will be contacted by phone and/or email to discuss resources available to them including resources available through KCC’s Foundation Office.
 7. **Report requirement:** Any instructions, directions, or guidance provided by the institution to students concerning the Emergency Financial Aid Grants. <br>
-**Response:** This is a [PDF of the email](/uploads/cares-act_email_5-7-20.pdf){: target='_blank' rel='noopener noreferrer' } which was sent.
+**Response:** This is a [PDF of the email](./uploads/cares-act_email_5-7-20.pdf){: target='_blank' rel='noopener noreferrer' } which was sent.
