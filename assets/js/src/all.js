@@ -1,6 +1,6 @@
-import makeTabsLinkable from './tabLink.js';
+import test from './test.js';
 //import './babelTest.js';
 
 document.addEventListener('DOMContentLoaded', function() {
-  makeTabsLinkable();
+  test();
 });
