@@ -4,7 +4,7 @@ card_heading: 'Types of Financial Aid'
 order: 2
 ---
 
-Three types of financial assistance make up the majority of aid provided by the federal government and the state of Illinois: grant assistance, loan assistance, and work-study assistance.
+Three types of financial assistance make up the majority of aid provided by the federal government and the state of Illinois: grant assistance, loan assistance and work-study assistance.
 
 ### Grants
 {: .typography__h3.links__offset}
@@ -45,7 +45,7 @@ For more information on federal student loan interest rates and repayment, pleas
 #### Federal PLUS Loan
 {: .typography__h5.links__offset}
 
-These loans provide for parents who want to borrow to help pay for their child's education. The interest rate for plus loans first disbursed on or after July 1, 2018, will increase from 7 percent to 7.595 percent. A Parent PLUS Loan Application is available by contacting the KCC Office of Financial Aid; Parents must also request a PLUS Loan at www.studentloans.gov for an updated credit report to be considered.
+These loans provide for parents who want to borrow to help pay for their child's education. The interest rate for plus loans first disbursed on or after July 1, 2018, will increase from 7 percent to 7.595 percent. A Parent PLUS Loan Application is available by contacting the KCC Office of Financial Aid. Parents must also request a PLUS Loan at www.studentloans.gov for an updated credit report to be considered.
 
 ### Work Study
 {: .typography__h3.links__offset}
