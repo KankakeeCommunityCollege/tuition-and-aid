@@ -1,13 +1,15 @@
 ---
 layout: default-core
 baseurl: '../'
-title: Financial Aid
+title: Net Price Calculator
 description: ''
 ---
 
 <main class="container">
   <div class="row">
     <div class="col">
+      {% include breadcrumbs.html %}
+      <h2 class="typography__h2">{{ page.title }}</h2>
       <iframe src="{{ page.baseurl }}calculator-html/"
         title="iframe Example 1" width="100%" height="100%" class="iframe">
       </iframe>

@@ -4,17 +4,19 @@ homepage: true
 baseurl: ''
 title: 'Tuition & Aid'
 description: ''
-slides:
-  - image: uploads/D4S_8520_pay.jpg
-    alt-text: "Chelsea Schroeder in the College Center"
-    url: '#'
-#   text:
+hero_banner: uploads/D4S_8520_pay.jpg
+hero_banner_alt: "Chelsea Schroeder in the College Center"
 ---
 
 <main class="container">
   <div class="row">
     <div class="col">
-      {% include hero-slider.html %}
+      <img
+        src="{{ page.baseurl }}{{ page.hero_banner }}"
+        class="img-fluid img__full-width mb-3"
+        alt="{{ page.hero_banner_alt }}">
+      {% include breadcrumbs.html %}
+      <h2 class="typography__h2">{{ page.title }}</h2>
       {% include accordion.html %}
     </div>
   </div>
