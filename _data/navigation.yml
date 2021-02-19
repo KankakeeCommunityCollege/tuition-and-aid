@@ -84,8 +84,8 @@
       href: 'student-complaint-policy'
     - text: Career Resources
       href: 'career-resources'
-    - text: Food Pantry
-      href: 'food-pantry'
+    - text: Start the Semester Right
+      href: 'welcome'
 - link_text: Community
   link_href: 'community'
   image:
@@ -112,17 +112,21 @@
       href: 'leadership'
     - text: Board of Trustees
       href: board-of-trustees
-    - text: 'Police & Safety'
-      href: 'police-and-safety'
     - text: Human Resources
       href: 'human-resources'
-    - text: Directory
-      href: 'directory'
+    - text: Directories
+      href: 'directories'
     - text: ITS
       href: 'its'
     - text: Marketing
       href: 'marketing'
     - text: 'Institutional Effectiveness'
       href: 'institutional-effectiveness'
+    - text: 'Police & Safety'
+      href: 'police-and-safety'
+    - text: 'Student Code of Conduct'
+      href: 'code-of-conduct'
+    - text: 'Title IX'
+      href: 'title-ix'
     - text: 'Contact Us'
       href: 'contact-us'
