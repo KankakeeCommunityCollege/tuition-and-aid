@@ -1,10 +1,10 @@
 title: "Kankakee Community College"
 site_name: Tuition & Aid
 public-url: "https://www.kcc.edu" ## This gets generated into the link that displays in the footer (the one above the social icons)
-url: 'URL is needed for robots.txt to work properly' ## NO TRAILING SLASHES!!/<--nope
+url: 'https://www.kcc.edu/tuition-and-aid' ## NO TRAILING SLASHES!!/<--nope
 timezone: America/Chicago
 theme: "kcc-gem-theme"
-google-tag_key: Google Tag Manager key goes here
+google-tag_key: GTM-KTGWMMW
 core_site: true
 humans_file: true
 # BUILD
