@@ -65,7 +65,7 @@ All amounts are effective Summer 2020. Rates are subject to change without notic
 </table>
 
 
-**In-district** residency is defined as living in <a href="" class="btn btn-link disabled" tabindex="-1" aria-hidden="true">KCC's service area</a>, Community College District 520.
+**In-district** residency is defined as living in <a href="../about/#service-area">KCC's service area</a>, Community College District 520.
 
 **Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
 
