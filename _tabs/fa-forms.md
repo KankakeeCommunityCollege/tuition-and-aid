@@ -10,7 +10,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 {: .typography__h3.links__offset}
 
 * [KCC Financial Aid Handbook 2020-21](../uploads/pdf/20-21%20Financial%20Aid%20Handbook_opt.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2020-21 Financial Aid Important Information](../uploads/pdf/21-22%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2020-21 Financial Aid Important Information](../uploads/pdf/20-21%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2021-22 Financial Aid Important Information](../uploads/pdf/21-22%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2020-21 Financial Aid Calendar](../uploads/pdf/2020-21%20Financial%20Aid%20Calendar_and%20Quick%20Info.pdf){: target='_blank' rel='noopener noreferrer' }
 * [2021-22 Financial Aid Calendar](../uploads/pdf/21-22%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener noreferrer' }
 
