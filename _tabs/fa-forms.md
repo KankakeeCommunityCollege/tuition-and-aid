@@ -9,7 +9,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-* [KCC Financial Aid Handbook 2020-2](/uploads/20-21FinancialAidHandbook.pdf){: target="_blank" rel="noopener noreferrer"}1
+* [KCC Financial Aid Handbook 2020-21](../uploads/20-21FinancialAidHandbook.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2019-20 Financial Aid Important Information](../uploads/19-20-financial-aid-important-information.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2020-21 Financial Aid Important Information​](https://my.kcc.edu/services/financialaid/Documents/20-21%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
 
