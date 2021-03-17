@@ -19,42 +19,42 @@ Payment deadlines may vary based on your registration dates. Full payments are a
   </thead>
   <tbody>
     <tr>
-      <th>Spring 2020</th>
-      <td>In person/online: Jan 22, 2019 - the end of registration.</td>
+      <th>Spring 2021</th>
+      <td>&nbsp;</td>
       <td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td>
     </tr>
     <tr>
-      <th rowspan="4">Summer 2020</th>
-      <td>Online: March 16 - May 8, 2019</td>
-      <td>by 5 p.m., May 8, 2019</td>
+      <th rowspan="4">Summer 2021</th>
+      <td>Online: March 15 – May 7, 2021</td>
+      <td>by 5 p.m., May 7</td>
     </tr>
     <tr>
-      <td>In person: March 23 - May 8, 2019</td>
-    <td>by 5 p.m., May 8, 2019</td>
+      <td>In person: March 22 – May 7, 2021</td>
+    <td>by 5pm, May 7</td>
     </tr>
     <tr>
-      <td>In person/online: May 8 - June 9, 2019</td>
-      <td>by 6 p.m., Jun. 9, 2019</td>
+      <td>In person/online: May 8 – June 15, 2021</td>
+      <td>by 6pm June 15</td>
     </tr>
     <tr>
-      <td>In person/online: June 9 , 2019 - the end of registration.</td>
+      <td>In person/online: June 15-end of registration</td>
       <td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td>
     </tr>
     <tr>
-      <th rowspan="4">Fall 2019</th>
-      <td>Online: April 1 - Aug. 2, 2019</td>
-      <td>by 5 p.m., Aug. 2, 2019</td>
+      <th rowspan="4">Fall 2021</th>
+      <td>Online: April 5 –July 29, 2021</td>
+      <td>by 6pm, July 29</td>
     </tr>
     <tr>
-      <td>In person: April 8 - Aug. 2, 2019</td>
-      <td>by 5 p.m., Aug. 2, 2019</td>
+      <td>In person: April 12 – July 29, 2021</td>
+      <td>by 6pm July 29</td>
     </tr>
     <tr>
-      <td>In person/online: Aug. 3 - Sept. 3, 2019</td>
-      <td>by 6 p.m., Sept. 3, 2019</td>
+      <td>In person/online: July 29 – August 31, 2021</td>
+      <td>by 6pm August 31</td>
     </tr>
     <tr>
-      <td>In person/online: Sept. 4 - the end of registration.</td>
+      <td>In person/online: August 31 – end of registration</td>
       <td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td>
     </tr>
   </tbody>
