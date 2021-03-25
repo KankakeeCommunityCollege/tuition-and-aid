@@ -39,6 +39,12 @@ function gulpSitemap(done) {
   })
     .pipe(sitemap({
       siteUrl: (config.sitemap.siteUrl),
+      mappings: [{
+        pages: [ '*.pdf', 'uploads/*.pdf', 'uploads/docs/*.pdf', 'uploads/pdf/*.pdf'],
+        getLoc(siteUrl, loc, entry) {
+            return loc.replace(/\s/g, '%20');
+        }
+      }]
     }))
     .pipe(gulpif(PRODUCTION, gulp.dest('./')))
     .pipe(gulpif(PRODUCTION, gulp.dest('./_site')));
