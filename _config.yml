@@ -7,7 +7,6 @@ theme: "kcc-gem-theme"
 google-tag_key: GTM-TNVWT2L
 core_site: true
 humans_file: true
-# BUILD
 #translate: true ## Uncomment to activate Google Translate Powers!!
 nav_links:
   - link_text: Home
