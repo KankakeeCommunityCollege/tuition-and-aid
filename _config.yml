@@ -6,6 +6,7 @@ timezone: America/Chicago
 theme: "kcc-gem-theme"
 google-tag_key: GTM-TNVWT2L
 core_site: true
+# BUILD
 humans_file: true
 #translate: true ## Uncomment to activate Google Translate Powers!!
 nav_links:
