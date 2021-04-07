@@ -70,4 +70,4 @@ The following information is provided by Kankakee Community College (KCC) as req
 
 - [Quarter 1 CARES & Institutional Portion Reporting PDF](./uploads/pdf/Quarter%201%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
 - [Quarter 2 CARES & Institutional Portion Reporting PDF](./uploads/pdf/Quarter%202%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
-- [Quarter 3 CARES & Institutional Portion Reporting](./uploads/pdf/Quarter%203%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
+- [Quarter 3 CARES & Institutional Portion Reporting PDF](./uploads/pdf/Quarter%203%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
