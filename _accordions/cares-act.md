@@ -59,12 +59,15 @@ You may also check [KCC’s Coronavirus Response webpage](https://coronavirus.kc
 
 The following information is provided by Kankakee Community College (KCC) as required by the U.S. Department of Education in order to comply with reporting requirement under the CARES Act.
 
-- [HEERF Report May 2020 PDF](./uploads/HEERF%20Report%20May%202020.pdf){: target='_blank' rel='noopener noreferrer' }
-- [HEERF Report July 2020 PDF](./uploads/HEERF%20Report%20July%202020.pdf){: target='_blank' rel='noopener noreferrer' }
-- [HEERF Report October 2020 PDF](./uploads/HEERF%20Report%20October%202020.pdf){: target='_blank' rel='noopener noreferrer' }
-- [HEERF Report January 2021 PDF](./uploads/HEERF%20Report%20January%202021.pdf){: target='_blank' rel='noopener noreferrer' }
+- [HEERF Report May 2020 PDF](./uploads/pdf/HEERF%20Report%20May%202020.pdf){: target='_blank' rel='noopener noreferrer' }
+- [HEERF Report July 2020 PDF](./uploads/pdf/HEERF%20Report%20July%202020.pdf){: target='_blank' rel='noopener noreferrer' }
+- [HEERF Report October 2020 PDF](./uploads/pdf/HEERF%20Report%20October%202020.pdf){: target='_blank' rel='noopener noreferrer' }
+- [HEERF Report January 2021 PDF](./uploads/pdf/HEERF%20Report%20January%202021.pdf){: target='_blank' rel='noopener noreferrer' }
+- [HEERF Report April 2021 PDF](./uploads/pdf/HEERF%20Report%20April%202021.pdf){: target='_blank' rel='noopener noreferrer' }
 
 #### Quarterly Budget and Expenditure Reporting under CARES Act Sections 18004(a)(1) Institutional Portion, 18004(a)(2), and 18004(a)(3)
 {: .typography__h4 }
 
-- [Quarter 2 CARES & Institutional Portion Reporting PDF](./uploads/Quarter%202%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
+- [Quarter 1 CARES & Institutional Portion Reporting PDF](./uploads/pdf/Quarter%201%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
+- [Quarter 2 CARES & Institutional Portion Reporting PDF](./uploads/pdf/Quarter%202%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
+- [Quarter 3 CARES & Institutional Portion Reporting](./uploads/pdf/Quarter%203%20CARES%20&%20Institutional%20Portion%20Reporting.pdf){: target='_blank' rel='noopener noreferrer' }
