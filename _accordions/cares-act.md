@@ -1,7 +1,7 @@
 ---
 accordion_page: 'Tuition & Aid'
 card_heading: 'CARES Act information & Reporting'
-order: 5
+order: 6
 ---
 
 ### CARES Act Information
