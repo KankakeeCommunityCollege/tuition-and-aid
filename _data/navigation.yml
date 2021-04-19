@@ -118,6 +118,7 @@
       href: 'https://wioa.kcc.edu/'
 - link_text: About KCC
   link_href: 'about'
+  link_nav: 'about'
   image:
     source: 'assets/img/ATEC-DSC_1033.jpeg'
     alt: 'The new Advanced Technology Education Center building'
