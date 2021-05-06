@@ -4,11 +4,11 @@ const HashPlugin = require('hash-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 const config = {
-  watch: true,
   //entry: path.join(__dirname, 'webpack', 'main'),
+  mode: 'production',
   entry: {
     'main': './assets/js/src/all.js',
-    'slim': './assets/js/slim/slim.js'
+    //'slim': './assets/js/slim/slim.js'
   },
   output: {
     filename: '[name].[hash].bundle.js',
