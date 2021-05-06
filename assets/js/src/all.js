@@ -1,6 +1,9 @@
-import test from './test.js';
 //import './babelTest.js';
 
 document.addEventListener('DOMContentLoaded', function() {
-  test();
+  if (window.location.pathname.search(/\/net-price-calculator\//g) !== -1 ) {
+    import(/* webpackChunkName: 'netPriceCalcDarkMode' */ './netPriceCalcDarkMode').then(({default: netPriceCalcDarkMode}) => {
+      netPriceCalcDarkMode();
+    });
+  }
 });

@@ -12,7 +12,12 @@ const config = {
   },
   output: {
     filename: '[name].[hash].bundle.js',
-    path: path.resolve(__dirname, 'assets', 'js', 'dist')
+    path: path.resolve(__dirname, 'assets', 'js', 'dist'),
+    publicPath: '/assets/js/dist/'
+  },
+  optimization: {
+    namedModules: true,
+    namedChunks: true,
   },
   module: {
     rules: [
