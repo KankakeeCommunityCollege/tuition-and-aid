@@ -1,4 +1,4 @@
-//import './babelTest.js';
+import '../../scss/main.scss';
 import netPriceCalcDarkMode from './netPriceCalcDarkMode.js';
 
 document.addEventListener('DOMContentLoaded', function() {
