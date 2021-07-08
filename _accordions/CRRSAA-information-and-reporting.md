@@ -68,3 +68,9 @@ If you have questions or need more information, call or email KCC’s Office of 
 
 ### CRRSAA Reporting
 {: .typography__h3.links__offset}
+
+#### Emergency Financial Aid Grants to Students
+{: .typography__h4 }
+
+- [Quarter 1 Report for HEERF II CRRSAA](./uploads/pdf/Quarter%201%20Report%20for%20HEERF%20II%20CRRSAA.pdf){: target='_blank' rel='noopener noreferrer' }
+- [Quarter 2 Report for HEERF II CRRSAA](./uploads/pdf/Quarter%202%20Report%20for%20HEERF%20II%20CRRSAA.pdf){: target='_blank' rel='noopener noreferrer' }
