@@ -6,15 +6,22 @@ title: Tuition & Aid
 description:
 hero_banner: uploads/relief-fund-web-banner-fall-21.jpg
 hero_banner_alt: 'Fall 2021 credit students: Relief funds available'
+hero_banner_link: '#crrsaa-information-and-reporting'
 ---
 
 <main class="container">
   <div class="row">
     <div class="col">
+      {% if page.hero_banner_link %}
+      <a href="{{ page.hero_banner_link }}">
+      {% endif %}
       <img
         src="{{ page.baseurl }}{{ page.hero_banner }}"
         class="img-fluid img__full-width mb-3"
         alt="{{ page.hero_banner_alt }}">
+      {% if page.hero_banner_link %}
+      </a>
+      {% endif %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
       {% include accordion.html %}
