@@ -70,7 +70,13 @@ If you have questions or need more information, call or email KCC’s Office of 
 {: .typography__h3.links__offset}
 
 #### Emergency Financial Aid Grants to Students
-{: .typography__h4 }
+{: .typography__h4.links__offset }
 
 - [Quarter 1 Report for HEERF II CRRSAA](./uploads/pdf/Quarter%201%20Report%20for%20HEERF%20II%20CRRSAA.pdf){: target='_blank' rel='noopener noreferrer' }
 - [Quarter 2 Report for HEERF II CRRSAA](./uploads/pdf/Quarter%202%20Report%20for%20HEERF%20II%20CRRSAA.pdf){: target='_blank' rel='noopener noreferrer' }
+
+#### Quarterly Budget and Expenditure Reporting under CARES Act Sections 18004(a)(1) Institutional Portion, 18004(a)(2), and 18004(a)(3)
+{: .typography__h4.links__offset }
+
+- [Quarter 1 Report for HEERF II Institutional Portion](./uploads/pdf/Quarter%201%20Report%20for%20HEERF%20II%20Institutional%20Portion.pdf){: target='_blank' rel='noopener noreferrer' }
+
