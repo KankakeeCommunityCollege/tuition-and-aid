@@ -16,7 +16,6 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* Spring 2021: Jan. 29, 2021
 * Summer 2021: June 11, 2021
 
 ### What Does the Eligibility Date Mean to Me?
