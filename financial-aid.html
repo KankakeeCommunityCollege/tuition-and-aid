@@ -3,12 +3,25 @@ layout: default-core
 baseurl: '../'
 title: Financial Aid
 description: ''
+hero_banner_image: uploads/paying-for-college-web-banner900wide.jpg
+hero_banner_alt: 'Paying for college financial aid workshop'
+hero_banner_link: uploads/pdf/paying-for-college-flier_2021.pdf
 ---
 
 <!-- Build -->
 <main class="container">
   <div class="row mb-5">
     <div class="col">
+      {% if page.hero_banner_link %}
+      <a href="{{ page.baseurl }}{{ page.hero_banner_link }}">
+      {% endif %}
+      <img
+        src="{{ page.baseurl }}{{ page.hero_banner_image }}"
+        class="img-fluid img__full-width mb-3"
+        alt="{{ page.hero_banner_alt }}">
+      {% if page.hero_banner_link %}
+      </a>
+      {% endif %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
       {% include accordion.html %}
