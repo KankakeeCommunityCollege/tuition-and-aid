@@ -4,21 +4,21 @@ tabs_page: Financial Aid
 order: 1
 ---
 
-### What Is a Financial Aid Eligibility Date?
+### What is a financial aid eligibility date?
 {: .typography__h3.links__offset}
 
 The financial aid ***eligibility date***&nbsp;is the day that the Office of Financial Aid takes a “snapshot” of your total enrollment to determine your Title IV<sup>*</sup> federal award eligibility for the semester. This “snapshot” locks in the number of eligible credit hours upon which your financial aid award is based.
 
 The eligibility date applies to all courses, even those beginning later in the semester.
 
-### When Is The Eligibility Date?
+### When is the eligibility date?
 {: .typography__h3.links__offset}
 
 Upcoming eligibility dates
 
 * Summer 2021: June 11, 2021
 
-### What Does the Eligibility Date Mean to Me?
+### What does the eligibility date mean to me?
 {: .typography__h3.links__offset}
 
 Finalize your schedule by the eligibility date to receive the most aid possible. Title IV<sup>*</sup> federal award payments are calculated based on your enrollment at the eligibility date. All enrollment activity before the eligibility date (adding a class, dropping a class, withdrawing a class, etc.) impacts your financial aid enrollment status and awards.
@@ -26,7 +26,7 @@ Finalize your schedule by the eligibility date to receive the most aid possible.
 * **If you drop/withdraw from courses after the semester begins but before the eligibility date**\: Your financial aid enrollment **status is recalculated** to exclude those courses.
 * **If you add courses after the eligibility date**\: The new classes will not be included in your total enrollment *for financial aid purposes*. Your Title IV<sup>*</sup> federal **awards will NOT increase**.
 
-### What Else Affects Financial Aid Awards?
+### What else affects financial aid awards?
 {: .typography__h3.links__offset}
 
 * Financial aid can only be awarded for courses that are required in your academic program.

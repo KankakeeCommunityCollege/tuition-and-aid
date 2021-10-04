@@ -9,16 +9,13 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-* [KCC Financial Aid Handbook 2020-21](../uploads/pdf/20-21%20Financial%20Aid%20Handbook_opt.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2020-21 Financial Aid Important Information](../uploads/pdf/20-21%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
+* [KCC Financial Aid Handbook 2021-22](../uploads/pdf/21-22FinancialAidHandbook.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2021-22 Financial Aid Important Information](../uploads/pdf/21-22%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2020-21 Financial Aid Calendar](../uploads/pdf/2020-21%20Financial%20Aid%20Calendar_and%20Quick%20Info.pdf){: target='_blank' rel='noopener noreferrer' }
-* [2021-22 Financial Aid Calendar](../uploads/pdf/21-22%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener noreferrer' }
+* [2021-22 Financial Aid Calendar](../uploads/pdf/21-22%20Financial%20Aid%20Calendar.pdf){: target="_blank" rel="noopener noreferrer"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
-* [2020-21 Map Award Announcement](../uploads/pdf/20-21%20MAP%20Award%20Announcement.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2021-22 Map Award Announcement​](../uploads/pdf/21-22%20MAP%20Award%20Announcement.pdf){: target="_blank" rel="noopener noreferrer"}
 
 ### Verification selection
