@@ -17,24 +17,24 @@ Payment deadlines may vary based on your registration dates. Full payments are a
 Following are the payment options at KCC:
 
 #### Cash - Check - Credit Card
-{: .typography__h5.links__offset}
+{: .typography__h4.links__offset}
 
 * Cash is accepted only if you are registering in person. Do not mail cash.
 * Personal checks can be mailed or presented in person. Make checks payable to Kankakee Community College.
 * We accept the following credit cards: VISA, Discover and MasterCard. Credit card payments are accepted in person, by phone and online.
 
 #### Online
-{: .typography__h5.links__offset}
+{: .typography__h4.links__offset}
 
 To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank" rel="noopener noreferrer"} - choose Student Finance, then Make a Payment. Payments must be made in full with a credit card.
 
 #### Nelnet Payment Plan
-{: .typography__h3.links__offset}
+{: .typography__h4.links__offset}
 
 For your convenience, we offer the Nelnet online payment plan for tuition and fees. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
 
 ##### Before You Sign Up
-{: .typography__h3.links__offset}
+{: .typography__h5.links__offset}
 
 **Initial Account Balance** — Tuition and fees must total at least $195 per semester to enroll in the payment plan. You must re-enroll each semester.
 
@@ -45,7 +45,7 @@ You must report changes (to adjust/cancel scheduled payments) due to financial a
 **Payment Plan Enrollment Dates** — KCC tuition due dates and payment plan enrollment dates are NOT the same. You must complete a payment plan agreement before the last day to pay for preregistered classes. Failure to do so may result in you being dropped from your classes for non-payment.
 
 ##### Start a Payment Plan
-{: .typography__h3.links__offset}
+{: .typography__h5.links__offset}
 
 1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank" rel="noopener noreferrer"} portal.
 2. Under College Applications, click Student Self-Service
@@ -53,7 +53,7 @@ You must report changes (to adjust/cancel scheduled payments) due to financial a
 4. In the Student Finance drop-down, choose Nelnet Payment Plan
 
 #### Payment Policy
-{: .typography__h3.links__offset}
+{: .typography__h4.links__offset}
 
 You must pay for your classes in full by the published payment deadlines. KCC does not deregister students from courses for non-payment after the refund date for a class. It is your responsibility to drop a class by the refund date or you will be obligated to pay for it.
 
