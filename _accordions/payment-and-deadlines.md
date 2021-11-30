@@ -52,8 +52,8 @@ You must report changes (to adjust/cancel scheduled payments) due to financial a
 3. Choose Student Finance
 4. In the Student Finance drop-down, choose Nelnet Payment Plan
 
-#### Payment Policy
-{: .typography__h4.links__offset}
+### Payment Policy
+{: .typography__h3.links__offset}
 
 You must pay for your classes in full by the published payment deadlines. KCC does not deregister students from courses for non-payment after the refund date for a class. It is your responsibility to drop a class by the refund date or you will be obligated to pay for it.
 
