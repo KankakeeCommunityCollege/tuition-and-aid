@@ -33,8 +33,6 @@ To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/
 
 For your convenience, we offer the Nelnet online payment plan for tuition and fees. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
 
-KCC has partnered with Nelnet Business Solutions (NBS) to offer a convenient payment plan for managing tuition and fees.
-
 ##### Before You Sign Up
 {: .typography__h3.links__offset}
 
