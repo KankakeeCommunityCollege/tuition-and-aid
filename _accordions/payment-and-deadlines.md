@@ -28,36 +28,25 @@ Following are the payment options at KCC:
 
 To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank" rel="noopener noreferrer"} - choose Student Finance, then Make a Payment. Payments must be made in full with a credit card.
 
-### Nelnet Payment Plan
+#### Nelnet Payment Plan
 {: .typography__h3.links__offset}
 
-For your convenience, we offer an online tuition payment plan called Nelnet. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
+For your convenience, we offer the Nelnet online payment plan for tuition and fees. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
 
 KCC has partnered with Nelnet Business Solutions (NBS) to offer a convenient payment plan for managing tuition and fees.
 
-### Before You Sign Up
+##### Before You Sign Up
 {: .typography__h3.links__offset}
 
-Keep in mind these facts about your initial account balance, balance changes and payment plan enrollment dates.
+**Initial Account Balance** — Tuition and fees must total at least $195 per semester to enroll in the payment plan. You must re-enroll each semester.
 
-#### Initial Account Balance
-{: .typography__h5.links__offset}
-
-Tuition and fees must total at least $195 per semester to enroll in the payment plan. You must re-enroll each semester.
-
-#### Balance Changes
-{: .typography__h5.links__offset}
-
-Your Nelnet contract will be calculated based on current charges at time of enrollment. If you add or remove courses after you enroll in an Nelnet contract, your charges will be **automatically updated**.
+**Balance Changes** — Your Nelnet contract will be calculated based on current charges at time of enrollment. If you add or remove courses after you enroll in an Nelnet contract, your charges will be **automatically updated**.
 
 You must report changes (to adjust/cancel scheduled payments) due to financial aid approval, scholarship payment, etc. to KCC's Accounting Office a minimum of 10 business days before the Nelnet automatic withdrawal date.
 
-#### Payment Plan Enrollment Dates
-{: .typography__h5.links__offset}
+**Payment Plan Enrollment Dates** — KCC tuition due dates and payment plan enrollment dates are NOT the same. You must complete a payment plan agreement before the last day to pay for preregistered classes. Failure to do so may result in you being dropped from your classes for non-payment.
 
-KCC tuition due dates and payment plan enrollment dates are NOT the same. You must complete a payment plan agreement before the last day to pay for preregistered classes. Failure to do so may result in you being dropped from your classes for non-payment.
-
-### Start a Payment Plan
+##### Start a Payment Plan
 {: .typography__h3.links__offset}
 
 1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank" rel="noopener noreferrer"} portal.
@@ -65,7 +54,7 @@ KCC tuition due dates and payment plan enrollment dates are NOT the same. You mu
 3. Choose Student Finance
 4. In the Student Finance drop-down, choose Nelnet Payment Plan
 
-### Payment Policy
+#### Payment Policy
 {: .typography__h3.links__offset}
 
 You must pay for your classes in full by the published payment deadlines. KCC does not deregister students from courses for non-payment after the refund date for a class. It is your responsibility to drop a class by the refund date or you will be obligated to pay for it.
