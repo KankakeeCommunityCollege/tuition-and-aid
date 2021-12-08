@@ -11,15 +11,33 @@ slides:
 - image: uploads/relief-fund-web-banner-fall-21.jpg
   alt-text: 'Fall 2021 credit students: Relief funds available'
   url: 'https://coronavirus.kcc.edu/kcc-resources/#crrsaa-information-and-reporting'
-hero_banner: 
-hero_banner_alt: 
-hero_banner_link: 
+hero_banner: uploads/relief-fund-web-banner-fall-21.jpg
+hero_banner_alt: 'Fall 2021 credit students: Relief funds available'
+hero_banner_link: 'https://coronavirus.kcc.edu/kcc-resources/#crrsaa-information-and-reporting'
 ---
 
 <main class="container">
+  {%- comment -%}
+  <!-- Uncomment to add hero-sider -->
   {% include hero-slider.html %}
+  {%- endcomment -%}
   <div class="row">
     <div class="col">
+      {%- comment -%}
+      To switch from a banner to a slider:
+        - Comment-out below: from `{% if page.hero_banner_link %}` to the matching `{% endif %}`
+        - Uncomment the above include statement: `{% includes hero-slider.html %}`
+      {%- endcomment -%}
+      {% if page.hero_banner_link %}
+      <a href="{{ page.hero_banner_link }}">
+      {% endif %}
+      <img
+        src="{{ page.baseurl }}{{ page.hero_banner }}"
+        class="img-fluid img__full-width mb-3"
+        alt="{{ page.hero_banner_alt }}">
+      {% if page.hero_banner_link %}
+      </a>
+      {% endif %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
       {% include accordion.html %}
