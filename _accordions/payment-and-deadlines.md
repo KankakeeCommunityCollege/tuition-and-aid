@@ -9,7 +9,7 @@ order: 2
 
 Payment deadlines may vary based on your registration dates. Full payments are accepted online, via Student Self-Service, or in the college Accounting Office, located in Student Affairs in the east wing on the second floor of the main building.
 
-<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="4">Summer 2021</th><td>Online: March 15 &ndash; May 7, 2021</td><td>by 5 p.m., May 7</td></tr><tr><td>In person: March 22 &ndash; May 7, 2021</td><td>by 5 pm, May 7</td></tr><tr><td>In person/online: May 8 &ndash; June 15, 2021</td><td>by 6 pm, June 15</td></tr><tr><td>In person/online: June 15 -end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td></tr><tr><th rowspan="4">Fall 2021</th><td>Online: April 5 &ndash; July 29, 2021</td><td>by 6 pm, July 29</td></tr><tr><td>In person: April 12 &ndash; July 29, 2021</td><td>by 6 pm July 29</td></tr><tr><td>In person/online: July 29 &ndash; Aug. 31, 2021</td><td>by 6 pm Aug. 31</td></tr><tr><td>In person/online: Aug. 31 &ndash; end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr></tbody></table>
+<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="4">Spring 2022</th><td>Online: Oct. 11 - Dec. 3, 2021</td><td>by 5 p.m., Dec. 3</td></tr><tr><td>In-person: Oct. 18 - Dec. 3, 2021</td><td>by 5 p.m., Dec. 3</td></tr><tr><td>In-person/Online: Dec. 4 - Jan. 26, 2022</td><td>by 6 p.m., Jan. 25</td></tr><tr><td>In-person/Online: Jan. 26 - end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td></tr><tr><th rowspan="4">Summer 2022</th><td>Online: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person/Online: May 7 - June 14, 2022</td><td>by 6 p.m., June 14</td></tr><tr><td>In-person/Online: June 15 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr></tbody></table>
 
 ### Tuition Payment Options
 {: .typography__h3.links__offset}
@@ -17,48 +17,35 @@ Payment deadlines may vary based on your registration dates. Full payments are a
 Following are the payment options at KCC:
 
 #### Cash - Check - Credit Card
-{: .typography__h5.links__offset}
+{: .typography__h4.links__offset}
 
 * Cash is accepted only if you are registering in person. Do not mail cash.
 * Personal checks can be mailed or presented in person. Make checks payable to Kankakee Community College.
 * We accept the following credit cards: VISA, Discover and MasterCard. Credit card payments are accepted in person, by phone and online.
 
 #### Online
-{: .typography__h5.links__offset}
+{: .typography__h4.links__offset}
 
 To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank" rel="noopener noreferrer"} - choose Student Finance, then Make a Payment. Payments must be made in full with a credit card.
 
-### Nelnet Payment Plan
-{: .typography__h3.links__offset}
+#### Nelnet Payment Plan
+{: .typography__h4.links__offset}
 
-For your convenience, we offer an online tuition payment plan called Nelnet. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
+For your convenience, we offer the Nelnet online payment plan for tuition and fees. After you sign up for Nelnet, tuition and fees are automatically deducted from your checking or savings account or credit card. Payments are spread over several months. Nelnet is not a loan program. There are no interest or finance charges. A non-refundable enrollment fee is charged each semester.
 
-KCC has partnered with Nelnet Business Solutions (NBS) to offer a convenient payment plan for managing tuition and fees.
-
-### Before You Sign Up
-{: .typography__h3.links__offset}
-
-Keep in mind these facts about your initial account balance, balance changes and payment plan enrollment dates.
-
-#### Initial Account Balance
+##### Before You Sign Up
 {: .typography__h5.links__offset}
 
-Tuition and fees must total at least $195 per semester to enroll in the payment plan. You must re-enroll each semester.
+**Initial Account Balance** — Tuition and fees must total at least $195 per semester to enroll in the payment plan. You must re-enroll each semester.
 
-#### Balance Changes
-{: .typography__h5.links__offset}
-
-Your Nelnet contract will be calculated based on current charges at time of enrollment. If you add or remove courses after you enroll in an Nelnet contract, your charges will be **automatically updated**.
+**Balance Changes** — Your Nelnet contract will be calculated based on current charges at time of enrollment. If you add or remove courses after you enroll in an Nelnet contract, your charges will be **automatically updated**.
 
 You must report changes (to adjust/cancel scheduled payments) due to financial aid approval, scholarship payment, etc. to KCC's Accounting Office a minimum of 10 business days before the Nelnet automatic withdrawal date.
 
-#### Payment Plan Enrollment Dates
+**Payment Plan Enrollment Dates** — KCC tuition due dates and payment plan enrollment dates are NOT the same. You must complete a payment plan agreement before the last day to pay for preregistered classes. Failure to do so may result in you being dropped from your classes for non-payment.
+
+##### Start a Payment Plan
 {: .typography__h5.links__offset}
-
-KCC tuition due dates and payment plan enrollment dates are NOT the same. You must complete a payment plan agreement before the last day to pay for preregistered classes. Failure to do so may result in you being dropped from your classes for non-payment.
-
-### Start a Payment Plan
-{: .typography__h3.links__offset}
 
 1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank" rel="noopener noreferrer"} portal.
 2. Under College Applications, click Student Self-Service

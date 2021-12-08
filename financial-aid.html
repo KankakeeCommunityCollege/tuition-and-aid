@@ -12,6 +12,8 @@ hero_banner_link: uploads/pdf/paying-for-college-flier_2021.pdf
 <main class="container">
   <div class="row mb-5">
     <div class="col">
+      {%- comment -%}
+      <!-- To add a hero-banner at the top of the page, uncomment the code below -->
       {% if page.hero_banner_link %}
       <a href="{{ page.baseurl }}{{ page.hero_banner_link }}">
       {% endif %}
@@ -22,6 +24,7 @@ hero_banner_link: uploads/pdf/paying-for-college-flier_2021.pdf
       {% if page.hero_banner_link %}
       </a>
       {% endif %}
+      {%- endcomment -%}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
       {% include accordion.html %}
