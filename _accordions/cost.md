@@ -40,7 +40,7 @@ All amounts have been in effect since Summer 2020. Rates are subject to change w
 ### Costs for Occupational and Health Career Programs
 {: .typography__h3.links__offset}
 
-To see specific costs, including books, clothing and equipment, for occupational and health career programs, refer to KCC's [electronic catalog](http://catalog.kcc.edu){: target="_blank" rel="noopener noreferrer"}.
+To see specific costs, including books, clothing and equipment, for occupational and health career programs, refer to KCC's [electronic catalog](https://kcc.smartcatalogiq.com/current/Academic-Catalog/Programs-of-Study-by-Area/General-information-and-electives/Info-on-Occupational-Programs){: target="_blank" rel="noopener noreferrer"}.
 
 ### Other Expenses
 {: .typography__h3.links__offset}
