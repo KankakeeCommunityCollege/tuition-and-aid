@@ -7,9 +7,11 @@ order: 1
 ### Tuition and cost to attend
 {: .typography__h3.links__offset}
 
-KCC is committed to making your education as affordable as possible. The current tuition is $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is a small fraction of the cost found at universities and for-profit institutions -- and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
+KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions -- and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
 
-Rates are subject to change without notice. [Financial aid](./financial-aid/), including grants, loans, scholarships and student employment, is also available.
+Rates are subject to change without notice.
+
+[Financial aid](./financial-aid/), including grants, loans, scholarships and student employment, is also available. There is also an [installment payment plan available from Nelnet](https://www.kcc.edu/tuition-and-aid/#tuition-payment-and-deadlines). It has a non-refundable enrollment fee each semester, but no other interest or finance charges.
 
 Your cost for classes will be based on how many credit hours you take each semester. A full-time student should take 15-16 credit hours each semester to complete an associate degree in two years.
 
