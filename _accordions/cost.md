@@ -4,24 +4,16 @@ card_heading: 'Cost to Attend'
 order: 1
 ---
 
-### Cost to Attend KCC
+### Tuition and cost to attend
 {: .typography__h3.links__offset}
 
-KCC's current tuition (per credit hour) is $146, plus $19 in fees, for a total of $165 per credit hour.
+KCC is committed to making your education as affordable as possible. The current tuition is $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is a small fraction of the cost found at universities and for-profit institutions -- and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
 
-The final cost is based on how many credit hours you take each semester. A full-time student should take 15-16 credit hours each semester to complete a KCC associate degree in two years. For example,15 credit hours will cost $2,475 for tuition and general fees. Additional course fees apply to some courses.
+Rates are subject to change without notice. [Financial aid](./financial-aid/), including grants, loans, scholarships and student employment, is also available.
 
-### Tuition
-{: .typography__h3.links__offset}
+Your cost for classes will be based on how many credit hours you take each semester. A full-time student should take 15-16 credit hours each semester to complete an associate degree in two years.
 
-#### Tuition Estimator
-{: .typography__h4.links__offset}
-
-The tuition calculator below this chart will help estimate tuition and fees.
-
-All amounts have been in effect since Summer 2020. Rates are subject to change without notice. Additional course fees apply to some courses. [Financial aid](./financial-aid/), including grants, loans, scholarships and student employment, is also available.
-
-| Residency | Tuition per credit hour | Basic fees per credit hour | Out-of-district fee | Total per credit hour |
+| Residency | Tuition per credit hour | Basic fees per credit hour | Out-of-district fee\* | Total per credit hour |
 | --- | --- | --- | --- | --- |
 | Illinois (In-district) | $146 | $19 | n/a | $165 |
 | Illinois (Out-of-district) | $146 | $19 | $275 | $440 |
@@ -29,11 +21,9 @@ All amounts have been in effect since Summer 2020. Rates are subject to change w
 | Senior citizen | n/a | $19 | n/a | $19 |
 {: .table.table-striped}
 
-**In-district** residency is defined as living in [KCC's service area](../about/#service-area), Community College District 520.
+**In-district** residency is defined as living in [KCC's service area](../about/#service-area), Community College District 520.&nbsp;**Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens still pay individual course fees.
 
-**Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
-
-**Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens also must pay any individual course fee required.
+**\*Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
 
 <div class="card p-1 mb-3"><script type="text/javascript" src="https://form.jotform.com/jsform/201115733387149"></script></div>
 
