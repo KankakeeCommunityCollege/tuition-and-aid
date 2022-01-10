@@ -16,7 +16,8 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* Summer 2021: June 11, 2021
+* **Spring 2022:** January 28, 2022
+* **Summer 2022:** June 17, 2022 
 
 ### What does the eligibility date mean to me?
 {: .typography__h3.links__offset}
