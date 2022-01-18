@@ -5,7 +5,6 @@ url: 'https://www.kcc.edu/tuition-and-aid' ## NO TRAILING SLASHES!!/<--nope
 port: 3000
 timezone: America/Chicago
 theme: "kcc-gem-theme"
-# BUILD
 google-tag_key: GTM-TNVWT2L
 core_site: true
 humans_file: true
