@@ -1,7 +1,7 @@
 ---
 name: Jason Rodriguez
 contacts_title: Financial Aid Administrative Assistant I
-display_order: 1
+display_order: 2
 portrait_image: For departments with no contact photos, do not change this field.
 ---
 
