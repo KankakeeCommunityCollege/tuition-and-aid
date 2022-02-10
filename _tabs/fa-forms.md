@@ -16,7 +16,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
-* [2021-22 Map Award Announcement​](../uploads/pdf/21-22%20MAP%20Award%20Announcement.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2022-23 Map Award Announcement​](../uploads/pdf/22-23-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener noreferrer"}
 
 ### Verification selection
 {: .typography__h3.links__offset}
