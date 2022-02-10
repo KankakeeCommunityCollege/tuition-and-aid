@@ -14,7 +14,7 @@ Whether you are hoping to receive grants, looking for student employment or need
 ### 2\. Create a Federal Student Aid Identification (FSA ID)
 {: .typography__h3.links__offset}
 
-[Create your FSA ID](http://studentaid.gov/fsaid){: target="_blank" rel="noopener noreferrer"}. Your FSA ID is used to confirm your identity when accessing your financial aid information and electronically signs your federal student aid documents.
+[Create your FSA ID](https://studentaid.gov/fsa-id/create-account/launch){: target="_blank" rel="noopener noreferrer"}. Your FSA ID is used to confirm your identity when accessing your financial aid information and electronically signs your federal student aid documents.
 
 <div class="iframe__yt--wrapper mb-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/K7ihhGk8mCY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="iframe__yt"></iframe></div>
 
