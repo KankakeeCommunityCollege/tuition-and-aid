@@ -23,7 +23,7 @@ Students, parents and borrowers are required to use an FSA ID. If you are a pare
 ### 3\. Complete a FAFSA
 {: .typography__h3.links__offset}
 
-[File your FAFSA electronically](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noreferrer noopener"}, using KCC's Title IV school code 007690. It will speed up the process considerably.
+[File your FAFSA electronically](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noopener noreferrer"}, using KCC's Title IV school code 007690. It will speed up the process considerably.
 
 <div class="iframe__yt--wrapper mb-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/gUis5lityCQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="iframe__yt"></iframe></div>
 
