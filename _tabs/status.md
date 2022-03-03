@@ -30,7 +30,7 @@ You'll find: FAFSA status, next steps/process, forms (links and downloads), awar
 ### Self-Service Checklist Items
 {: .typography__h3.links__offset}
 
-Submit a [Free Application for Federal Student Aid](https://fafsa.ed.gov/){: target="_blank" rel="noopener noreferrer"} (FAFSA): School Code-007690
+Submit a [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noopener noreferrer"} (FAFSA): School Code-007690
 
 * You must do this beginning Oct. 1 each year.
 * You will receive a letter and email from the Office of Financial Aid when your FAFSA has been received.
