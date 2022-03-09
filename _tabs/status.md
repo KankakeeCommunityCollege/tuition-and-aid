@@ -22,7 +22,7 @@ You will receive important information by email from the KCC Office of Financial
 The new Financial Aid Self-Service module has all the financial aid details you need, any time you want it.
 
 1. Log in to [http://my.kcc.edu](http://my.kcc.edu/){: target="_blank" rel="noopener noreferrer"}
-2. Under College Applications, choose Student Self-Service
+2. Under College Applications, choose Self-Service
 3. Choose Financial Aid
 
 You'll find: FAFSA status, next steps/process, forms (links and downloads), award info, and more\! Make sure to return any requested documents as soon as possible to ensure file completion in a timely manner.
@@ -30,7 +30,7 @@ You'll find: FAFSA status, next steps/process, forms (links and downloads), awar
 ### Self-Service Checklist Items
 {: .typography__h3.links__offset}
 
-Submit a [Free Application for Federal Student Aid](https://fafsa.ed.gov/){: target="_blank" rel="noopener noreferrer"} (FAFSA): School Code-007690
+Submit a [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noopener noreferrer"} (FAFSA): School Code-007690
 
 * You must do this beginning Oct. 1 each year.
 * You will receive a letter and email from the Office of Financial Aid when your FAFSA has been received.
@@ -56,4 +56,4 @@ Review and sign your Financial Aid Award Letter
 ### Refunds/Disbursements
 {: .typography__h3.links__offset}
 
-You can view your “anticipated” refund in [Student Self-Service](https://selfservice.kcc.edu/Student/Finance){: target="_blank" rel="noopener noreferrer"}, after signing in. You can check disbursement dates on the Financial Aid Calendar, found on the [Financial Aid Forms tab](#financial-aid-forms) of this page. If award funds exceed KCC costs, a refund check will be issued to you. The date of financial aid disbursement is affected by enrollment in late-starting classes.
+You can view your “anticipated” refund in [Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener noreferrer"}, after signing in. You can check disbursement dates on the Financial Aid Calendar, found on the [Financial Aid Forms tab](#financial-aid-forms) of this page. If award funds exceed KCC costs, a refund check will be issued to you. The date of financial aid disbursement is affected by enrollment in late-starting classes.
