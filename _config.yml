@@ -6,6 +6,7 @@ port: 3000
 timezone: America/Chicago
 theme: "kcc-gem-theme"
 google-tag_key: GTM-TNVWT2L
+## BUILD
 core_site: true
 humans_file: true
 #translate: true ## Uncomment to activate Google Translate Powers!!
