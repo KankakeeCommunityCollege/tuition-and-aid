@@ -2,6 +2,6 @@
 name: Megan Ponton
 contacts_title: Assistant Director of Financial Aid & Veteran Services
 display_order: 2
-portrait_image: For departments with no contact photos, do not change this field.
+portrait_image: /uploads/megan-ponton.jpg
 ---
 
