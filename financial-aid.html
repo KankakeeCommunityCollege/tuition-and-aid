@@ -6,28 +6,16 @@ description: ''
 keywords: >-
   financial aid, tuition, FAFSA, eligibilit, scholarships, 
   Pell, grants, loans, work study, student employment
-hero_banner_image: uploads/paying-for-college-web-banner900wide.jpg
-hero_banner_alt: 'Paying for college financial aid workshop'
-hero_banner_link: uploads/pdf/paying-for-college-flier_2021.pdf
+hero_banner_image: ''
+hero_banner_alt: ''
+hero_banner_link: ''
 ---
 
 <!-- Build -->
 <main class="container">
   <div class="row mb-5">
     <div class="col">
-      {%- comment -%}
-      <!-- To add a hero-banner at the top of the page, uncomment the code below -->
-      {% if page.hero_banner_link %}
-      <a href="{{ page.baseurl }}{{ page.hero_banner_link }}">
-      {% endif %}
-      <img
-        src="{{ page.baseurl }}{{ page.hero_banner_image }}"
-        class="img-fluid img__full-width mb-3"
-        alt="{{ page.hero_banner_alt }}">
-      {% if page.hero_banner_link %}
-      </a>
-      {% endif %}
-      {%- endcomment -%}
+      {% include hero-banner.html %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
       {% include accordion.html %}

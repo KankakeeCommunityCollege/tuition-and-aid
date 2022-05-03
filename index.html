@@ -9,12 +9,9 @@ slides:
   - image: uploads/paying-for-college-web-banner_16by9.jpg
     alt-text: Paying for college financial aid workshop
     url: uploads/pdf/paying-for-college-flier_2021.pdf
-hero_banner: uploads/Scholarship-deadline-banner-may3.jpeg
-hero_banner_alt: >-
-  Apply for Scholarships Oct. 1 - May 3. Apply online one time to be considered
-  for hundreds of available KCC Foundation scholarships. More than $200,000 in
-  scholarships awarded for the 2022-23 academic year
-hero_banner_link: https://foundation.kcc.edu/scholarships/
+hero_banner_image: ''
+hero_banner_alt: ''
+hero_banner_link: ''
 ---
 
 <main class="container">
@@ -26,19 +23,10 @@ hero_banner_link: https://foundation.kcc.edu/scholarships/
     <div class="col">
       {%- comment -%}
       To switch from a banner to a slider:
-        - Comment-out below: from `{% if page.hero_banner_link %}` to the matching `{% endif %}`
+        - Comment-out below: `{% include her-banner %}`
         - Uncomment the above include statement: `{% includes hero-slider.html %}`
       {%- endcomment -%}
-      {% if page.hero_banner_link %}
-      <a href="{{ page.hero_banner_link }}">
-      {% endif %}
-      <img
-        src="{{ page.baseurl }}{{ page.hero_banner }}"
-        class="img-fluid img__full-width mb-3"
-        alt="{{ page.hero_banner_alt }}">
-      {% if page.hero_banner_link %}
-      </a>
-      {% endif %}
+      {% include hero-banner.html %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
       {% include accordion.html %}
