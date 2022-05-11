@@ -1,6 +1,6 @@
 ---
-accordion_page: 'Tuition & Aid'
-card_heading: 'Tuition Payment & Deadlines'
+accordion_page: Tuition & Aid
+card_heading: Tuition Payment & Deadlines
 order: 2
 ---
 
@@ -9,7 +9,7 @@ order: 2
 
 Payment deadlines may vary based on your registration dates. Full payments are accepted online, via Student Self-Service, or in the college Accounting Office, located in Student Affairs in the east wing on the second floor of the main building.
 
-<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="4">Spring 2022</th><td>Online: Oct. 11 - Dec. 3, 2021</td><td>by 5 p.m., Dec. 3</td></tr><tr><td>In-person: Oct. 18 - Dec. 3, 2021</td><td>by 5 p.m., Dec. 3</td></tr><tr><td>In-person/Online: Dec. 4 - Jan. 26, 2022</td><td>by 6 p.m., Jan. 25</td></tr><tr><td>In-person/Online: Jan. 26 - end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td></tr><tr><th rowspan="4">Summer 2022</th><td>Online: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person/Online: May 7 - June 14, 2022</td><td>by 6 p.m., June 14</td></tr><tr><td>In-person/Online: June 15 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr></tbody></table>
+<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="4">Fall 2022</th><td>Online: April 14 - Aug. 4, 2022</td><td>by 6 p.m., Aug. 4</td></tr><tr><td>In-person: April 11 - Aug. 4, 2022</td><td>by 6 p.m., Aug. 4</td></tr><tr><td>In-person/Online: Aug. 5 - Sept. 6, 2022</td><td>by 6 p.m., Sept. 6</td></tr><tr><td>In-person/Online: Sept. 7 - end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a>.</td></tr><tr><th rowspan="4">Summer 2022</th><td>Online: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person: March 14 - May 6, 2022</td><td>by 5 p.m., May 6</td></tr><tr><td>In-person/Online: May 7 - June 14, 2022</td><td>by 6 p.m., June 14</td></tr><tr><td>In-person/Online: June 15 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr></tbody></table>
 
 ### Tuition Payment Options
 {: .typography__h3.links__offset}
