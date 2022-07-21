@@ -3,6 +3,7 @@ site_name: Tuition & Aid
 public-url: "https://www.kcc.edu" ## This gets generated into the link that displays in the footer (the one above the social icons)
 url: 'https://www.kcc.edu/tuition-and-aid' ## NO TRAILING SLASHES!!/<--nope
 port: 3000
+# BUILD
 timezone: America/Chicago
 theme: "kcc-gem-theme"
 google-tag_key: GTM-TNVWT2L
@@ -43,16 +44,6 @@ collections:
     output: false
   tabs:
     output: false
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    title: ''
-    permalink: /:categories/:title/
-    baseurl: ../../../
-    categories: news
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
