@@ -8,7 +8,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-* [KCC Financial Aid Handbook 2022-](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener noreferrer"}[23](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener noreferrer"}
+* [KCC Financial Aid Handbook 2022-23](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2021-22 Financial Aid Important Information](../uploads/pdf/21-22%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2022-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2021-22 Financial Aid Calendar](../uploads/pdf/21-22%20Financial%20Aid%20Calendar.pdf){: target="_blank" rel="noopener noreferrer"}
