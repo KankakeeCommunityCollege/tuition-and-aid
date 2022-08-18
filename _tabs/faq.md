@@ -3,7 +3,6 @@ name: Financial Aid FAQ
 tabs_page: Financial Aid
 order: 1
 ---
-
 ### What is a financial aid eligibility date?
 {: .typography__h3.links__offset}
 
@@ -16,8 +15,9 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* **Spring 2022:** January 28, 2022
-* **Summer 2022:** June 17, 2022 
+* **Fall 2022:** Sept. 9, 2022
+* **Spring 2023:** Jan. 27, 2023
+* **Summer 2023:** June 16, 2023
 
 ### What does the eligibility date mean to me?
 {: .typography__h3.links__offset}
