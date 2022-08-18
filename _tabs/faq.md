@@ -15,7 +15,7 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* **Fall 2022:** Sept 9, 2022
+* **Fall 2022:** Sept. 9, 2022
 * **Spring 2023:** Jan. 27, 2023
 * **Summer 2023:** June 16, 2023
 
