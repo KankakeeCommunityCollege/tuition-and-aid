@@ -9,9 +9,11 @@ The first step is always completing the [Free Application for Federal Student Ai
 {: .typography__h3.links__offset}
 
 * [KCC Financial Aid Handbook 2022-23](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2021-22 Financial Aid Important Information](../uploads/pdf/21-22%20Financial%20Aid%20Important%20Information.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FASFA Application ENGLISH](2023-24-FAFSA-application-English.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FASFA Application SPANISH](2023-24-FAFSA-application-Spanish.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FASFA Worksheet ENGLISH](2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FASFA Worksheet SPANISH](2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2022-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2021-22 Financial Aid Calendar](../uploads/pdf/21-22%20Financial%20Aid%20Calendar.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2022-23 Financial Aid Calendar](../uploads/pdf/22-23-FA-Calendar.pdf){: target="_blank" rel="noopener noreferrer"}
 
 ### State MAP grant information
