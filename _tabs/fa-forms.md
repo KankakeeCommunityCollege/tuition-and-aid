@@ -9,10 +9,10 @@ The first step is always completing the [Free Application for Federal Student Ai
 {: .typography__h3.links__offset}
 
 * [KCC Financial Aid Handbook 2022-23](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2023-24 FASFA Application ENGLISH](../uploads/pdf/2023-24-FAFSA-application-English.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2023-24 FASFA Application SPANISH](../uploads/pdf/2023-24-FAFSA-application-Spanish.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2023-24 FASFA Worksheet ENGLISH](../uploads/pdf/2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank" rel="noopener noreferrer"}
-* [2023-24 FASFA Worksheet SPANISH](../uploads/pdf/2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FAFSA Application ENGLISH](../uploads/pdf/2023-24-FAFSA-application-English.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FAFSA Application SPANISH](../uploads/pdf/2023-24-FAFSA-application-Spanish.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FAFSA Worksheet ENGLISH](../uploads/pdf/2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank" rel="noopener noreferrer"}
+* [2023-24 FAFSA Worksheet SPANISH](../uploads/pdf/2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2022-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2022-23 Financial Aid Calendar](../uploads/pdf/22-23-FA-Calendar.pdf){: target="_blank" rel="noopener noreferrer"}
 
