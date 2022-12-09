@@ -1,13 +1,12 @@
 ---
-accordion_page: 'Tuition & Aid'
-card_heading: 'Cost to Attend'
+accordion_page: Tuition & Aid
+card_heading: Cost to Attend
 order: 1
 ---
-
 ### Tuition and cost to attend
 {: .typography__h3.links__offset}
 
-KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions -- and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
+KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
 
 Rates are subject to change without notice.
 
@@ -45,9 +44,9 @@ Expect to pay on average about $960 per semester for textbooks and supplies if y
 #### Transportation
 {: .typography__h4.links__offset}
 
-For financial aid budgeting purposes, estimate $1,800 annually for transportation. Most KCC students drive to school. The River Valley Metro Transit bus stops at KCC.
+For financial aid budgeting purposes, estimate $1,824 annually for transportation. Most KCC students drive to school. The River Valley Metro Transit bus stops at KCC.
 
 #### Room and Board
 {: .typography__h4.links__offset}
 
-KCC does not offer on-campus residences. For financial aid purposes, it is estimated that room and board (housing and food) will cost $2,800 per school year for students living with parents and $6,000 for students not living with parents.​
+KCC does not offer on-campus residences. For financial aid purposes, it is estimated that room and board (housing and food) will cost $4,672 per school year for students living with parents and $9,312 for students not living with parents.​
