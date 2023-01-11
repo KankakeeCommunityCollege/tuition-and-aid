@@ -6,7 +6,7 @@ order: 1
 ### Tuition and cost to attend
 {: .typography__h3.links__offset}
 
-KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/2021/10/01/study-affirms-earnings-bump-for-community-college-grads.html).&nbsp;
+KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/archive/2021/10/01/study-affirms-earnings-bump-for-community-college-grads/).&nbsp;
 
 Rates are subject to change without notice.
 
