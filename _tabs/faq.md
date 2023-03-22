@@ -15,9 +15,9 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* **Fall 2022:** Sept. 9, 2022
-* **Spring 2023:** Jan. 27, 2023
 * **Summer 2023:** June 16, 2023
+* **Fall 2023:** September 8, 2023
+* **Spring 2024:** January 26, 2024
 
 ### What does the eligibility date mean to me?
 {: .typography__h3.links__offset}
