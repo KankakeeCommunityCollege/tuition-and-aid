@@ -44,6 +44,8 @@ collections:
     output: false
   tabs:
     output: false
+  financial_aid_faq:
+    output: false
 permalink: pretty
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
