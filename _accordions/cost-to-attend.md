@@ -6,7 +6,7 @@ order: 1
 ### Tuition and cost to attend
 {: .typography__h3.links__offset}
 
-KCC is committed to making your education as affordable as possible. Tuition is currently $146 per credit hour, plus $19 in fees, for a total of $165 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/archive/2021/10/01/study-affirms-earnings-bump-for-community-college-grads/).&nbsp;
+KCC is committed to making your education as affordable as possible. Tuition is currently $150 per credit hour, plus $19 in fees, for a total of $169 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will [pay off throughout your working life](https://news.kcc.edu/archive/2021/10/01/study-affirms-earnings-bump-for-community-college-grads/).&nbsp;
 
 Rates are subject to change without notice.
 
@@ -16,9 +16,9 @@ Your cost for classes will be based on how many credit hours you take each semes
 
 | Residency | Tuition per credit hour | Basic fees per credit hour | Out-of-district fee\* | Total per credit hour |
 | --- | --- | --- | --- | --- |
-| Illinois (In-district) | $146 | $19 | n/a | $165 |
-| Illinois (Out-of-district) | $146 | $19 | $275 | $440 |
-| Out-of-state | $146 | $19 | $687.01 | $852.01 |
+| Illinois (In-district) | $150 | $19 | n/a | $169 |
+| Illinois (Out-of-district) | $150 | $19 | $275 | $444 |
+| Out-of-state | $150 | $19 | $687.01 | $856.01 |
 | Senior citizen | n/a | $19 | n/a | $19 |
 {: .table.table-striped}
 
