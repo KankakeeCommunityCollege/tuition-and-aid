@@ -29,7 +29,7 @@ This is a state-funded program that provides assistance toward the cost of tuiti
 ### Loans
 {: .typography__h3.links__offset}
 
-Loans are federally funded sources of assistance that must be repaid with interest. Please refer to the Department of Education's publication [Federal Student Loans](https://studentaid.ed.gov/sa/types/loans/subsidized-unsubsidized){: target="_blank" rel="noopener noreferrer"} for further information regarding Federal Student Loans.
+Loans are federally funded sources of assistance that must be repaid with interest. Please refer to the Department of Education's publication [Federal Student Loans](https://studentaid.gov/understand-aid/types/loans/subsidized-unsubsidized){: target="_blank" rel="noopener noreferrer"} for further information regarding Federal Student Loans.
 
 #### Federal Stafford Student Loan
 {: .typography__h5.links__offset}
@@ -40,12 +40,17 @@ Dependent students may borrow up to $5,500 as freshmen for full-time enrollment 
 
 Students who are enrolled half-time, meet standards of satisfactory progress and meet need requirements may be eligible for these loans. The interest rate for Federal Direct Loans first disbursed on or after July 1, 2018, will increase from 4.45 percent to 5.045 percent for undergraduate Direct Loans. KCC's Loan Policy is available in the Financial Aid Forms section of this website. Click on the "Financial Aid Forms" tab to get more information under the Stafford/PLUS loans section.
 
-For more information on federal student loan interest rates and repayment, please visit the Federal Student Aid webpage by clicking [here](https://studentaid.ed.gov/sa/types/loans/interest-rates){: target="_blank" rel="noopener noreferrer"}.
+For more information on federal student loan interest rates and repayment, please visit the Federal Student Aid webpage by clicking [here](https://studentaid.gov/understand-aid/types/loans/interest-rates){: target="_blank" rel="noopener noreferrer"}.
 
 #### Federal PLUS Loan
 {: .typography__h5.links__offset}
 
 These loans provide for parents who want to borrow to help pay for their child's education. The interest rate for plus loans first disbursed on or after July 1, 2018, will increase from 7 percent to 7.595 percent. A Parent PLUS Loan Application is available by contacting the KCC Office of Financial Aid. Parents must also request a PLUS Loan at www.studentloans.gov for an updated credit report to be considered.
+
+##### Successful Repayment
+{: .typography__h5.links__offset }
+
+<div class="positioning__iframe-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DDlBmaueFRQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Work Study
 {: .typography__h3.links__offset}
@@ -63,5 +68,5 @@ View the [Student Employment tab](#student-employment) for details. For further 
 ### Other Types of Assistance
 {: .typography__h3.links__offset}
 
-* [KCC Foundation Scholarships](https://kcc.scholarships.ngwebsolutions.com/CMXAdmin/Cmx_Content.aspx?cpId=639){: target="_blank" rel="noopener noreferrer"}
-* [Workforce Innovation & Opportunity Act (WIOA)](https://wioa.kcc.edu){: target="_blank" rel="noopener noreferrer"}
+* [KCC Foundation Scholarships](//foundation.kcc.edu/scholarships)
+* [Workforce Innovation & Opportunity Act (WIOA)](https://wioa.kcc.edu)
