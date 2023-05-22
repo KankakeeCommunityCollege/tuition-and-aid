@@ -18,7 +18,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [2023-24 FAFSA Application SPANISH](../uploads/pdf/2023-24-FAFSA-application-Spanish.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2023-24 FAFSA Worksheet ENGLISH](../uploads/pdf/2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank" rel="noopener noreferrer"}
 * [2023-24 FAFSA Worksheet SPANISH](../uploads/pdf/2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank" rel="noopener noreferrer"}
-* [SAP Appeal Form](uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank" rel="noopener noreferrer"}
+* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank" rel="noopener noreferrer"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
