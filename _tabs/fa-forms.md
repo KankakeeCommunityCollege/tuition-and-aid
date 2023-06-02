@@ -55,13 +55,13 @@ The federal process selects at random one-third of KCC's students for verificati
 
 **<u>23-24</u>**
 
-* [23-24 Dependent V4 Verification Worksheet](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Dependent Verification Worksheet-V1, V5](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Illinois Residency Requirements-Dependent](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Illinois Residency Requirements-Independent](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Independent V4 Verification Worksheet](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Independent Verification Worksheet-V1, V5](../uploads/pdf/){: target="_blank" rel="noopener"}
-* [23-24 Statement of Educational Purpose](../uploads/pdf/){: target="_blank" rel="noopener"}
+* [23-24 Dependent V4 Verification Worksheet](../uploads/pdf/23-24-Dependent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
+* [23-24 Dependent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
+* [23-24 Illinois Residency Requirements-Dependent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
+* [23-24 Illinois Residency Requirements-Independent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
+* [23-24 Independent V4 Verification Worksheet](../uploads/pdf/23-24-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
+* [23-24 Independent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
+* [23-24 Statement of Educational Purpose](../uploads/pdf/23-24-Statement-of-Educational-Purpose.pdf){: target="_blank" rel="noopener"}
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
