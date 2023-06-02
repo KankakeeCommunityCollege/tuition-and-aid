@@ -44,6 +44,24 @@ The federal process selects at random one-third of KCC's students for verificati
 
 **<u>22-23</u>**
 
+* 22-23 Dependent V4 Verification Worksheet
+* 22-23 Dependent Verification Worksheet-V1, V5
+* 22-23 Illinois Residency Requirements-Dependent
+* 22-23 Illinois Residency Requirements-Independent
+* 22-23 Independent V4 Verification Worksheet
+* 22-23 Independent Verification Worksheet-V1, V5
+* 22-23 Statement of Educational Purpose
+ 
+**<u>23-24</u>**
+
+* 23-24 Dependent V4 Verification Worksheet
+* 23-24 Dependent Verification Worksheet-V1, V5
+* 23-24 Illinois Residency Requirements-Dependent
+* 23-24 Illinois Residency Requirements-Independent
+* 23-24 Independent V4 Verification Worksheet
+* 23-24 Independent Verification Worksheet-V1, V5
+* 23-24 Statement of Educational Purpose
+
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
 
