@@ -30,7 +30,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [23-24 Degree Confirmation](../uploads/pdf/23-24-Degree-Confirmation.pdf){: target="_blank"}
 * [23-24 Housing Correction Worksheet](../uploads/pdf/23-24-Housing-Correction-Worksheet.pdf){: target="_blank"}
 * [23-24 Unusual Enrollment History Form](../uploads/pdf/23-24-Unusual-Enrollment-History-Form.pdf){: target="_blank"}
-* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank" rel="noopener"}
+* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
@@ -45,23 +45,21 @@ The federal process selects at random one-third of KCC's students for verificati
 
 **<u>22-23</u>**
 
-* [22-23 Dependent V4 Verification Worksheet](../uploads/pdf/22-23-Dependent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [22-23 Dependent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
-* [22-23 Illinois Residency Requirements-Dependent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
-* [22-23 Illinois Residency Requirements-Independent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
-* [22-23 Independent V4 Verification Worksheet](../uploads/pdf/22-23-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [22-23 Independent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
-* [22-23 Statement of Educational Purpose](../uploads/pdf/22-23-Stmt-of-Educ-Purpose.pdf){: target="_blank" rel="noopener"}
+* [22-23 Dependent V4 Verification Worksheet](../uploads/pdf/22-23-Dependent-V4-Verification-Worksheet.pdf){: target="_blank"}
+* [22-23 Dependent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
+* [22-23 Illinois Residency Requirements-Dependent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank"}
+* [22-23 Illinois Residency Requirements-Independent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Independent.pdf){: target="_blank"}
+* [22-23 Independent V4 Verification Worksheet](../uploads/pdf/22-23-Independent-V4-Verification-Worksheet.pdf){: target="_blank"}
+* [22-23 Independent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
 
 **<u>23-24</u>**
 
-* [23-24 Dependent V4 Verification Worksheet](../uploads/pdf/23-24-Dependent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [23-24 Dependent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
-* [23-24 Illinois Residency Requirements-Dependent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
-* [23-24 Illinois Residency Requirements-Independent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
-* [23-24 Independent V4 Verification Worksheet](../uploads/pdf/23-24-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [23-24 Independent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank" rel="noopener"}
-* [23-24 Statement of Educational Purpose](../uploads/pdf/23-24-Statement-of-Educational-Purpose.pdf){: target="_blank" rel="noopener"}
+* [23-24 Dependent V4 Verification Worksheet](../uploads/pdf/23-24-Dependent-V4-Verification-Worksheet.pdf){: target="_blank"}
+* [23-24 Dependent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
+* [23-24 Illinois Residency Requirements-Dependent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank"}
+* [23-24 Illinois Residency Requirements-Independent](../uploads/pdf/23-24-Illinois-Residency-Requirements-Independent.pdf){: target="_blank"}
+* [23-24 Independent V4 Verification Worksheet](../uploads/pdf/23-24-Independent-V4-Verification-Worksheet.pdf){: target="_blank"}
+* [23-24 Independent Verification Worksheet-V1, V5](../uploads/pdf/23-24-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
