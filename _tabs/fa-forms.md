@@ -20,7 +20,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>23-24</u>**
 
-* [<u>23-24 Financial Aid Handbook</u>](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf"){: target="_blank"}
+* [<u>23-24 Financial Aid Handbook</u>](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf){: target="_blank"}
 * [<u>23-24 Financial Aid Important Information</u>](../uploads/pdf/23-24-Financial-Aid-Important-Information.pdf){: target="_blank"}
 * [<u>23-24 Financial Aid Calendar</u>](../uploads/pdf/23-24-Financial-Aid-Calendar.pdf){: target="_blank"}
 * [<u>23-24 FAFSA Application ENGLISH</u>](../uploads/pdf/2023-24-FAFSA-application-English.pdf){: target="_blank"}
