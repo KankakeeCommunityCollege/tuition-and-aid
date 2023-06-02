@@ -5,7 +5,7 @@ order: 3
 ---
 The first step is always completing the [Free Application for Federal Student Aid: FAFSA](http://www.fafsa.gov/){: target="_blank"}.
 
-### Financial aid at KCC:
+### Financial aid at KCC
 {: .typography__h3.links__offset}
 
 **<u>22-23</u>**
@@ -51,7 +51,7 @@ The federal process selects at random one-third of KCC's students for verificati
 * 22-23 Independent V4 Verification Worksheet
 * 22-23 Independent Verification Worksheet-V1, V5
 * 22-23 Statement of Educational Purpose
- 
+
 **<u>23-24</u>**
 
 * 23-24 Dependent V4 Verification Worksheet
