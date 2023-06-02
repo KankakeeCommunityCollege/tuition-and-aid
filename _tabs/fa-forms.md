@@ -10,9 +10,9 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>22-23</u>**
 
-* [KCC Financial Aid Handbook 2022-23](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank"}
+* [22-23 KCC Financial Aid Handbook](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank" rel="noopener"}
 * [KCC Financial Aid Handbook 2023-24](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf){: target="_blank"}
-* [2022-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank"}
+* [22-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
 * [2023-24 Financial Aid Important Information](../uploads/pdf/23-24-Financial-Aid-Important-Information.pdf){: target="_blank"}
 * [2022-23 Financial Aid Calendar](../uploads/pdf/22-23-FA-Calendar.pdf){: target="_blank"}
 * [2023-24 Financial Aid Calendar](../uploads/pdf/23-24-Financial-Aid-Calendar.pdf){: target="_blank"}
