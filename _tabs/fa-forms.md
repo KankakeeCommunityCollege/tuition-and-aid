@@ -20,16 +20,16 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>23-24</u>**
 
-* <u>​​​​​​​<a target="_blank" rel="noopener" href="../uploads/pdf/23-24-Financial-Aid-Handbook.pdf">23-24 KCC Financial Aid Handbook</a></u>
-* [<u>23-24 Financial Aid Important Information</u>](../uploads/pdf/23-24-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 Financial Aid Calendar</u>](../uploads/pdf/23-24-Financial-Aid-Calendar.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 FAFSA Application ENGLISH</u>](../uploads/pdf/2023-24-FAFSA-application-English.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 FAFSA Application SPANISH</u>](../uploads/pdf/2023-24-FAFSA-application-Spanish.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 FAFSA Worksheet ENGLISH</u>](../uploads/pdf/2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 FAFSA Worksheet SPANISH</u>](../uploads/pdf/2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 Degree Confirmation</u>](../uploads/pdf/23-24-Degree-Confirmation.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 Housing Correction Worksheet</u>](../uploads/pdf/23-24-Housing-Correction-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [<u>23-24 Unusual Enrollment History Form</u>](../uploads/pdf/23-24-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
+* [<u>23-24 Financial Aid Handbook</u>](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf"){: target="_blank"}
+* [<u>23-24 Financial Aid Important Information</u>](../uploads/pdf/23-24-Financial-Aid-Important-Information.pdf){: target="_blank"}
+* [<u>23-24 Financial Aid Calendar</u>](../uploads/pdf/23-24-Financial-Aid-Calendar.pdf){: target="_blank"}
+* [<u>23-24 FAFSA Application ENGLISH</u>](../uploads/pdf/2023-24-FAFSA-application-English.pdf){: target="_blank"}
+* [<u>23-24 FAFSA Application SPANISH</u>](../uploads/pdf/2023-24-FAFSA-application-Spanish.pdf){: target="_blank"}
+* [<u>23-24 FAFSA Worksheet ENGLISH</u>](../uploads/pdf/2023-24-fafsa-worksheet--ENGLISH.pdf){: target="_blank"}
+* [<u>23-24 FAFSA Worksheet SPANISH</u>](../uploads/pdf/2023-24-fafsa-worksheet--SPANISH.pdf){: target="_blank"}
+* [<u>23-24 Degree Confirmation</u>](../uploads/pdf/23-24-Degree-Confirmation.pdf){: target="_blank"}
+* [<u>23-24 Housing Correction Worksheet</u>](../uploads/pdf/23-24-Housing-Correction-Worksheet.pdf){: target="_blank"}
+* [<u>23-24 Unusual Enrollment History Form</u>](../uploads/pdf/23-24-Unusual-Enrollment-History-Form.pdf){: target="_blank"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
