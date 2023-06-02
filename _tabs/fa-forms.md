@@ -42,6 +42,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank"} for required verification items.&nbsp;
 
+**<u>22-23</u>**
+
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
 
