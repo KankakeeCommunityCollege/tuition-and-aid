@@ -38,6 +38,13 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [2022-23 Map Award Announcement​](../uploads/pdf/22-23-MAP-Award-Announcement.pdf){: target="_blank"}
 * [2023-24 Map Award Announcement&nbsp;](../uploads/pdf/23-24-MAP-Award-Announcement.pdf){: target="_blank"}
 
+### Financial Aid Policies
+{: .typography__h3.links__offset}
+
+* [Financial Aid Withdrawal and Return of Title IV Funds Policy](../uploads/pdf/Financial-Aid-Withdrawal-and-Return-of-Title-IV-Funds-Policy.pdf){: target="_blank"}
+* [Satisfactory Academic Progress Policy](../uploads/pdf/Satisfactory-Academic-Progress-SAP-Policy.pdf){: target="_blank"}
+* [Student Loan Policy](../uploads/pdf/Student-Loan-Policy.pdf){: target="_blank"}
+
 ### Verification selection
 {: .typography__h3.links__offset}
 
