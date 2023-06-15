@@ -8,7 +8,7 @@ order: 2
 
 Payment deadlines may vary based on your registration dates. Full payments are accepted online, via Student Self-Service, or in the college Accounting Office, located in Student Affairs in the east wing on the second floor of the main building.
 
-<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="4">Spring 2023</th><td>Online: Oct. 10 - Dec. 2, 2022</td><td>by 5 p.m., Dec. 2</td></tr><tr><td>In-person: Oct. 17 - Dec. 2, 2022</td><td>by 5 p.m., Dec. 2</td></tr><tr><td>In-person/Online: Dec. 3, 2022 - Jan. 24, 2023</td><td>by 5 p.m., Jan. 24</td></tr><tr><td>In-person/Online: Dec. 4 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr><tr><th rowspan="3">Summer 2023</th><td>In-person/Online: March 13 - May 5</td><td>by May 5 at 5 p.m.</td></tr><tr><td>In-person/Online: May 6 -June 20</td><td>by June 20 at 5 p.m.</td></tr><tr><td>In-person/Online: June 21 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr><tr><th rowspan="3">Fall 2023 (tentative deadlines)</th><td>In-person/Online: April 3 - Aug. 4 at 5 p.m.</td><td>by Aug. 4 at 5 p.m.</td></tr><tr><td>In-person/Online: Aug. 5 - Sept. 5</td><td>by Sept. 5 at 5 p.m.</td></tr><tr><td>In-person/Online: Sept. 6 - end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr></tbody></table>
+<table class="table table-striped"><thead><tr><th>Term</th><th>If you register</th><th>You must pay ...</th></tr></thead><tbody><tr><th rowspan="3">Summer 2023</th><td>In-person/Online: March 13 - May 5</td><td>by May 5 at 5 p.m.</td></tr><tr><td>In-person/Online: May 6 -June 20</td><td>by June 20 at 5 p.m.</td></tr><tr><td>In-person/Online: June 21 - end of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr><tr><th rowspan="3">Fall 2023</th><td>In-person/Online: April 3 - Aug. 4 at 5 p.m.</td><td>by Aug. 4 at 5 p.m.</td></tr><tr><td>In-person/Online: Aug. 5 - Sept. 5</td><td>by Sept. 5 at 5 p.m.</td></tr><tr><td>In-person/Online: Sept. 6 - end of registration</td><td>At the time of registration, or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan​</a></td></tr><tr><th rowspan="3">Spring 2024</th><td>Online: Oct 9 – Dec 1, 2023</td><td>by 5 p.m. Dec 1, 2023</td></tr><tr><td>In-Person: Oct 16 – Dec 1, 2023</td><td>by 5 p.m. Dec 1, 2023</td></tr><tr><td>In-person/Online: Dec 2, 2023 – Jan 23, 2024</td><td>by 5 p.m. Jan 24, 2024</td></tr><tr><td>In-Person/Online: Jan 24, 2024 – End of registration</td><td>At the time of registration; or you must enroll in the <a href="#nelnet-payment-plan">tuition payment plan.</a></td></tr></tbody></table>
 
 ### Tuition Payment Options
 {: .typography__h3.links__offset}
@@ -25,7 +25,7 @@ Following are the payment options at KCC:
 #### Online
 {: .typography__h4.links__offset}
 
-To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank" rel="noopener noreferrer"} - choose Student Finance, then Make a Payment. Payments must be made in full with a credit card.
+To pay online, sign in to the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank"} - choose Student Finance, then Make a Payment. Payments must be made in full with a credit card.
 
 #### Nelnet Payment Plan
 {: .typography__h4.links__offset}
@@ -46,7 +46,7 @@ You must report changes (to adjust/cancel scheduled payments) due to financial a
 ##### Start a Payment Plan
 {: .typography__h5.links__offset}
 
-1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank" rel="noopener noreferrer"} portal.
+1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank"} portal.
 2. Under College Applications, click Student Self-Service
 3. Choose Student Finance
 4. In the Student Finance drop-down, choose Nelnet Payment Plan
@@ -58,7 +58,7 @@ You must pay for your classes in full by the published payment deadlines. KCC do
 
 Pending or partial financial aid and scholarships may hold you in your classes. Please review your registration statement for exact refund dates. Dropping classes may affect your financial aid.
 
-Course refund dates are listed on your registration statement, viewable by logging into the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank" rel="noopener noreferrer"} and choosing Student Planning.
+Course refund dates are listed on your registration statement, viewable by logging into the [self-service module](https://selfservice.kcc.edu/Student/Account/Login?ReturnUrl=/Student?hideProxyDialog%3dfalse&amp;hideProxyDialog=false){: target="_blank"} and choosing Student Planning.
 
 ### Refunds
 {: .typography__h3.links__offset}
