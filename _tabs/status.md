@@ -3,7 +3,6 @@ name: Check Financial Aid Status
 tabs_page: Financial Aid
 order: 2
 ---
-
 ### FAFSA Status
 {: .typography__h3.links__offset}
 
@@ -14,7 +13,7 @@ Within seven business days after submitting the FAFSA online, you will receive a
 ### Communications
 {: .typography__h3.links__offset}
 
-You will receive important information by email from the KCC Office of Financial Aid. Make sure to read all documents thoroughly. Check your [student email](https://mail.google.com/a/student.kcc.edu){: target="_blank" rel="noopener noreferrer"} often (or learn how to [forward it to a preferred email](http://www.kcc.edu/students/helpful/it/Pages/googlemail.aspx){: target="_blank" rel="noopener noreferrer"}) to be sure you don't miss any important information.
+You will receive important information by email from the KCC Office of Financial Aid. Make sure to read all documents thoroughly. Check your [student email](https://mail.google.com/a/student.kcc.edu){: target="_blank" rel="noopener noreferrer"} often (or learn how to [forward it to a preferred email](https://www.kcc.edu/about/its/#student-email-and-google-apps){: target="_blank" rel="noopener noreferrer"}) to be sure you don't miss any important information.
 
 ### Financial Aid Self-Service
 {: .typography__h3.links__offset}
@@ -25,7 +24,7 @@ The new Financial Aid Self-Service module has all the financial aid details you 
 2. Under College Applications, choose Self-Service
 3. Choose Financial Aid
 
-You'll find: FAFSA status, next steps/process, forms (links and downloads), award info, and more\! Make sure to return any requested documents as soon as possible to ensure file completion in a timely manner.
+You'll find: FAFSA status, next steps/process, forms (links and downloads), award info, and more! Make sure to return any requested documents as soon as possible to ensure file completion in a timely manner.
 
 ### Self-Service Checklist Items
 {: .typography__h3.links__offset}
