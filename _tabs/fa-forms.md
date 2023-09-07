@@ -78,7 +78,7 @@ Completing the FAFSA is the first step toward receiving student loans. Once your
 ### KCC Foundation scholarships
 {: .typography__h3.links__offset}
 
-After you've applied for FAFSA and begun KCC's Financial Aid process, review the many [scholarships](http://foundation.kcc.edu/scholarships/){: target="_blank"} available and apply.
+After you've applied for FAFSA and begun KCC's Financial Aid process, review the many [scholarships](https://foundation.kcc.edu/scholarships/){: target="_blank"} available and apply.
 
 ### Income Adjustments
 {: .typography__h3.links__offset}
