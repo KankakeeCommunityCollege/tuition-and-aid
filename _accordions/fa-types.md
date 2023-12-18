@@ -1,7 +1,7 @@
 ---
 accordion_page: 'Financial Aid'
 card_heading: 'Types of Financial Aid'
-order: 2
+order: 4
 ---
 
 Three types of financial assistance make up the majority of aid provided by the federal government and the state of Illinois: grant assistance, loan assistance and work-study assistance.
