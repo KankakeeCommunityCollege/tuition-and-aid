@@ -10,6 +10,11 @@ description: ''
     <div class="col">
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
+      {% comment %}
+        <!-- The file `./calculator-html.html` contains code that Financial Aid generates
+          using a tool which we then pull into this iframe element.
+          See comment at the top of `./calculator-html.html` for more info.  -->
+      {% endcomment %}
       <iframe src="{{ page.baseurl }}calculator-html/"
         title="Net Price Calculator Frame" id="netPriceIframe" width="100%" height="100%" class="iframe">
       </iframe>
