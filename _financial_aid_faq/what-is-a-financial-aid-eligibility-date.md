@@ -14,7 +14,6 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* Fall 2023: Sept. 8, 2023
 * Spring 2024: Jan. 26, 2024
 * Summer 2024: June 14, 2024
 
