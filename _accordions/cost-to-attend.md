@@ -26,7 +26,7 @@ Your cost for classes will be based on how many credit hours you take each semes
 
 **\*Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
 
-<div class="card p-1 mb-3"><script type="text/javascript" src="https://form.jotform.com/jsform/201115733387149"></script></div>
+<div class="card p-1 mb-3"><script type="text/javascript" src="https://form.jotform.com/jsform/80386150914961"></script></div>
 
 ### Costs for Occupational and Health Career Programs
 {: .typography__h3.links__offset}
