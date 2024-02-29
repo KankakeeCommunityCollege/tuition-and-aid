@@ -8,16 +8,6 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-**<u>22-23</u>**
-
-* [22-23 KCC Financial Aid Handbook](../uploads/pdf/1-up-Financial-Aid-Handbook-2022-23.pdf){: target="_blank"}
-* [22-23 Financial Aid Important Information](../uploads/pdf/22-23-Financial-Aid-Important-Information.pdf){: target="_blank"}
-* [22-23 Financial Aid Calendar](../uploads/pdf/22-23-FA-Calendar.pdf){: target="_blank"}
-* [22-23 Degree Confirmation](../uploads/pdf/22-23-Degree-Confirmation.pdf){: target="_blank"}
-* [22-23 Housing Correction Worksheet](../uploads/pdf/22-23-Housing-Correction-Worksheet.pdf){: target="_blank"}
-* [22-23 Unusual Enrollment History Form](../uploads/pdf/22-23-Unusual-Enrollment-History-Form.pdf){: target="_blank"}
-* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank"}
-
 **<u>23-24</u>**
 
 * [23-24 Financial Aid Handbook](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf){: target="_blank"}
@@ -31,12 +21,13 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [23-24 Dependency Override Appeal](../uploads/pdf/23-24-Dependency-Override-Appeal.pdf){: target="_blank" rel="noopener"}
 * [23-24 Housing Correction Worksheet](../uploads/pdf/23-24-Housing-Correction-Worksheet.pdf){: target="_blank"}
 * [23-24 Unusual Enrollment History Form](../uploads/pdf/23-24-Unusual-Enrollment-History-Form.pdf){: target="_blank"}
+* [23-24 Income Adjustment - Dependent Student](../uploads/pdf/23-24%20Income%20Adjustment-Dependent%20Student.pdf){: target='_blank'}
+* [23-24 Income Adjustment - Independent Student](../uploads/pdf/23-24%20Income%20Adjustment-Independent%20Student.pdf){: target='_blank'}
 * [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form.pdf){: target="_blank"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
-* [2022-23 Map Award Announcement​](../uploads/pdf/22-23-MAP-Award-Announcement.pdf){: target="_blank"}
 * [2023-24 Map Award Announcement&nbsp;](../uploads/pdf/23-24-MAP-Award-Announcement.pdf){: target="_blank"}
 
 ### Financial Aid Policies
@@ -49,16 +40,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Verification selection
 {: .typography__h3.links__offset}
 
-The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank"} for required verification items.&nbsp;
-
-**<u>22-23</u>**
-
-* [22-23 Dependent V4 Verification Worksheet](../uploads/pdf/22-23-Dependent-V4-Verification-Worksheet.pdf){: target="_blank"}
-* [22-23 Dependent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Dependent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
-* [22-23 Illinois Residency Requirements-Dependent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank"}
-* [22-23 Illinois Residency Requirements-Independent](../uploads/pdf/22-23-Illinois-Residency-Requirements-Independent.pdf){: target="_blank"}
-* [22-23 Independent V4 Verification Worksheet](../uploads/pdf/22-23-Independent-V4-Verification-Worksheet.pdf){: target="_blank"}
-* [22-23 Independent Verification Worksheet-V1, V5](../uploads/pdf/22-23-Independent-Verification-Worksheet-V1%2C-V5.pdf){: target="_blank"}
+The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank"} for required verification items.
 
 **<u>23-24</u>**
 
