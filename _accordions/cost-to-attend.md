@@ -39,7 +39,7 @@ To see specific costs, including books, clothing and equipment, for occupational
 #### Books and Supplies
 {: .typography__h4.links__offset}
 
-Expect to pay on average about $960 per semester for textbooks and supplies if you are taking 15 semester hours. Books and supplies are available at the [KCC online bookstore](http://books.kcc.edu/){: target="_blank" rel="noopener noreferrer"}. Used books are available at a lower price so you may be able to reduce your textbook cost. Also, KCC does buy back books at the end of the semester.
+Expect to pay on average about $960 per semester for textbooks and supplies if you are taking 15 semester hours. Books and supplies are available at the [KCC online bookstore](https://books.kcc.edu/){: target="_blank" rel="noopener noreferrer"}. Used books are available at a lower price so you may be able to reduce your textbook cost. Also, KCC does buy back books at the end of the semester.
 
 #### Transportation
 {: .typography__h4.links__offset}

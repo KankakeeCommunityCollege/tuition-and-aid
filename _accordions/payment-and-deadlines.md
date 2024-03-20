@@ -46,7 +46,7 @@ You must report changes (to adjust/cancel scheduled payments) due to financial a
 ##### Start a Payment Plan
 {: .typography__h5.links__offset}
 
-1. Login to [My.kcc.edu](http://my.kcc.edu/){: target="_blank"} portal.
+1. Login to [my.kcc.edu](https://my.kcc.edu/){: target="_blank"} portal.
 2. Under College Applications, click Student Self-Service
 3. Choose Student Finance
 4. In the Student Finance drop-down, choose Nelnet Payment Plan
@@ -68,7 +68,7 @@ Tuition refunds for credit division courses are based on the date of withdrawal.
 ### Course Withdrawals
 {: .typography__h3.links__offset}
 
-Tuition refunds for withdrawals from college credit division courses are based on refund date. Refund dates are printed on your registration statement. You can receive a 100 percent refund through 10 percent of the course (approximately 12 calendar days for a 16-week course). No refund will be given if you [withdraw](/academics/register#) after 10 percent of the course has been completed.
+Tuition refunds for withdrawals from college credit division courses are based on refund date. Refund dates are printed on your registration statement. You can receive a 100 percent refund through 10 percent of the course (approximately 12 calendar days for a 16-week course). No refund will be given if you [withdraw](/academics/register) after 10 percent of the course has been completed.
 
 ### Course Cancellation
 {: .typography__h3.links__offset}
