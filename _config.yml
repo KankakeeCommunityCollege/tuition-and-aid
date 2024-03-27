@@ -2,7 +2,7 @@ title: "Kankakee Community College"
 site_name: Tuition & Aid
 public-url: "https://www.kcc.edu" ## This gets generated into the link that displays in the footer (the one above the social icons)
 url: 'https://www.kcc.edu/tuition-and-aid' ## NO TRAILING SLASHES!!/<--nope
-canonical_baseurl: https://www.kcc.edu/tuition-and-aid
+canonical_baseurl: https://www.kcc.edu/tuition-and-aid # NO trailing slash ## Used to build canonical link elements in document head
 port: 3000
 # BUILD
 timezone: America/Chicago
