@@ -5,10 +5,10 @@
     <div class="card-header" id="heading-{{ forloop.index }}">
       <h3 class="mb-0">
         <button
-         class="btn btn-link btn-block text-left typography__h6--thin"
+         class="btn btn-link btn-block text-start typography__h6--thin"
          type="button"
-         data-toggle="collapse"
-         data-target="#collapse-{{ forloop.index }}"
+         data-bs-toggle="collapse"
+         data-bs-target="#collapse-{{ forloop.index }}"
          aria-expanded="{% if forloop.first %}true{% else %}false{% endif %}"
          aria-controls="collapse-{{ forloop.index }}">
           {{ item.question }}
@@ -19,7 +19,7 @@
      id="collapse-{{ forloop.index }}"
      class="collapse{% if forloop.first %} show{% endif %}"
      aria-labelledby="heading-{{ forloop.index }}"
-     data-parent="#accordionExample">
+     data-bs-parent="#accordionExample">
       <div class="card-body">
         <a
          href="cloudcannon:collections/{{ item.path }}"
@@ -29,7 +29,7 @@
           aria-hidden="true"
           xmlns="http://www.w3.org/2000/svg"
           fill="#fff"
-          class="mr-2"
+          class="me-2"
           height="24"
           width="24">
             <path d="M5 19h1.4l8.625-8.625-1.4-1.4L5 17.6ZM19.3 8.925l-4.25-4.2 1.4-1.4q.575-.575 1.413-.575.837 0 1.412.575l1.4 1.4q.575.575.6 1.388.025.812-.55 1.387ZM17.85 10.4 7.25 21H3v-4.25l10.6-10.6Zm-3.525-.725-.7-.7 1.4 1.4Z"/>

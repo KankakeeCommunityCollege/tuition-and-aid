@@ -66,8 +66,6 @@ markdown: kramdown
 #  - "_tabs"
 
 exclude:
-  - "gulpfile.js"
-  - "gulp-tasks/"
   - "node_modules"
   - "npm-debug.log"
   - "package.json"
@@ -75,17 +73,12 @@ exclude:
   - "README.md"
   - "Gemfile"
   - "Gemfile.lock"
-  - "gulpconfig.yml"
   - "webpack.config.js"
-  - "install.sh"
-  - "install_template.sh"
-  - "WEBPACK-BABEL-COREJS_INFO.md"
   - "siteicon.png"
-  - "page-startups"
-  - "UPDATE_PROCEDURE.md"
-  - "ruby-version.txt"
   - "buildtools/"
   - "postcss.config.js"
+  - "look-for-deprecated-bs4-classes.mjs"
+  - "look-for-deprecated-bs4-js.mjs"
 
 uploads_dir: "uploads/" # specifies the default uploads directory for CloudCannon
 
