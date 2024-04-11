@@ -20,7 +20,7 @@ Your cost for classes will be based on how many credit hours you take each semes
 | Illinois (Out-of-district) | $155 | $19 | $275 | $449 |
 | Out-of-state | $155 | $19 | $687.01 | $861.01 |
 | Senior citizen | n/a | $19 | n/a | $19 |
-{: .table.table-striped}
+{: .table.table-responsive.table-striped}
 
 **In-district** residency is defined as living in [KCC's service area](../about/#service-area-and-residency), Community College District 520.&nbsp;**Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens still pay individual course fees.
 
