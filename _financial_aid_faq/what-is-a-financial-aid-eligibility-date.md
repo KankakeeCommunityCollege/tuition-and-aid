@@ -14,8 +14,9 @@ The eligibility date applies to all courses, even those beginning later in the s
 
 Upcoming eligibility dates
 
-* Spring 2024: Jan. 26, 2024
-* Summer 2024: June 14, 2024
+* Fall 2024: Sept. 6, 2024
+* Spring 2025: Jan. 31, 2025
+* Summer 2025: June 13, 2025
 
 #### What does the eligibility date mean to me?
 {: .typography__h4}
