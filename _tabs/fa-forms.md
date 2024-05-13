@@ -31,15 +31,15 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>24-25</u>**
 
-* [24-25 Financial Aid Important Information](../uploads/pdf/24-25-Financial-Aid-Important-Information.pdf)
-* [24-25 Financial Aid Calendar](../uploads/pdf/24-25-Financial-Aid-Calendar.pdf)
-* [24-25 FAFSA Application ENGLISH](../uploads/pdf/24-25-FAFSA-Application-ENGLISH.pdf)
-* [24-25 FAFSA Application SPANISH](../uploads/pdf/24-25-FAFSA-Application-SPANISH.pdf)
-* [24-25 Degree Confirmation](../uploads/pdf/24-25-Degree-Confirmation.pdf)
-* [24-25 Dependency Override Appeal](../uploads/pdf/24-25-Dependency-Override-Appeal.pdf)
-* [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf)
-* [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25-Income-Adjustment-Dependent-Student.pdf)
-* [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25-Income-Adjustment-Independent-Student.pdf)
+* [24-25 Financial Aid Important Information](../uploads/pdf/24-25-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
+* [24-25 Financial Aid Calendar](../uploads/pdf/24-25-Financial-Aid-Calendar.pdf){: target="_blank" rel="noopener"}
+* [24-25 FAFSA Application ENGLISH](../uploads/pdf/24-25-FAFSA-Application-ENGLISH.pdf){: target="_blank" rel="noopener"}
+* [24-25 FAFSA Application SPANISH](../uploads/pdf/24-25-FAFSA-Application-SPANISH.pdf){: target="_blank" rel="noopener"}
+* [24-25 Degree Confirmation](../uploads/pdf/24-25-Degree-Confirmation.pdf){: target="_blank" rel="noopener"}
+* [24-25 Dependency Override Appeal](../uploads/pdf/24-25-Dependency-Override-Appeal.pdf){: target="_blank" rel="noopener"}
+* [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
+* [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25-Income-Adjustment-Dependent-Student.pdf){: target="_blank" rel="noopener"}
+* [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25-Income-Adjustment-Independent-Student.pdf){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -49,9 +49,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 &nbsp;
 
 * [2023-24 Map Award Announcement](../uploads/pdf/23-24-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
-* [2024-25 Map Award Announcement](../uploads/pdf/2024-2025-MAP-Award-Announcement.pdf)
-
-&nbsp;
+* [2024-25 Map Award Announcement](../uploads/pdf/2024-2025-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
 
 &nbsp;
 
@@ -63,8 +61,6 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [Financial Aid Withdrawal and Return of Title IV Funds Policy](../uploads/pdf/Financial-Aid-Withdrawal-and-Return-of-Title-IV-Funds-Policy.pdf){: target="_blank" rel="noopener"}
 * [Satisfactory Academic Progress Policy](../uploads/pdf/Satisfactory-Academic-Progress-SAP-Policy.pdf){: target="_blank" rel="noopener"}
 * [Student Loan Policy](../uploads/pdf/Student-Loan-Policy.pdf){: target="_blank" rel="noopener"}
-
-&nbsp;
 
 &nbsp;
 
@@ -95,8 +91,6 @@ The federal process selects at random one-third of KCC's students for verificati
 
 &nbsp;
 
-&nbsp;
-
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
 
@@ -108,16 +102,12 @@ Completing the FAFSA is the first step toward receiving student loans. Once your
 
 &nbsp;
 
-&nbsp;
-
 ### KCC Foundation scholarships
 {: .typography__h3.links__offset}
 
 &nbsp;
 
 After you've applied for FAFSA and begun KCC's Financial Aid process, review the many [scholarships](https://foundation.kcc.edu/scholarships/){: target="_blank" rel="noopener"} available and apply.
-
-&nbsp;
 
 &nbsp;
 
