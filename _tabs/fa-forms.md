@@ -8,8 +8,6 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-&nbsp;
-
 **<u>23-24</u>**
 
 * [23-24 Financial Aid Handbook](../uploads/pdf/23-24-Financial-Aid-Handbook.pdf){: target="_blank" rel="noopener"}
