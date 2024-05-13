@@ -83,18 +83,8 @@ The federal process selects at random one-third of KCC's students for verificati
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -104,20 +94,8 @@ Completing the FAFSA is the first step toward receiving student loans. Once your
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### KCC Foundation scholarships
 {: .typography__h3.links__offset}
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
@@ -125,20 +103,8 @@ After you've applied for FAFSA and begun KCC's Financial Aid process, review the
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ### Income Adjustments
 {: .typography__h3.links__offset}
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
 
