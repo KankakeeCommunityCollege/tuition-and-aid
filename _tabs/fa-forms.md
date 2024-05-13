@@ -5,8 +5,6 @@ order: 3
 ---
 The first step is always completing the [Free Application for Federal Student Aid: FAFSA](http://www.fafsa.gov/){: target="_blank" rel="noopener"}.&nbsp;&nbsp;
 
-&nbsp;
-
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
@@ -33,9 +31,6 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 * [2023-24 Map Award Announcement](../uploads/pdf/23-24-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
 * [2024-25 Map Award Announcement](../uploads/pdf/2024-2025-MAP-Award-Announcement.pdf)
 
