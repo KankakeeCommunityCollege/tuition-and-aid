@@ -85,9 +85,6 @@ The federal process selects at random one-third of KCC's students for verificati
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 Completing the FAFSA is the first step toward receiving student loans. Once your FAFSA file is complete, contact us or visit our office for a KCC student loan or Parent Plus loan application.
 
 * [Understanding your loan](../uploads/understanding-federal-direct-staff-Loan.pdf){: target="_blank" rel="noopener"}
