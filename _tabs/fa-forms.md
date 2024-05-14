@@ -36,6 +36,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
 * [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25-Income-Adjustment-Dependent-Student.pdf){: target="_blank" rel="noopener"}
 * [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25-Income-Adjustment-Independent-Student.pdf){: target="_blank" rel="noopener"}
+* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form-rev-5-24.pdf){: target="_blank" rel="noopener"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
@@ -69,8 +70,6 @@ The federal process selects at random one-third of KCC's students for verificati
 * [24-25 Illinois Residency Requirements-Independent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
 * [24-25 Independent V4 Verification Worksheet](../uploads/pdf/24-25-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
 * [24-25 Independent Verification Worksheet-V1, V5](../uploads/pdf/24-25-Independent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
-
-&nbsp;
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
