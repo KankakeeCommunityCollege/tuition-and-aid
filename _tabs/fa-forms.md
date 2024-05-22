@@ -114,7 +114,11 @@ After you've applied for FAFSA and begun KCC's Financial Aid process, review the
 
 ### Income Adjustments
 {: .typography__h3.links__offset}
+<<<<<<< HEAD
+You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
+=======
 
 &nbsp;
 
 You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
+>>>>>>> 378dfd331e27934cbe0748e45f9a71de67616d29
