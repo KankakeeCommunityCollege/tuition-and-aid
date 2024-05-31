@@ -7,8 +7,12 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 &nbsp;
 
+&nbsp;
+
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -31,6 +35,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>24-25</u>**
 
+* [24-25 Financial Aid Handbook](../uploads/pdf/24-25-Financial-Aid-Handbook.pdf){: target="_blank" rel="noopener"}
 * [24-25 Financial Aid Important Information](../uploads/pdf/24-25-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
 * [24-25 Financial Aid Calendar](../uploads/pdf/24-25-Financial-Aid-Calendar.pdf){: target="_blank" rel="noopener"}
 * [24-25 FAFSA Application ENGLISH](../uploads/pdf/24-25-FAFSA-Application-ENGLISH.pdf){: target="_blank" rel="noopener"}
@@ -44,8 +49,12 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 &nbsp;
 
+&nbsp;
+
 ### State MAP grant information
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -54,8 +63,12 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 &nbsp;
 
+&nbsp;
+
 ### Financial Aid Policies
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -65,8 +78,12 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 &nbsp;
 
+&nbsp;
+
 ### Verification selection
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -92,8 +109,12 @@ The federal process selects at random one-third of KCC's students for verificati
 
 &nbsp;
 
+&nbsp;
+
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -103,8 +124,12 @@ Completing the FAFSA is the first step toward receiving student loans. Once your
 
 &nbsp;
 
+&nbsp;
+
 ### KCC Foundation scholarships
 {: .typography__h3.links__offset}
+
+&nbsp;
 
 &nbsp;
 
@@ -112,13 +137,17 @@ After you've applied for FAFSA and begun KCC's Financial Aid process, review the
 
 &nbsp;
 
+&nbsp;
+
 ### Income Adjustments
 {: .typography__h3.links__offset}
-<<<<<<< HEAD
-You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
-=======
+
+&nbsp;
+
+«««&lt; HEAD You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​ =======
 
 &nbsp;
 
 You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
->>>>>>> 378dfd331e27934cbe0748e45f9a71de67616d29
+
+> > > > > > > 378dfd331e27934cbe0748e45f9a71de67616d29
