@@ -3,14 +3,10 @@ name: Financial Aid Forms
 tabs_page: Financial Aid
 order: 3
 ---
-The first step is always completing the [Free Application for Federal Student Aid: FAFSA](http://www.fafsa.gov/){: target="_blank" rel="noopener"}.&nbsp;&nbsp;
-
-&nbsp;
+The first step is always completing the [Free Application for Federal Student Aid: FAFSA](http://www.fafsa.gov/){: target="_blank" rel="noopener"}.&nbsp;
 
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
-
-&nbsp;
 
 **<u>23-24</u>**
 
@@ -31,6 +27,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 **<u>24-25</u>**
 
+* [24-25 Financial Aid Handbook](../uploads/pdf/24-25-Financial-Aid-Handbook.pdf){: target="_blank" rel="noopener"}
 * [24-25 Financial Aid Important Information](../uploads/pdf/24-25-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
 * [24-25 Financial Aid Calendar](../uploads/pdf/24-25-Financial-Aid-Calendar.pdf){: target="_blank" rel="noopener"}
 * [24-25 FAFSA Application ENGLISH](../uploads/pdf/24-25-FAFSA-Application-ENGLISH.pdf){: target="_blank" rel="noopener"}
@@ -42,34 +39,19 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25-Income-Adjustment-Independent-Student.pdf){: target="_blank" rel="noopener"}
 * [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form-rev-5-24.pdf){: target="_blank" rel="noopener"}
 
-&nbsp;
-
 ### State MAP grant information
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 * [2023-24 Map Award Announcement](../uploads/pdf/23-24-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
 * [2024-25 Map Award Announcement](../uploads/pdf/2024-2025-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
 
-&nbsp;
-
 ### Financial Aid Policies
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 * [Financial Aid Withdrawal and Return of Title IV Funds Policy](../uploads/pdf/Financial-Aid-Withdrawal-and-Return-of-Title-IV-Funds-Policy.pdf){: target="_blank" rel="noopener"}
 * [Satisfactory Academic Progress Policy](../uploads/pdf/Satisfactory-Academic-Progress-&#40;SAP&#41;-Policy-Rev-5.24.pdf){: target="_blank" rel="noopener"}
 * [Student Loan Policy](../uploads/pdf/Student-Loan-Policy.pdf){: target="_blank" rel="noopener"}
 
-&nbsp;
-
 ### Verification selection
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener"} for required verification items.
 
 **<u>23-24</u>**
@@ -90,35 +72,15 @@ The federal process selects at random one-third of KCC's students for verificati
 * [24-25 Independent V4 Verification Worksheet](../uploads/pdf/24-25-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
 * [24-25 Independent Verification Worksheet-V1, V5](../uploads/pdf/24-25-Independent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
 
-&nbsp;
-
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 Completing the FAFSA is the first step toward receiving student loans. Once your FAFSA file is complete, contact us or visit our office for a KCC student loan or Parent Plus loan application.
-
 * [Understanding your loan](../uploads/understanding-federal-direct-staff-Loan.pdf){: target="_blank" rel="noopener"}
-
-&nbsp;
 
 ### KCC Foundation scholarships
 {: .typography__h3.links__offset}
-
-&nbsp;
-
 After you've applied for FAFSA and begun KCC's Financial Aid process, review the many [scholarships](https://foundation.kcc.edu/scholarships/){: target="_blank" rel="noopener"} available and apply.
-
-&nbsp;
 
 ### Income Adjustments
 {: .typography__h3.links__offset}
-<<<<<<< HEAD
-You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
-=======
-
-&nbsp;
-
-You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid.​​​​
->>>>>>> 378dfd331e27934cbe0748e45f9a71de67616d29
+You or your parents may have a special circumstance during a school year when your income changes substantially from the prior year. To apply for an income adjustment, please contact the Office of Financial Aid. 
