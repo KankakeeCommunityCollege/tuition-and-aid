@@ -35,8 +35,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [24-25 Degree Confirmation](../uploads/pdf/24-25-Degree-Confirmation.pdf){: target="_blank" rel="noopener"}
 * [24-25 Dependency Override Appeal](../uploads/pdf/24-25-Dependency-Override-Appeal.pdf){: target="_blank" rel="noopener"}
 * [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
-* [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25-Income-Adjustment-Dependent-Student.pdf){: target="_blank" rel="noopener"}
-* [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25-Income-Adjustment-Independent-Student.pdf){: target="_blank" rel="noopener"}
+* [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25%20Income%20Adjustment-Dependent%20Student.pdf){: target="_blank" rel="noopener"}
+* [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25%20Income%20Adjustment-Independent%20Student.pdf){: target="_blank" rel="noopener"}
 * [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form-rev-5-24.pdf){: target="_blank" rel="noopener"}
 
 ### State MAP grant information
