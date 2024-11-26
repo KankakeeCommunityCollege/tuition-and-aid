@@ -28,9 +28,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 ### Financial Aid Policies
 {: .typography__h3.links__offset}
-* [Financial Aid Withdrawal and Return of Title IV Funds Policy](../uploads/pdf/Financial%20Aid%20Withdrawal%20and%20Return%20of%20Title%20IV%20Funds%20Policy%20Rev%206.24.pdf){: target="_blank" rel="noopener"}
-* [Satisfactory Academic Progress Policy](../uploads/pdf/Satisfactory-Academic-Progress-&#40;SAP&#41;-Policy-Rev-5.24.pdf){: target="_blank" rel="noopener"}
-* [Student Loan Policy](../uploads/pdf/Student-Loan-Policy.pdf){: target="_blank" rel="noopener"}
+
+See [Financial Aid Policies](#kcc-financial-aid-policies).
 
 ### Verification selection
 {: .typography__h3.links__offset}
