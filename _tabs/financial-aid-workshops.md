@@ -1,7 +1,7 @@
 ---
 name: 'Financial Aid Workshops'
 tabs_page: 'Financial Aid'
-order: 5
+order: 6
 ---
 
 {% include tockify.html %}
