@@ -8,6 +8,11 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
+**<u>25-26</u>**
+
+* [25-26 FAFSA Application ENGLISH](../uploads/pdf/2025-26%20paper%20fafsa%20English.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 FAFSA Application SPANISH](../uploads/pdf/2025-26%20paper%20fafsa%20Spanish.pdf){: target='_blank' rel='noopener noreferrer' }
+
 **<u>24-25</u>**
 
 * [24-25 Financial Aid Handbook](../uploads/pdf/24-25-Financial-Aid-Handbook.pdf){: target="_blank" rel="noopener"}
