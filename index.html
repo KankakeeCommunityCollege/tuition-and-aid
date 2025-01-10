@@ -4,13 +4,6 @@ homepage: true
 baseurl:
 title: Tuition & Aid
 description:
-slides:
-  - image: uploads/paying-for-college-web-banner_16by9.jpg
-    alt-text: Paying for college financial aid workshop
-    url: uploads/pdf/paying-for-college-flier_2021.pdf
-hero_banner_image:
-hero_banner_alt:
-hero_banner_link:
 page_lead: >-
   KCC has numerous options for students of all income levels to receive
   financial support including multiple grants for their&nbsp;education.
@@ -26,18 +19,8 @@ _inputs:
     comment: Show or hide a button/link after the page lead
 ---
 <main class="container">
-  {%- comment -%}
-  <!-- Uncomment to add hero-sider -->
-  {% include hero-slider.html %}
-  {%- endcomment -%}
   <div class="row">
     <div class="col">
-      {%- comment -%}
-      To switch from a banner to a slider:
-        - Comment-out below: `{% include her-banner %}`
-        - Uncomment the above include statement: `{% includes hero-slider.html %}`
-      {%- endcomment -%}
-      {% include hero-banner.html %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
       {% if page.page_lead %}
