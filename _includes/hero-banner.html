@@ -1,12 +1,12 @@
-{% if page.hero_banner_image and page.hero_banner_image != '' %}
-  {% if page.hero_banner_link and page.hero_banner_link != '' %}
+{% if page.hero_banner_image %}
+  {% if page.hero_banner_link %}
   <a href="{{ page.hero_banner_link }}">
   {% endif %}
   <img
     src="{{ page.baseurl }}{{ page.hero_banner_image }}"
     class="img-fluid img__full-width mb-3"
     alt="{{ page.hero_banner_alt }}">
-    {% if page.hero_banner_link and page.hero_banner_link != '' %}
+    {% if page.hero_banner_link %}
   </a>
   {% endif %}
 {% endif %}
