@@ -41,7 +41,7 @@ Payment deadlines may vary based on your registration dates. Full payments are a
     </tr>
     <tr>
       <td>In-person/Online: Dec. 7, 2024</td>
-      <td>by 5 p.m. Jan. 21, 2025</td>
+      <td>by 5 p.m. Jan. 28, 2025</td>
     </tr>
   </tbody>
 </table>
