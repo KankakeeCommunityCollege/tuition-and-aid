@@ -18,19 +18,6 @@ Payment deadlines may vary based on your registration dates. Full payments are a
   </thead>
   <tbody>
     <tr>
-      <th rowspan="3">Fall 2024</th>
-      <td>Online: April 1 - Aug. 2, 2024</td>
-      <td>by 5 p.m. Aug. 2, 2024</td>
-    </tr>
-    <tr>
-      <td>In-person:  April 8 - Aug. 2, 2024</td>
-      <td>by 5 p.m. Aug. 2, 2024</td>
-    </tr>
-    <tr>
-      <td>In-person/Online:  Aug. 3 - Sept. 3, 2024</td>
-      <td>by 5 p.m. Sept. 3, 2024</td>
-    </tr>
-    <tr>
       <th rowspan="3">Spring 2025</th>
       <td>Online: Oct. 7 - Dec. 6, 2024</td>
       <td>by 5 p.m. Dec 6, 2024</td>
