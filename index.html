@@ -11,6 +11,18 @@ slides:
 hero_banner_image:
 hero_banner_alt:
 hero_banner_link:
+page_lead: >-
+  KCC has numerous options for students of all income levels to receive
+  financial support including multiple grants for their&nbsp;education.
+page_lead_call_to_action:
+  show_button: true
+  button_text: 'Financial Support Opportunities'
+  button_link: './financial-support/'
+_inputs:
+  page_lead:
+    comment: Lead paragraph for the page (larger intro text)
+  page_lead_call_to_action.show_button:
+    comment: Show or hide a button/link after the page lead
 ---
 <main class="container">
   {%- comment -%}
@@ -27,6 +39,12 @@ hero_banner_link:
       {% include hero-banner.html %}
       {% include breadcrumbs.html %}
       <h2 class="typography__h2">{{ page.title }}</h2>
+      {% if page.page_lead %}
+        <p class="lead mb-1">{{ page.page_lead }}</p>
+      {% endif %}
+      {% if page.page_lead_call_to_action.show_button %}
+        <a href="{{ page.page_lead_call_to_action.button_link }}" class="btn btn-primary mb-3">{{ page.page_lead_call_to_action.button_text }}</a>
+      {% endif %}
       {% include accordion.html %}
     </div>
   </div>
