@@ -60,6 +60,8 @@ The federal process selects at random one-third of KCC's students for verificati
 * [25-26 Dependent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Illinois Residency Requirements - Dependent](../uploads/pdf/25-26%20Dependent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Illinois Residency Requirements - Independent](../uploads/pdf/25-26%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Independent V4 Verification Worksheet](../uploads/pdf/25-26%20Independent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Independent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Independent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
 
 **<u>24-25</u>**
 
