@@ -15,8 +15,10 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [25-26 FAFSA Application SPANISH](../uploads/pdf/2025-26%20paper%20fafsa%20Spanish.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Degree Confirmation](../uploads/pdf/25-26%20Bachelor's%20Degree%20Confirmation.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Dependency Override Appeal](../uploads/pdf/25-26%20Dependency%20Override%20Appeal.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Unusual Enrollment History Form](../uploads/pdf/25-26%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Income Adjustment - Dependent Student](../uploads/pdf/25-26%20Income%20Adjustment-Dependent%20Student.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Income Adjustment - Independent Student](../uploads/pdf/25-26%20Income%20Adjustment-Independent%20Student.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 SAP Appeal Form](../uploads/pdf/25-26%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener noreferrer' }
 
 **<u>24-25</u>**
 
