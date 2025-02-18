@@ -54,14 +54,21 @@ See [Financial Aid Policies](#kcc-financial-aid-policies).
 {: .typography__h3.links__offset}
 The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener"} for required verification items.
 
+**<u>25-26</u>**
+
+* [25-26 Dependent V4 Verification Worksheet](../uploads/pdf/25-26%20Dependent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Dependent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Illinois Residency Requirements - Dependent](../uploads/pdf/25-26%20Dependent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Illinois Residency Requirements - Independent](../uploads/pdf/25-26%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
+
 **<u>24-25</u>**
 
 * [24-25 Dependent V4 Verification Worksheet](../uploads/pdf/24-25-Dependent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [24-25 Dependent Verification Worksheet-V1, V5](../uploads/pdf/24-25-Dependent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
-* [24-25 Illinois Residency Requirements-Dependent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
-* [24-25 Illinois Residency Requirements-Independent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
+* [24-25 Dependent Verification Worksheet - V1, V5](../uploads/pdf/24-25-Dependent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
+* [24-25 Illinois Residency Requirements - Dependent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
+* [24-25 Illinois Residency Requirements - Independent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
 * [24-25 Independent V4 Verification Worksheet](../uploads/pdf/24-25-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [24-25 Independent Verification Worksheet-V1, V5](../uploads/pdf/24-25-Independent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
+* [24-25 Independent Verification Worksheet - V1, V5](../uploads/pdf/24-25-Independent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
