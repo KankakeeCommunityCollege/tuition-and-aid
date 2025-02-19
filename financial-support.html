@@ -8,6 +8,11 @@ description: >-
 page_lead: >-
   KCC has numerous options for students of all income levels to receive
   financial support including multiple grants for their&nbsp;education.
+banner_image: uploads/financial-support_opportunities-banner.jpg
+banner_alt_text: >-
+  KCC has financial support opportunities. You may be eligible for some of it!
+  The money does not have to be repaid. Funds can cover tuition, fees, books,
+  supplies & other needs.
 _inputs:
   page_lead:
     comment: Lead paragraph for the page (larger intro text)
@@ -18,6 +23,18 @@ _inputs:
   <div class="row mb-5">
     <div class="col">
       {% include breadcrumbs.html %}
+      <div class="text-center">
+        {% assign first_char = page.banner_image | slice: 0 %}
+        {% if first_char == '/' %}
+          {% assign banner = page.banner_image | remove_first: '/' %}
+        {% else %}
+          {% assign banner = page.banner_image %}
+        {% endif %}
+        <img
+          src="{{ page.baseurl }}{{ banner }}"
+          class="img-fluid mb-3"
+          alt="{{ page.banner_alt_text }}">
+      </div>
       <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
       <p class="lead">{{ page.page_lead }}</p>
       <div class="editable mb-3">
