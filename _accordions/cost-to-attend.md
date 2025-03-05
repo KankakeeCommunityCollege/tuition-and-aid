@@ -17,8 +17,8 @@ Your cost for classes will be based on how many credit hours you take each semes
 | Residency | Tuition per credit hour | Basic fees per credit hour | Out-of-district fee\* | Total per credit hour |
 | --- | --- | --- | --- | --- |
 | Illinois (In-district) | $155 | $19 | n/a | $174 |
-| Illinois (Out-of-district) | $155 | $19 | $275 | $449 |
-| Out-of-state | $155 | $19 | $687.01 | $861.01 |
+| Illinois (Out-of-district) | $155 | $19 | $278 | $452 |
+| Out-of-state | $155 | $19 | $450 | $624 |
 | Senior citizen | n/a | $19 | n/a | $19 |
 {: .table.table-responsive.table-striped}
 
