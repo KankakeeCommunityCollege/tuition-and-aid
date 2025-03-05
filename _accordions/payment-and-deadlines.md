@@ -104,7 +104,7 @@ Tuition refunds for credit division courses are based on the date of withdrawal.
 ### Course Withdrawals
 {: .typography__h3.links__offset}
 
-Tuition refunds for withdrawals from college credit division courses are based on refund date. Refund dates are printed on your registration statement. You can receive a 100 percent refund through 10 percent of the course (approximately 12 calendar days for a 16-week course). No refund will be given if you [withdraw](/academics/register) after 10 percent of the course has been completed.
+Tuition refunds for withdrawals from college credit division courses are based on refund date. Refund dates are printed on your registration statement. You can receive a 100 percent refund through 10 percent of the course (approximately 12 calendar days for a 16-week course). No refund will be given if you [withdraw](https://www.kcc.edu/academics/register/#cancellations-withdrawals-and-refunds) after 10 percent of the course has been completed.
 
 ### Course Cancellation
 {: .typography__h3.links__offset}

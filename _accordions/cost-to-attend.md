@@ -22,7 +22,7 @@ Your cost for classes will be based on how many credit hours you take each semes
 | Senior citizen | n/a | $19 | n/a | $19 |
 {: .table.table-responsive.table-striped}
 
-**In-district** residency is defined as living in [KCC's service area](../about/#service-area-and-residency), Community College District 520.&nbsp;**Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens still pay individual course fees.
+**In-district** residency is defined as living in [KCC's service area](https://www.kcc.edu/about/service-area/), Community College District 520.&nbsp;**Senior citizens** (60 years and older) residing within the college district will not be charged any tuition for credit division courses provided sufficient tuition-paying students are enrolled in the class to cover the cost of offering it. Senior citizens still pay individual course fees.
 
 **\*Residents of Benton, Lake and Newton counties** in Indiana are charged the Illinois out-of-district rate for tuition rather than the out-of-state rate.
 
