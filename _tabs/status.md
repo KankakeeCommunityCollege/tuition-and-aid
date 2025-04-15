@@ -6,9 +6,9 @@ order: 2
 ### FAFSA Status
 {: .typography__h3.links__offset}
 
-Within seven business days after submitting the FAFSA online, you will receive a Student Aid Report (SAR) at the email address you provided. If you did not provide an email address, the SAR will be sent to your mailing address.
+Within seven business days after submitting the FAFSA online, you will receive a FAFSA Submission Summary (FSS) at the email address you provided. If you did not provide an email address, the FSS will be sent to your mailing address.
 
-**Review the SAR immediately for errors.** If corrections are needed, log into the [FAFSA website](https://www.fafsa.gov/){: target="_blank" rel="noopener noreferrer"} and follow the correction instructions.
+**Review the FSS immediately for errors.** If corrections are needed, log into the [FAFSA website](https://www.fafsa.gov/){: target="_blank" rel="noopener noreferrer"} and follow the correction instructions.
 
 ### Communications
 {: .typography__h3.links__offset}
