@@ -29,7 +29,7 @@ To be eligible for student employment, you must:
 ### Apply online
 {: .typography__h3.links__offset}
 
-All student employment opportunities will be posted through [KCC's job openings site](https://www.governmentjobs.com/careers/kankakeecc/transferjobs){: target="_blank" rel="noopener noreferrer"}. Applications are completed online. Below are the types of student employment available.
+All student employment opportunities will be posted through [KCC's job openings site](https://www.governmentjobs.com/careers/kankakeecc/transferjobs){: target="_blank" rel="noopener noreferrer"}.
 
 **For more information**
 
