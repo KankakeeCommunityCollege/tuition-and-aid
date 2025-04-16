@@ -20,7 +20,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [25-26 Unusual Enrollment History Form](../uploads/pdf/25-26%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener' }
 * [25-26 Income Adjustment - Dependent Student](../uploads/pdf/25-26%20Income%20Adjustment-Dependent%20Student.pdf){: target='_blank' rel='noopener' }
 * [25-26 Income Adjustment - Independent Student](../uploads/pdf/25-26%20Income%20Adjustment-Independent%20Student.pdf){: target='_blank' rel='noopener' }
-* [25-26 SAP Appeal Form](../uploads/pdf/25-26%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
+* [SAP Appeal Form](../uploads/pdf/SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
 
 **<u>24-25</u>**
 
@@ -34,7 +34,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
 * [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25%20Income%20Adjustment-Dependent%20Student.pdf){: target="_blank" rel="noopener"}
 * [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25%20Income%20Adjustment-Independent%20Student.pdf){: target="_blank" rel="noopener"}
-* [SAP Appeal Form](../uploads/pdf/SAP-Appeal-Form-rev-5-24.pdf){: target="_blank" rel="noopener"}
+* [SAP Appeal Form](../uploads/pdf/SAP%20Appeal%20Form.pdf){: target="_blank" rel="noopener"}
 
 ### State MAP grant information
 {: .typography__h3.links__offset}
