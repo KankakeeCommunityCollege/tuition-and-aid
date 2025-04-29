@@ -68,5 +68,5 @@ View the [Student Employment tab](#student-employment) for details.
 ### Other Types of Assistance
 {: .typography__h3.links__offset}
 
-* [KCC Foundation Scholarships](https://foundation.kcc.edu/scholarships)
-* [Workforce Innovation & Opportunity Act (WIOA)](https://wioa.kcc.edu)
+* [KCC Foundation Scholarships](https://www.kcc.edu/foundation/scholarships)
+* [Workforce Innovation & Opportunity Act (WIOA)](https://www.kcc.edu/wioa/)
