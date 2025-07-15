@@ -11,14 +11,14 @@ Payment deadlines may vary based on your registration dates. Full payments are a
 <table class="table table-striped">
   <thead>
     <tr>
-      <th>Term</th>
-      <th>If you register</th>
-      <th>You must pay ...</th>
+      <th scope="col">Term</th>
+      <th scope="col">If you register</th>
+      <th scope="col">You must pay ...</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th rowspan="3">Summer 2025</th>
+      <th scope="row" rowspan="3">Summer 2025</th>
       <td>Online:  Mar. 17 - May 1, 2025</td>
       <td>by 5 p.m. May 1, 2025</td>
     </tr>
@@ -31,7 +31,7 @@ Payment deadlines may vary based on your registration dates. Full payments are a
       <td>by 5 p.m. Jun. 10, 2025</td>
     </tr>
     <tr>
-      <th rowspan="3">Fall 2025</th>
+      <th scope="row" rowspan="3">Fall 2025</th>
       <td>Online:  Apr. 7 – Jul. 31, 2025</td>
       <td>by 5 p.m. Jul. 31, 2025</td>
     </tr>

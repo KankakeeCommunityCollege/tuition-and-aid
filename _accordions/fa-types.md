@@ -50,7 +50,7 @@ These loans provide for parents who want to borrow to help pay for their child's
 ##### Successful Repayment
 {: .typography__h5.links__offset }
 
-<div class="positioning__iframe-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DDlBmaueFRQ?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="positioning__iframe-wrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/DDlBmaueFRQ?rel=0" title="Video on How to Prepare for Successful Student Loan Repayment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Work Study
 {: .typography__h3.links__offset}
