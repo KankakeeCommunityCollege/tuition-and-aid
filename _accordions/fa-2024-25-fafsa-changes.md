@@ -21,4 +21,4 @@ For more information on the upcoming changes:
 * [More Information on the FAFSA Simplification Act](https://studentaid.gov/help-center/answers/article/fafsa-simplification-act){: target='_blank' rel='noopener noreferrer' }
 * [FAFSA Updates](https://financialaidtoolkit.ed.gov/tk/learn/fafsa/updates.jsp){: target='_blank' rel='noopener noreferrer' }
 
-<div class="iframe__yt--wrapper mb-3"><iframe width="560" height="315" src="https://www.youtube.com/embed/UOgIb7StyPU?si=JtHhGkE1VJMeX1tW&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="iframe__yt"></iframe></div>
+<div class="iframe__yt--wrapper mb-3"><iframe title="Video on What’s Changed for the 2024–25 FAFSA® Form?" width="560" height="315" src="https://www.youtube.com/embed/UOgIb7StyPU?si=JtHhGkE1VJMeX1tW&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="iframe__yt"></iframe></div>
