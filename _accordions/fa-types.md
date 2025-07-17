@@ -24,7 +24,7 @@ This is a federally funded program for students who demonstrate exceptional need
 #### MAP Grant
 {: .typography__h5.links__offset}
 
-This is a state-funded program that provides assistance toward the cost of tuition and service fees. Awards range from $300 to $8,400 per year and fluctuate as funding runs out. It is extremely important to apply as early as possible for this award since funds are limited. The Illinois Student Assistance Commission(ISAC) is suspending the announcement of 2024-25 Monetary Awards Program (MAP) grants for all students whose initial 2024-25 FAFSA is received by the FAFSA Processing System (FPS) on or after August 21, 2024.
+This is a state-funded program that provides assistance toward the cost of tuition and service fees. Awards range from $300 to $8,400 per year and fluctuate as funding runs out. It is extremely important to apply as early as possible for this award since funds are limited.
 
 ### Loans
 {: .typography__h3.links__offset}
@@ -70,3 +70,4 @@ View the [Student Employment tab](#student-employment) for details.
 
 * [KCC Foundation Scholarships](https://www.kcc.edu/foundation/scholarships)
 * [Workforce Innovation & Opportunity Act (WIOA)](https://www.kcc.edu/wioa/)
+* [ISAC Illinois and Federal Financial Aid Programs](https://www.isac.org/students/during-college/types-of-financial-aid/illinois-and-federal-financial-aid-programs.html){: target='_blank' rel='noopener noreferrer' }
