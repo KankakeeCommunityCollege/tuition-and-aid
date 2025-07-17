@@ -19,8 +19,6 @@ Conviction of drug distribution or possession may make you ineligible.
 
 \*[Retention of Illinois Students & Equity (RISE) Act​](https://www.isac.org/students/before-college/financial-aid-planning/retention-of-illinois-rise-act/){: target="_blank" rel="noopener noreferrer"}
 
-\*[KCC RISE ACT flier and information](../uploads/kcc-rise-act-flier-and-info.pdf){: target="_blank" rel="noopener noreferrer"}
-
 ### Maintaining Financial Aid Eligibility
 {: .typography__h3.links__offset}
 
