@@ -9,7 +9,7 @@ Whether you are hoping to receive grants, looking for student employment or need
 ### 1\. Apply to KCC
 {: .typography__h3.links__offset}
 
-[Complete the admissions application](https://kccedu.force.com/portal/TX_SiteLogin?startURL=/portal/TargetX_Base__Portal){: target="_blank" rel="noopener noreferrer"}. A KCC admissions form must be on file in order for us to complete your financial aid file.
+[Complete the admissions application](https://kccedu.my.site.com/portal/TX_SiteLogin?startURL=%2Fportal%2FTargetX_Base__Portal){: target="_blank" rel="noopener noreferrer"}. A KCC admissions form must be on file in order for us to complete your financial aid file.
 
 ### 2\. Create a Federal Student Aid Identification (FSA ID)
 {: .typography__h3.links__offset}
