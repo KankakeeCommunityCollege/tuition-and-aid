@@ -26,30 +26,12 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [25-26 Tax Filing Confirmation Form - Parent](../uploads/pdf/25-26%20Tax%20Filing%20Confirmation%20Form%20-%20Parent.pdf){: target='_blank' rel='noopener' }
 * [25-26 Tax Filing Confirmation Form - Parent Spouse](../uploads/pdf/25-26%20Tax%20Filing%20Confirmation%20Form%20-%20Parent%20Spouse.pdf){: target='_blank' rel='noopener' }
 
-**<u>24-25</u>**
-
-* [24-25 Financial Aid Handbook](../uploads/pdf/24-25-Financial-Aid-Handbook.pdf){: target="_blank" rel="noopener"}
-* [24-25 Financial Aid Important Information](../uploads/pdf/24-25-Financial-Aid-Important-Information.pdf){: target="_blank" rel="noopener"}
-* [24-25 Financial Aid Calendar](../uploads/pdf/24-25-Financial-Aid-Calendar.pdf){: target="_blank" rel="noopener"}
-* [24-25 FAFSA Application ENGLISH](../uploads/pdf/24-25-FAFSA-Application-ENGLISH.pdf){: target="_blank" rel="noopener"}
-* [24-25 FAFSA Application SPANISH](../uploads/pdf/24-25-FAFSA-Application-SPANISH.pdf){: target="_blank" rel="noopener"}
-* [24-25 Degree Confirmation](../uploads/pdf/24-25-Degree-Confirmation.pdf){: target="_blank" rel="noopener"}
-* [24-25 Dependency Override Appeal](../uploads/pdf/24-25%20Dependency%20Override%20Appeal.pdf){: target="_blank" rel="noopener"}
-* [24-25 Unusual Enrollment History Form](../uploads/pdf/24-25-Unusual-Enrollment-History-Form.pdf){: target="_blank" rel="noopener"}
-* [24-25 Income Adjustment - Dependent Student](../uploads/pdf/24-25%20Income%20Adjustment-Dependent%20Student.pdf){: target="_blank" rel="noopener"}
-* [24-25 Income Adjustment - Independent Student](../uploads/pdf/24-25%20Income%20Adjustment-Independent%20Student.pdf){: target="_blank" rel="noopener"}
-* [24-25 SAP Appeal Form](../uploads/pdf/24-25%20SAP%20Appeal%20Form.pdf){: target="_blank" rel="noopener"}
-
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
 **<u>25-26</u>**
 
 * [25-26 MAP Award Announcement](../uploads/pdf/25-26%20MAP%20Award%20Announcement.pdf){: target='_blank' rel='noopener noreferrer' }
-
-**<u>24-25</u>**
-
-* [24-25 Map Award Announcement](../uploads/pdf/2024-2025-MAP-Award-Announcement.pdf){: target="_blank" rel="noopener"}
 
 ### Financial Aid Policies
 {: .typography__h3.links__offset}
@@ -68,15 +50,6 @@ The federal process selects at random one-third of KCC's students for verificati
 * [25-26 Illinois Residency Requirements - Independent](../uploads/pdf/25-26%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Independent V4 Verification Worksheet](../uploads/pdf/25-26%20Independent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Independent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Independent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
-
-**<u>24-25</u>**
-
-* [24-25 Dependent V4 Verification Worksheet](../uploads/pdf/24-25-Dependent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [24-25 Dependent Verification Worksheet - V1, V5](../uploads/pdf/24-25-Dependent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
-* [24-25 Illinois Residency Requirements - Dependent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Dependent.pdf){: target="_blank" rel="noopener"}
-* [24-25 Illinois Residency Requirements - Independent](../uploads/pdf/24-25-Illinois-Residency-Requirements-Independent.pdf){: target="_blank" rel="noopener"}
-* [24-25 Independent V4 Verification Worksheet](../uploads/pdf/24-25-Independent-V4-Verification-Worksheet.pdf){: target="_blank" rel="noopener"}
-* [24-25 Independent Verification Worksheet - V1, V5](../uploads/pdf/24-25-Independent-Verification-Worksheet-V1--V5.pdf){: target="_blank" rel="noopener"}
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
