@@ -31,7 +31,7 @@ Your cost for classes will be based on how many credit hours you take each semes
 ### Costs for Occupational and Health Career Programs
 {: .typography__h3.links__offset}
 
-To see specific costs, including books, clothing and equipment, for occupational and health career programs, refer to KCC's [electronic catalog](https://kcc.smartcatalogiq.com/en/current/academic-catalog/programs/general-information-and-electives/info-on-occupational-programs/ "Info on Occupational Programs"){: target="_blank" rel="noopener"}.
+To see specific costs, including books, clothing and equipment, for occupational and health career programs, refer to KCC's [electronic catalog](https://catalog.kcc.edu/info-on-occupational-programs){: target="_blank" rel="noopener"}.
 
 ### Other Expenses
 {: .typography__h3.links__offset}
