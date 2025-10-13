@@ -18,19 +18,6 @@ Payment deadlines may vary based on your registration dates. Full payments are a
   </thead>
   <tbody>
     <tr>
-      <th scope="row" rowspan="3">Summer 2025</th>
-      <td>Online:  Mar. 17 - May 1, 2025</td>
-      <td>by 5 p.m. May 1, 2025</td>
-    </tr>
-    <tr>
-      <td>In-Person:  Mar. 24 – May 1, 2025</td>
-      <td>by 5 p.m. May 1, 2025</td>
-    </tr>
-    <tr>
-      <td>In-Person/Online:  May 2, 2025</td>
-      <td>by 5 p.m. Jun. 10, 2025</td>
-    </tr>
-    <tr>
       <th scope="row" rowspan="3">Fall 2025</th>
       <td>Online:  Apr. 7 – Jul. 31, 2025</td>
       <td>by 5 p.m. Jul. 31, 2025</td>
@@ -42,6 +29,19 @@ Payment deadlines may vary based on your registration dates. Full payments are a
     <tr>
       <td>In-Person/Online:  Aug. 1, 2025</td>
       <td>by 5 p.m. Sept. 2, 2025</td>
+    </tr>
+    <tr>
+      <th scope="row" rowspan="3">Spring 2026</th>
+      <td>Online:  Oct. 6 - Dec. 4, 2025</td>
+      <td>by 5 p.m. Dec. 4, 2025</td>
+    </tr>
+    <tr>
+      <td>In-Person:  Oct. 13 – Dec. 4, 2025</td>
+      <td>by 5 p.m. Dec. 4, 2025</td>
+    </tr>
+    <tr>
+      <td>In-Person/Online:  Dec. 5, 2025</td>
+      <td>by 5 p.m. Jan. 27, 2026</td>
     </tr>
   </tbody>
 </table>
