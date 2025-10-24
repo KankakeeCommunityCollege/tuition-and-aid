@@ -8,7 +8,16 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### Financial aid at KCC
 {: .typography__h3.links__offset}
 
-**<u>25-26</u>**
+#### 26-27
+{: .typography__h6 }
+
+* [26-27 Financial Aid Handbook](../uploads/pdf/26-27%20Financial%20Aid%20Handbook.pdf){: target='_blank' rel='noopener' }
+* [26-27 Financial Aid Important Information](../uploads/pdf/26-27%20Financial%20Aid%20Important%20Information.pdf){: target='_blank' rel='noopener' }
+* [26-27 Financial Aid Calendar](../uploads/pdf/26-27%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener' }
+* [25-26 Degree Confirmation](../uploads/pdf/26-27%20Bachelor's%20Degree%20Confirmation.pdf){: target='_blank' rel='noopener' }
+
+#### 25-26
+{: .typography__h6 }
 
 * [25-26 Financial Aid Handbook](../uploads/pdf/25-26%20FA%20Handbook.pdf){: target='_blank' rel='noopener' }
 * [25-26 Financial Aid Important Information](../uploads/pdf/25-26%20Financial%20Aid%20Important%20Information.pdf){: target='_blank' rel='noopener' }
@@ -29,7 +38,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
-**<u>25-26</u>**
+#### 25-26
+{: .typography__h6 }
 
 * [25-26 MAP Award Announcement](../uploads/pdf/25-26%20MAP%20Award%20Announcement.pdf){: target='_blank' rel='noopener noreferrer' }
 
@@ -42,7 +52,8 @@ See [Financial Aid Policies](#kcc-financial-aid-policies).
 {: .typography__h3.links__offset}
 The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener"} for required verification items.
 
-**<u>25-26</u>**
+#### 25-26
+{: .typography__h6 }
 
 * [25-26 Dependent V4 Verification Worksheet](../uploads/pdf/25-26%20Dependent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
 * [25-26 Dependent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
