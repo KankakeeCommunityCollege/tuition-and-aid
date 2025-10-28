@@ -42,7 +42,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 #### 25-26
 {: .typography__h6 }
 
-* [25-26 MAP Award Announcement](../uploads/pdf/25-26%20MAP%20Award%20Announcement.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 MAP Award Announcement](../uploads/pdf/25-26%20MAP%20Award%20Announcement.pdf){: target='_blank' rel='noopener' }
 
 ### Financial Aid Policies
 {: .typography__h3.links__offset}
@@ -53,15 +53,24 @@ See [Financial Aid Policies](#kcc-financial-aid-policies).
 {: .typography__h3.links__offset}
 The federal process selects at random one-third of KCC's students for verification. Check your "Required Documents" on [Financial Aid Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener"} for required verification items.
 
+#### 26-27
+{: .typography__h6 }
+
+* [26-27 Dependent V4 Verification Worksheet](../uploads/pdf/26-27%20Dependent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+* [26-27 Dependent Verification Worksheet - V1, V5](../uploads/pdf/26-27%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+* [26-27 Illinois Residency Requirements - Dependent](../uploads/pdf/26-27%20Dependent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener' }
+* [26-27 Illinois Residency Requirements - Independent](../uploads/pdf/26-27%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener' }
+* [26-27 Independent Verification Worksheet - V1, V5](../uploads/pdf/26-27%20Independent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+
 #### 25-26
 {: .typography__h6 }
 
-* [25-26 Dependent V4 Verification Worksheet](../uploads/pdf/25-26%20Dependent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
-* [25-26 Dependent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
-* [25-26 Illinois Residency Requirements - Dependent](../uploads/pdf/25-26%20Dependent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
-* [25-26 Illinois Residency Requirements - Independent](../uploads/pdf/25-26%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener noreferrer' }
-* [25-26 Independent V4 Verification Worksheet](../uploads/pdf/25-26%20Independent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
-* [25-26 Independent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Independent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener noreferrer' }
+* [25-26 Dependent V4 Verification Worksheet](../uploads/pdf/25-26%20Dependent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+* [25-26 Dependent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Dependent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+* [25-26 Illinois Residency Requirements - Dependent](../uploads/pdf/25-26%20Dependent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener' }
+* [25-26 Illinois Residency Requirements - Independent](../uploads/pdf/25-26%20Independent%20Illinois%20Residency%20Requirements.pdf){: target='_blank' rel='noopener' }
+* [25-26 Independent V4 Verification Worksheet](../uploads/pdf/25-26%20Independent%20V4%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
+* [25-26 Independent Verification Worksheet - V1, V5](../uploads/pdf/25-26%20Independent%20V1-V5%20Verification%20Worksheet.pdf){: target='_blank' rel='noopener' }
 
 ### Stafford/PLUS loans
 {: .typography__h3.links__offset}
