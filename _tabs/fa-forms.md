@@ -39,6 +39,8 @@ The first step is always completing the [Free Application for Federal Student Ai
 ### State MAP grant information
 {: .typography__h3.links__offset}
 
+* [26-27 MAP Award Announcement](../uploads/pdf/26-27%20MAP%20Award%20Notification.pdf){: target='_blank' rel='noreferrer' }
+
 #### 25-26
 {: .typography__h6 }
 
