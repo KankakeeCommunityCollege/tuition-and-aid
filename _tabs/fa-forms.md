@@ -16,6 +16,9 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [26-27 Financial Aid Calendar](../uploads/pdf/26-27%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener' }
 * [26-27 Degree Confirmation](../uploads/pdf/26-27%20Bachelor's%20Degree%20Confirmation.pdf){: target='_blank' rel='noopener' }
 * [26-27 Dependency Override Appeal](../uploads/pdf/26-27%20Dependency%20Override%20Appeal.pdf){: target='_blank' rel='noopener' }
+* [26-27 Unusual Enrollment History Form](../uploads/pdf/26-27%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener' }
+* [26-27 Tax Filing Confirmation Form - Student](../uploads/pdf/26-27%20Tax%20Filing%20Confirmation%20-%20Student.pdf){: target='_blank' rel='noopener' }
+* [26-27 Tax Filing Confirmation Form - Student Spouse](../uploads/pdf/26-27%20Tax%20Filing%20Confirmation%20-%20Student%20Spouse.pdf){: target='_blank' rel='noopener' }
 
 #### 25-26
 {: .typography__h6 }
