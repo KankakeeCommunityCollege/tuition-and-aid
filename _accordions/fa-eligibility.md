@@ -19,7 +19,7 @@ Conviction of drug distribution or possession may make you ineligible.
 
 \*[Retention of Illinois Students & Equity (RISE) Act​](https://www.isac.org/students/before-college/financial-aid-planning/retention-of-illinois-rise-act/){: target="_blank" rel="noopener noreferrer"}
 
-### Maintaining Financial Aid Eligibility
+#### Maintaining Financial Aid Eligibility
 {: .typography__h3.links__offset}
 
 To maintain your eligibility to receive financial aid once you are enrolled at KCC, you must meet Satisfactory Academic Progress (SAP) requirements:
