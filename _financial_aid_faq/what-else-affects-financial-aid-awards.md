@@ -3,7 +3,7 @@ question: "What else affects financial aid awards?"
 order: 2
 ---
 
-#### What else affects financial aid awards?
+### What else affects financial aid awards?
 {: .typography__h4 }
 
 * Financial aid can only be awarded for courses that are required in your academic program.
