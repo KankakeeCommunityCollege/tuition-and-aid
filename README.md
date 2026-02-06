@@ -1,37 +1,8 @@
-# KCC Startup Template
+# KCC Tuition & Aid
 
-#### Jekyll + Webpack + Babel + Gulp + Sass + Autoprefixer + imagemin + BrowserSync + ...
+#### Jekyll + Webpack + Babel + Sass + Autoprefixer + imagemin + BrowserSync + ...
 
-This project's version of Ruby: `ruby-3.1.3`.
-
----
-
-<br>
-
-## Items TODO for Starting a New Project
-
-### Terminal TODO:
-
-- [ ] At terminal, add all the files to be tracked by git: `git add .`
-- [ ] At terminal, make the first commit: `git commit -m "First commit for <REPOSITORIES_NAME>"`
-- [ ] At terminal, add the project's remote origin: `git remote add origin git@github.com:KankakeeCommunityCollege/<REPOSITORIES_NAME_IN_GITHUB>.git`
-- [ ] At terminal, push the first commit using `-u` flag: `git push -u origin master`
-
-### README TODO:
-
-- [ ] `README.md` - replace "KCC Startup Template" with an appropriate title for this project.
-- [ ] `README.md` - replace "***A startup repo for creating new websites in the KCC website redesign project***" with an appropriate description for this project.
-
-### package.json TODO:
-
-- [ ] `package.json` - replace `"name": "kcc-startup"` with an appropriate name value.
-
-### Jekyll config TODO:
-
-- [ ] `_config.yml` - replace `public-url: "https://www.kcc.edu"` with the appropriate sub-domain.
-- [ ] `_config.yml` - replace Google Tag Manager placeholder-text with a key: `google-tag_key: Google Tag Manager key goes here`.
-
----
+-----
 
 <br>
 
@@ -47,77 +18,9 @@ You can find the kcc-gem-theme at https://rubygems.org/gems/kcc-gem-theme and on
 
 *The same setup can be achieved on Windows and Linux however, the requirements are different.*
 
----
+-----
 
 <br>
-
-## Develoment Environment
-
-### Xcode Command-Line Tools
-
-Install the Xcode command-line tools:
-
-```shell
-xcode-select --install
-```
-
-### [Homebrew](https://brew.sh/)
-
-Install homebrew:
-
-```shell
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
-
-### GNUPG
-
-```shell
-brew install gnupg gnupg2
-```
-
-### [RVM](https://rvm.io/) & ruby-2.5.0
-
-```shell
-# Install the GPG keys
-gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
-
-# Install RVM
-\curl -sSL https://get.rvm.io | bash -s stable
-```
-
-```shell
-# Install ruby-2.5.0
-rvm install ruby-2.5.0
-
-# Set ruby-2.5.0 as the default (loaded when bash is initiallized)
-rvm alias create default ruby-2.5.0
-```
-
-### [Node Version Mananger (NVM)](https://github.com/nvm-sh/nvm)
-
-```shell
-# Install NVM
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
-
-# Make sure it works
-command -v nvm
-```
-
-```shell
-# Install Node.js via NVM
-nvm install 10.15.3
-# Set it as the default
-nvm alias default 10.15.3
-
-# Some older respositories run on Node.js v8.9.4
-nvm install 8.9.4
-# Make an alias for it
-nvm alias old 8.9.4
-```
-
-<br>
-
----
 
 ## Requirements
 
@@ -126,70 +29,31 @@ nvm alias old 8.9.4
 $ gem install jekyll
 $ gem install bundler
 ```
- - Nodejs/npm - We use NVM (Node Version Manager): https://github.com/creationix/nvm
-   - .nvmrc file in this repo will make NVM use Node v8.9.4 (to avoid compatibility issues)
-   - Or, if you must - Use the Nodejs installer: https://nodejs.org/
+ - Nodejs/npm - We use NVM (Node Version Manager): <https://github.com/creationix/nvm>
+   - .nvmrc file in this repo will make NVM use the Node version listed in `.nvmrc` (to avoid compatibility issues)
+   - Or, if you must - Use the Nodejs installer: <https://nodejs.org/>
+ - Webpack 5
 
- - Gulp:
-```shell
-$ npm install --global gulp-cli # mac users may need sudo
-```
+The ruby version for this project is specified in the `.ruby-version` file.
 
----
+-------
 
 <br>
 
 ## Installation
 
-> This project has two different possible installations methods
+-------
 
----
+1. Clone (via ssh) the project and `cd` into the new project folder
+2. Install the gem and npm dependencies
 
-- To use this project as a starting point for creating a new site, use the instructions for "Installation - for Creating a New Project".
-- To work on development for this "kcc-startup-template" repo use the steps in "Installation - for Template Development".
-
----
-
-<br>
-
-### Installation - for Creating a New Project
-
-```shell
-git clone https://github.com/KankakeeCommunityCollege/kcc-startup-template.git <NEW_PROJECT_NAME>
-cd <NEW_PROJECT_NAME>
-cp ruby-version.txt .ruby-version && nvm use && rvm use # Ensures you are using the correct versions prior to install.
-sh install.sh # install.sh runs bundle & npm installs, among a few other things.
+```bash
+git clone git@github.com:KankakeeCommunityCollege/tuition-and-aid.git
+cd tuition-and-aid
+npm i && bundle i ## Or `npm install && bundle install` if you like typing more
 ```
 
----
-
-<br>
-
-### Installation - for Template Development
-
-
-```shell
-$ git clone https://github.com/KankakeeCommunityCollege/kcc-startup-template.git
-$ cd kcc-startup-template
-cp ruby-version.txt .ruby-version && nvm use && rvm use # Ensures you are using the correct versions prior to install.
-$ sh install_template.sh # install.sh runs bundle & npm installs, among a few other things.
-```
-
----
-
-<br>
-
-## The Build
-
-Both production builds and dev builds use the run-p (running npm scripts in parallel) using [npm-run-all](https://www.npmjs.com/package/npm-run-all).
-
-Both dev and production builds run two npm scripts in parallel: one starts the `$ gulp` command, the other starts `$ npx webpack`.
-
-**A dev build** runs the default gulp task (i.e. with no `--production` flag) and Webpack passing the `--mode="development"` flag to Webpack.
-
-**A production build** runs gulp with the `--production` flag and Webpack with the `--mode=production` flag.
-
----
+-----
 
 <br>
 
@@ -208,7 +72,7 @@ Dev builds run quicker on your machine. They make un-minified CSS, JS, & images.
 
 Dev builds also create a sourcemap in the stylesheets. This allows tools like Chrome's inspect to display the Sass module a particular style is located in.
 
----
+-----
 
 <br>
 
@@ -225,7 +89,70 @@ alias npm-p="npm run production"
 
 Production build minifies CSS and JavaScript and compresses image files.
 
----
+-----
+
+<br>
+
+## Accessibility testing with Pa11y
+
+Pa11y is used for automated and manual accessibility testing.
+
+### Automated testing
+
+The GitHub repo uses an action to automatically run pa11y after every commit to the `master` branch. This helps catch
+things like missing alt text or other issues introduced by non-technical editors of the site in CloudCannon.
+
+### Manual testing
+
+`pa11y` and `pa11y-ci` are used in the local project files to test for accessibility issues. The `pa11y` script will run
+on a local build of the project and test the files in `_site/` for accessibility issues. The `pa11y-ci` script runs using
+the live `sitemap.xml` file of the website.
+
+At this time, **the `pa11y-ci` script picks up more issues than the plain `pa11y` script.** The `pa11y` script doesn't seem to render or test all the dynamic content built with JavaScript so `pa11y-ci` will usually give more accurate results. The hope is to get `pa11y` configured better so that JS is rendered and dynamic content tested.
+
+```bash
+## Run pa11y on the local build
+npm run test:pa11y
+## Run pa11y-ci on the live sitemap
+npm run test:pa11y-ci
+```
+
+Both scripts take the same arguments:
+
+| Argument | Name | Description |
+| ---------|------|-------------|
+| `-o`     | Output     | Output the results to a log file (`pa11y-log.*.txt` and `pa11y-ci-log.*.txt`) |
+| `-s`     | Skip build | Skip doing a Jekyll build prior to running `pa11y` (does not apply to `pa11y-ci`) |
+
+Examples:
+
+```bash
+# Pa11y examples:
+## Run pa11y and output the results to a log file
+npm run test:pa11y -- -o
+## Run pa11y, skip the jekyll build, and output the results to a log file
+npm run test:pa11y -- -s -o
+
+# Pa11y CI examples:
+## Run pa11y-ci and output the results to a log file
+npm run test:pa11y-ci -- -o
+## This script does the same as passing the `-o` flag to `test:pa11-ci`
+npm run test:pa11y-ci-log
+```
+
+### `pa11y-ci-sitemap.xml`
+
+Since the sitemap contains PDF files, there is a separate sitemap file for use with `pa11y-ci` that excludes them.
+The file `pa11y-ci-sitemap.xml` is used for this purpose. You can run `pa11y-ci` against the standard `sitemap.xml`
+file but it will take a lot longer and the resulting PDF errors are not helpful.
+
+### Pa11y CI logs/reporting
+
+When running `npm run test:pa11y-ci -- -o` or `npm run test:pa11y-ci-log`, the log file is created in the `./pa11y-ci-logs/` folder. These logs *should* be committed to GitHub to document our ongoing accessibility testing and results.
+
+**If any errors are found, the log file should be duplicated with the filename suffix `_remediation.txt` and the fix documented there.**
+
+-----
 
 <br>
 
