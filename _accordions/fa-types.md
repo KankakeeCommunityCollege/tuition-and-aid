@@ -71,3 +71,4 @@ View the [Student Employment tab](#student-employment) for details.
 * [KCC Foundation Scholarships](https://www.kcc.edu/foundation/scholarships)
 * [Workforce Innovation & Opportunity Act (WIOA)](https://www.kcc.edu/wioa/)
 * [ISAC Illinois and Federal Financial Aid Programs](https://www.isac.org/students/during-college/types-of-financial-aid/illinois-and-federal-financial-aid-programs.html){: target='_blank' rel='noopener noreferrer' }
+* [Federal & State Veteran Education Benefits](https://www.kcc.edu/admissions/veterans/#:~:text=Education%20%26%20Training%20Benefits)
