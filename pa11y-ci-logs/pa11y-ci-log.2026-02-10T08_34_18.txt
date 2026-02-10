@@ -1,0 +1,16 @@
+##############################
+##     Pa11y CI results     ##
+##############################
+
+##     Running Pa11y CI:
+##         DATETIME: 2026-02-10T08_34_18
+##         SITEMAP:  https://www.kcc.edu/tuition-and-aid/pa11y-ci-sitemap.xml
+
+
+Running Pa11y on 4 URLs:
+ > https://www.kcc.edu/tuition-and-aid/financial-aid/#please-open-all-accordions - 0 errors
+ > https://www.kcc.edu/tuition-and-aid/financial-support/#please-open-all-accordions - 0 errors
+ > https://www.kcc.edu/tuition-and-aid/#please-open-all-accordions - 0 errors
+ > https://www.kcc.edu/tuition-and-aid/net-price-calculator/#please-open-all-accordions - 0 errors
+
+✔ 4/4 URLs passed
