@@ -18,7 +18,9 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // Load any custom JS modules here (and uncomment!)
-// window.addEventListener('load', () => {
-  // Add custom JS here
-  // ...
-// });
+window.addEventListener('load', () => {
+  if (document.getElementById('printButton')) {
+    import('./printButton')
+      .then(({ default: printButton }) => printButton());
+  }
+});
