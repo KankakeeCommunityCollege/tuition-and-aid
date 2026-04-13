@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkcc_tuition_and_aid=self.webpackChunkkcc_tuition_and_aid||[]).push([[686],{686:function(n,t){const i=document.getElementById("printButton");t.default=function(){i.addEventListener("click",()=>{window.print()})}}}]);

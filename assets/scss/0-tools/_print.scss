@@ -1,0 +1,127 @@
+// Ensure a nice print layout.
+// These styles are mainly intended to enhance the print
+//  layout of the Health Career pages (that were formerly PDF files)
+@media print {
+  /* 1. Tighten the overall container and grid spacing */
+  .container,
+  .container-fluid {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    max-width: none !important;
+  }
+
+  .row {
+    margin-right: -5px !important;
+    margin-left: -5px !important;
+  }
+
+  .row>* {
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+  }
+
+  /* 2. Reduce Vertical Spacing (Headings & Lists) */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    break-after: avoid !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.25rem !important;
+  }
+
+  h1 {
+    font-size: 21pt !important;
+    font-weight: bold !important;
+  }
+
+  h2 {
+    font-size: 19pt !important;
+    font-weight: bold !important;
+  }
+
+  h3 {
+    font-size: 16pt !important;
+  }
+
+  h4 {
+    font-size: 14pt !important;
+  }
+
+  /* Low-level headings (Body text is usually 10pt-11pt) */
+  h5 {
+    font-size: 13pt !important;
+  }
+
+  h6 {
+    font-size: 12pt !important;
+  }
+
+  // Prefix main page heading with "KCC " on pages with print buttons
+  // This gives context to the printed page that it doesn't otherwise have
+  //  without the header/footer and branding.
+  h1:has(+ #printButton)::before, // :has() selector ensures we only target the pages with the print buttons
+  h2:has(+ #printButton)::before {
+    content: "KCC ";
+  }
+
+  /* Ensure body text stays grounded for comparison */
+  body {
+    font-size: 10.5pt !important;
+  }
+
+  p,
+  ul,
+  ol,
+  dl {
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Target BS5 utility margin/padding classes often used for sections */
+  .py-5,
+  .my-5 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .py-4,
+  .my-4 {
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+    margin-top: 0.75rem !important;
+    margin-bottom: 0.75rem !important;
+  }
+
+  /* 3. Compress Tables */
+  .table {
+    margin-bottom: 0.5rem !important;
+    font-size: 0.85rem; // Slightly smaller text for better fit
+  }
+
+  .table td,
+  .table th {
+    padding: 0.25rem !important; // Tightens BS5 default .5rem padding
+  }
+
+  /* 4. Print-Specific Optimization */
+  .table thead {
+    display: table-header-group; // Ensures headers repeat on multi-page tables
+  }
+
+  /* Hide unnecessary BS5 elements like Navbars */
+  .navbar,
+  .pagination,
+  .breadcrumb,
+  .buttons__action,
+  .footer {
+    display: none !important;
+  }
+
+  html {
+    background-color: unset !important;
+  }
+}
