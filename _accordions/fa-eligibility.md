@@ -35,4 +35,4 @@ This 150% is determined through the calculation of "attempted hours":
 * Courses which are of a remedial or prerequisite nature.
 * If you change your program of study at KCC, you still will be evaluated under the 150% time frame established for your original program unless a Financial Aid Satisfactory Academic Progress Appeal is approved. Consult a KCC advisor.
 
-For further information, please refer to your [Satisfactory Academic Progress](https://selfservice.kcc.edu/Student/FinancialAid/SatisfactoryAcademicProgress){: target="_blank" rel="noopener noreferrer"}&nbsp;(SAP) status and the [KCC SAP Policy](../uploads/pdf/Satisfactory%20Academic%20Progress%20(SAP)%20Policy%20Rev%203.25.pdf){: target="_blank" rel="noopener noreferrer"}.
+For further information, please refer to your [Satisfactory Academic Progress](https://selfservice.kcc.edu/Student/FinancialAid/SatisfactoryAcademicProgress){: target="_blank" rel="noopener noreferrer"}&nbsp;(SAP) status and the [KCC SAP Policy (PDF, 184KB)<span class="visually-hidden"> (open in new tab/window)</span>](../uploads/pdf/Satisfactory%20Academic%20Progress%20(SAP)%20Policy.pdf){: target='_blank' rel='noopener' }.
