@@ -13,7 +13,7 @@ The first step is always completing the [Free Application for Federal Student Ai
 
 * [26-27 Financial Aid Handbook (PDF, 880KB)](../uploads/pdf/26-27%20Financial%20Aid%20Handbook.pdf){: target='_blank' rel='noopener' }
 * [26-27 Financial Aid Important Information (PDF, 224KB)](../uploads/pdf/26-27%20Financial%20Aid%20Important%20Information.pdf){: target='_blank' rel='noopener' }
-* [26-27 Financial Aid Calendar (PDF, 631KB)](../uploads/pdf/26-27%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener' }
+* [26-27 Financial Aid Calendar (PDF, 305KB)](../uploads/pdf/26-27%20Financial%20Aid%20Calendar.pdf){: target='_blank' rel='noopener' }
 * [26-27 Degree Confirmation (PDF, 173KB)](../uploads/pdf/26-27%20Bachelor's%20Degree%20Confirmation.pdf){: target='_blank' rel='noopener' }
 * [26-27 Dependency Override Appeal (PDF, 270KB)](../uploads/pdf/26-27%20Dependency%20Override%20Appeal.pdf){: target='_blank' rel='noopener' }
 * [26-27 Unusual Enrollment History Form (PDF, 204KB)](../uploads/pdf/26-27%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener' }
