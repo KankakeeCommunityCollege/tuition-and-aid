@@ -19,7 +19,9 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [26-27 Unusual Enrollment History Form (PDF, 204KB)](../uploads/pdf/26-27%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener' }
 * [26-27 Income Adjustment - Dependent Student (PDF, 222KB)](../uploads/pdf/26-27%20Income%20Adjustment-Dependent%20Student.pdf){: target='_blank' rel='noopener' }
 * [26-27 Income Adjustment - Independent Student (PDF, 237KB)](../uploads/pdf/26-27%20Income%20Adjustment-Independent%20Student.pdf){: target='_blank' rel='noopener' }
-* [26-27 SAP Appeal Form (PDF, 169KB)](../uploads/pdf/26-27%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
+* **26-27 SAP Appeal Form:**
+  * [26-27 SAP Appeal Form (Digital Form)<span class="visually-hidden"> (opens in new window)</span>](https://form.jotform.com/261245063530044){: .links__launch target='_blank' rel='noopener noreferrer' }
+  * [26-27 SAP Appeal Form (Accessible PDF for Printing) (PDF, 283KB)](../uploads/pdf/26-27%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
 * [26-27 Tax Filing Confirmation Form - Student (PDF, 197KB)](../uploads/pdf/26-27%20Tax%20Filing%20Confirmation%20-%20Student.pdf){: target='_blank' rel='noopener' }
 * [26-27 Tax Filing Confirmation Form - Student Spouse (PDF, 202KB)](../uploads/pdf/26-27%20Tax%20Filing%20Confirmation%20-%20Student%20Spouse.pdf){: target='_blank' rel='noopener' }
 * [26-27 Tax Filing Confirmation Form - Parent (PDF, 214KB)](../uploads/pdf/26-27%20Tax%20Filing%20Confirmation%20-%20Parent.pdf){: target='_blank' rel='noopener' }
@@ -38,7 +40,9 @@ The first step is always completing the [Free Application for Federal Student Ai
 * [25-26 Unusual Enrollment History Form (PDF, 163KB)](../uploads/pdf/25-26%20Unusual%20Enrollment%20History%20Form.pdf){: target='_blank' rel='noopener' }
 * [25-26 Income Adjustment - Dependent Student (PDF, 137KB)](../uploads/pdf/25-26%20Income%20Adjustment-Dependent%20Student.pdf){: target='_blank' rel='noopener' }
 * [25-26 Income Adjustment - Independent Student (PDF, 134KB)](../uploads/pdf/25-26%20Income%20Adjustment-Independent%20Student.pdf){: target='_blank' rel='noopener' }
-* [25-26 SAP Appeal Form (PDF, 682KB)](../uploads/pdf/25-26%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
+* **25-26 SAP Appeal Form:**
+  * [26-27 SAP Appeal Form (Digital Form)<span class="visually-hidden"> (opens in new window)</span>](https://form.jotform.com/261245063530044){: .links__launch target='_blank' rel='noopener noreferrer' }
+  * [25-26 SAP Appeal Form (Accessible PDF for Printing) (PDF, 279KB)](../uploads/pdf/25-26%20SAP%20Appeal%20Form.pdf){: target='_blank' rel='noopener' }
 * [25-26 Tax Filing Confirmation Form - Student (PDF, 360KB)](../uploads/pdf/25-26%20Tax%20Filing%20Confirmation%20Form%20-%20Student.pdf){: target='_blank' rel='noopener' }
 * [25-26 Tax Filing Confirmation Form - Student Spouse (PDF, 368KB)](../uploads/pdf/25-26%20Tax%20Filing%20Confirmation%20Form%20-%20Student%20Spouse.pdf){: target='_blank' rel='noopener' }
 * [25-26 Tax Filing Confirmation Form - Parent (PDF, 368KB)](../uploads/pdf/25-26%20Tax%20Filing%20Confirmation%20Form%20-%20Parent.pdf){: target='_blank' rel='noopener' }
