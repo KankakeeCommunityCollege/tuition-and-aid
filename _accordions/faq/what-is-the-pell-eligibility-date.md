@@ -1,12 +1,8 @@
 ---
-question:accordion_page: 'Financial Aid FAQ'
+accordion_page: 'Financial Aid FAQ'
 card_heading: What is the Pell Eligibility Date?
 order: 1
 ---
-
-### What is the Pell Eligibility Date?
-{: .typography__h3 }
-
 The Pell Eligibility Date is the day that the Office of Financial Aid takes a “snapshot” of your total enrollment. This “snapshot” locks in how many eligible credit hours your Pell grant enrollment intensity will be based upon. The Pell Eligibility Date applies to all courses, even those beginning later in the semester.
 
 #### When is the Pell Eligibility Date?

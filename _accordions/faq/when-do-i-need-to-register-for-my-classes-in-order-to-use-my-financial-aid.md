@@ -5,7 +5,7 @@ order: 6
 ---
 
 * You must register by the financial aid eligibility dates
-  * The financial aid *[eligibility date](https://www.kcc.edu/tuition-and-aid/financial-aid/#financial-aid-faq)* is the day that the Office of Financial Aid takes a "snapshot" of your total enrollment to determine your Title&nbsp;IV* federal award eligibility for the semester. This "snapshot" locks in the number of eligible credit hours upon which your financial aid award is based.
+  * The financial aid *[eligibility date](#what-is-the-pell-eligibility-date)* is the day that the Office of Financial Aid takes a "snapshot" of your total enrollment to determine your Title&nbsp;IV* federal award eligibility for the semester. This "snapshot" locks in the number of eligible credit hours upon which your financial aid award is based.
   * The eligibility date applies to all courses, even those beginning later in the semester.
   * Courses added after, or dropped before, the eligibility date will not count towards your financial aid enrollment
 
