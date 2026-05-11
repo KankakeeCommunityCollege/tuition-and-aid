@@ -1,5 +1,6 @@
 ---
-question: "What are the different types of financial aid?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "What are the different types of financial aid?"
 order: 12
 ---
 

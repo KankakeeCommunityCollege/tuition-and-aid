@@ -1,5 +1,6 @@
 ---
-question: "What are reasons why financial aid may not cover some of my classes?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "What are reasons why financial aid may not cover some of my classes?"
 order: 11
 ---
 

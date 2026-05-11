@@ -1,5 +1,6 @@
 ---
-question: "How do I purchase books/supplies using financial aid?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "How do I purchase books/supplies using financial aid?"
 order: 7
 ---
 

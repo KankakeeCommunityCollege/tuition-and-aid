@@ -1,5 +1,6 @@
 ---
-question: "How do I apply for Financial Aid?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "How do I apply for Financial Aid?"
 order: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
-question: "When do I need to register for my classes in order to use my financial aid?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "When do I need to register for my classes in order to use my financial aid?"
 order: 6
 ---
 

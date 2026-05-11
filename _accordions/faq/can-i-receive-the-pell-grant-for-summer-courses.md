@@ -1,5 +1,6 @@
 ---
-question: "Can I receive the Pell Grant for summer courses?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "Can I receive the Pell Grant for summer courses?"
 order: 13
 ---
 

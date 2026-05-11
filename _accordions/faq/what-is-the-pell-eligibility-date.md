@@ -1,5 +1,6 @@
 ---
-question: What is the Pell Eligibility Date?
+question:accordion_page: 'Financial Aid FAQ'
+card_heading: What is the Pell Eligibility Date?
 order: 1
 ---
 

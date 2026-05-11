@@ -1,10 +1,8 @@
 ---
-question: "What else affects financial aid awards?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "What else affects financial aid awards?"
 order: 2
 ---
-
-### What else affects financial aid awards?
-{: .typography__h4 }
 
 * Financial aid can only be awarded for courses that are required in your academic program.
 * Financial aid is calculated based on enrollment status. Enrollment status may also be affected by limitations on repeated or remedial coursework.

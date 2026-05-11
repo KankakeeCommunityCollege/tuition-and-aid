@@ -1,5 +1,6 @@
 ---
-question: "When will excess funds from financial aid be disbursed? How much?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "When will excess funds from financial aid be disbursed? How much?"
 order: 10
 ---
 

@@ -1,5 +1,6 @@
 ---
-question: "What makes me eligible for financial aid?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "What makes me eligible for financial aid?"
 order: 8
 ---
 

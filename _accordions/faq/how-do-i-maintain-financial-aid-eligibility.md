@@ -1,5 +1,6 @@
 ---
-question: "How do I maintain financial aid eligibility?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "How do I maintain financial aid eligibility?"
 order: 9
 ---
 

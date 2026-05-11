@@ -1,5 +1,6 @@
 ---
-question: "When should I complete the FAFSA?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "When should I complete the FAFSA?"
 order: 3
 ---
 
