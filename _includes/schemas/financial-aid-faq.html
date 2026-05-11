@@ -1,0 +1,20 @@
+{% assign faq = site.accordions | where_exp: "item", "item.accordion_page contains 'Financial Aid FAQ'" | sort: "order" %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "KCC Veterans Services FAQ",
+    "mainEntity": [
+    {% for question in faq %}
+      {
+        "@type": "Question",
+        "name": "{{ question.card_heading }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ question.content | strip_newlines | replace: '/', '\/' | replace: '"', '\"' | replace: '  ', ' ' }}"
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+</script>
