@@ -8,4 +8,4 @@ order: 3
 * [Types of Financial Aid](./financial-aid/#types-of-financial-aid)
 * [Check Financial Aid Status](./financial-aid/#check-financial-aid-status)
 * [Financial Aid Forms](./financial-aid/#financial-aid-forms)
-* [Financial Aid FAQ](./financial-aid/#financial-aid-faq)
+* [Financial Aid FAQ](./financial-aid/faq/)

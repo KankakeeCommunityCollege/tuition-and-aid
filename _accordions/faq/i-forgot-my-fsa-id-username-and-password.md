@@ -1,5 +1,6 @@
 ---
-question: "I forgot my FSA ID username and password."
+accordion_page: 'Financial Aid FAQ'
+card_heading: "I forgot my FSA ID username and password."
 order: 14
 ---
 
