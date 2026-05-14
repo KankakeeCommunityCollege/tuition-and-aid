@@ -4,7 +4,7 @@ card_heading: "When do I need to register for my classes in order to use my fina
 order: 6
 ---
 
-* You must register by the financial aid eligibility dates
+* You must register by the [Pell eligibility date](#what-is-the-pell-eligibility-date) for the semester
   * The financial aid *[eligibility date](#what-is-the-pell-eligibility-date)* is the day that the Office of Financial Aid takes a "snapshot" of your total enrollment to determine your Title&nbsp;IV* federal award eligibility for the semester. This "snapshot" locks in the number of eligible credit hours upon which your financial aid award is based.
   * The eligibility date applies to all courses, even those beginning later in the semester.
   * Courses added after, or dropped before, the eligibility date will not count towards your financial aid enrollment

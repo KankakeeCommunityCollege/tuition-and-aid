@@ -6,5 +6,5 @@ order: 11
 
 - Repeating a class more than once
 - An excess of 30 remedial credit hours-attendance in a course
-- Registration for a course after the financial aid eligibility date
+- Registering for a course after the [Pell eligibility date](#what-is-the-pell-eligibility-date)
 - Registering for a course that is not required for program
