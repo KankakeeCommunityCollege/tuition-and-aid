@@ -1,0 +1,33 @@
+---
+layout: default-core
+baseurl: '../../'
+title: Financial Aid FAQ
+description: >-
+  Find answers to common questions about financial aid at KCC, including FAFSA application steps, eligibility
+  requirements, disbursement dates, and how to maintain your aid.
+accordion_expanded: false
+schema_json_partial: 'schemas/financial-aid-faq.html'
+_inputs:
+  schema_json_partial:
+    hidden: true
+---
+
+<!-- Build -->
+<main class="container" id="content">
+  <div class="row mb-5">
+    <div class="col">
+      {% include breadcrumbs.html %}
+      <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
+      <div class="editable mb-3 typography__lead">
+        <p>
+          Navigating financial aid can feel complex, but we are here to help you every step of the way. Whether you are curious
+          about how to maintain your eligibility, when to expect your disbursement, or how to use your aid at the bookstore, the
+          following frequently asked questions provide the essential details you need to manage your funding at KCC. If you don't
+          find the answer you're looking for, our Financial Aid office is available to assist you.
+        </p>
+      </div>
+      {% include accordion.html alternate_heading_level="h3" %}
+    </div>
+  </div>
+</main>
+{% include contacts.html %}

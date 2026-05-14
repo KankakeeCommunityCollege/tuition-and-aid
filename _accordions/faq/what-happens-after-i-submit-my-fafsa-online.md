@@ -1,5 +1,6 @@
 ---
-question: "What happens after I submit my FAFSA online?"
+accordion_page: 'Financial Aid FAQ'
+card_heading: "What happens after I submit my FAFSA online?"
 order: 5
 ---
 
