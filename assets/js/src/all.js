@@ -23,4 +23,9 @@ window.addEventListener('load', () => {
     import('./printButton')
       .then(({ default: printButton }) => printButton());
   }
+
+  if (/\/financial-aid\/forms\/?$/.test(window.location.pathname)) {
+    import('./linkToCalendar')
+      .then(({ default: linkToCalendar }) => linkToCalendar());
+  }
 });
