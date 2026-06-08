@@ -3,8 +3,8 @@ accordion_page: Tuition & Aid
 card_heading: Cost to Attend
 order: 1
 ---
-#### Tuition and cost to attend
-{: .typography__h3.links__offset}
+### Tuition and cost to attend
+{: .typography__h3}
 
 KCC is committed to making your education as affordable as possible. Tuition is currently $155 per credit hour, plus $19 in fees, for a total of $174 per credit hour. Additional course fees apply to some courses. This amount is thousands of dollars less than what you would pay at four-year colleges, universities and for-profit institutions – and you still get a great education that will pay off throughout your working life.&nbsp;
 
@@ -28,27 +28,25 @@ Your cost for classes will be based on how many credit hours you take each semes
 
 <div class="card p-1 mb-3"><script type="text/javascript" src="https://form.jotform.com/jsform/80386150914961"></script><p></p></div>
 
-#### Costs for Occupational and Health Career Programs
-{: .typography__h3.links__offset}
+### Costs for Occupational and Health Career Programs
+{: .typography__h3}
 
 To see specific costs, including books, clothing and equipment, for occupational and health career programs, refer to KCC’s [electronic catalog](https://catalog.kcc.edu/info-on-occupational-programs){: target="_blank" rel="noopener"}.
 
-#### Other Expenses
-{: .typography__h3.links__offset}
+### Other Expenses
+{: .typography__h3}
 
-##### Books and Supplies
-{: .typography__h4.links__offset}
-
-&nbsp;
+#### Books and Supplies
+{: .typography__h4}
 
 Expect to pay on average about $960 per semester for textbooks and supplies if you are taking 15 semester hours. Books and supplies are available at the [KCC online bookstore](https://books.kcc.edu/){: target="_blank" rel="noreferrer noopener"}. Used books are available at a lower price so you may be able to reduce your textbook cost. Also, KCC does buy back books at the end of the semester.
 
-##### Transportation
-{: .typography__h4.links__offset}
+#### Transportation
+{: .typography__h4}
 
 For financial aid budgeting purposes, estimate $1,824 annually for transportation. Most KCC students drive to school. The River Valley Metro Transit bus stops at KCC.
 
-##### Room and Board
-{: .typography__h4.links__offset}
+#### Room and Board
+{: .typography__h4}
 
 KCC does not offer on-campus residences. For financial aid purposes, it is estimated that room and board (housing and food) will cost $4,672 per school year for students living with parents and $9,312 for students not living with parents.​

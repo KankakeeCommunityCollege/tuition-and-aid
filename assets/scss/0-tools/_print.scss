@@ -2,6 +2,17 @@
 // These styles are mainly intended to enhance the print
 //  layout of the Health Career pages (that were formerly PDF files)
 @media print {
+
+  // Make sure there's no background colors coming through
+  html {
+    background-color: unset !important;
+  }
+
+  // Prevent a gap at the top of the page normally used for the fixed header
+  .positioning__offset-global-header {
+    padding-top: 0 !important;
+  }
+
   /* 1. Tighten the overall container and grid spacing */
   .container,
   .container-fluid {
@@ -62,7 +73,8 @@
   // Prefix main page heading with "KCC " on pages with print buttons
   // This gives context to the printed page that it doesn't otherwise have
   //  without the header/footer and branding.
-  h1:has(+ #printButton)::before, // :has() selector ensures we only target the pages with the print buttons
+  h1:has(+ #printButton)::before,
+  // :has() selector ensures we only target the pages with the print buttons
   h2:has(+ #printButton)::before {
     content: "KCC ";
   }
@@ -115,13 +127,7 @@
   /* Hide unnecessary BS5 elements like Navbars */
   .navbar,
   .pagination,
-  .breadcrumb,
-  .buttons__action,
-  .footer {
+  .breadcrumb {
     display: none !important;
-  }
-
-  html {
-    background-color: unset !important;
   }
 }

@@ -22,18 +22,18 @@ _inputs:
   page_lead_call_to_action.show_button:
     comment: Show or hide a button/link after the page lead
 ---
-<main class="container" id="content">
+<div class="container">
   <div class="row">
     <div class="col">
       {% include breadcrumbs.html %}
-      <h2 class="typography__h2">{{ page.title }}</h2>
+      <h1 class="typography__h1">{{ page.title }}</h1>
       {% if page.page_lead %}
         <p class="lead mb-1">{{ page.page_lead }}</p>
       {% endif %}
       {% if page.page_lead_call_to_action.show_button %}
         <a href="{{ page.page_lead_call_to_action.button_link }}" class="btn btn-primary mb-3">{{ page.page_lead_call_to_action.button_text }}</a>
       {% endif %}
-      {% include accordion.html alternate_heading_level="h3" %}
+      {% include accordion.html %}
     </div>
   </div>
-</main>
+</div>

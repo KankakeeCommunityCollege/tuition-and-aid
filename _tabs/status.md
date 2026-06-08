@@ -3,20 +3,20 @@ name: Check Financial Aid Status
 tabs_page: Financial Aid
 order: 2
 ---
-### FAFSA Status
-{: .typography__h3.links__offset}
+## FAFSA Status
+{: .typography__h2}
 
 Within seven business days after submitting the FAFSA online, you will receive a FAFSA Submission Summary (FSS) at the email address you provided. If you did not provide an email address, the FSS will be sent to your mailing address.
 
 **Review the FSS immediately for errors.** If corrections are needed, log into the [FAFSA website](https://www.fafsa.gov/){: target="_blank" rel="noopener noreferrer"} and follow the correction instructions.
 
-### Communications
-{: .typography__h3.links__offset}
+## Communications
+{: .typography__h2}
 
 You will receive important information by email from the KCC Office of Financial Aid. Make sure to read all documents thoroughly. Check your [student email](https://mail.google.com/a/student.kcc.edu){: target="_blank" rel="noopener noreferrer"} often (or learn how to [forward it to a preferred email](https://www.kcc.edu/about/its/#student-email-and-google-apps){: target="_blank" rel="noopener noreferrer"}) to be sure you don't miss any important information.
 
-### Financial Aid Self-Service
-{: .typography__h3.links__offset}
+## Financial Aid Self-Service
+{: .typography__h2}
 
 The new Financial Aid Self-Service module has all the financial aid details you need, any time you want it.
 
@@ -26,8 +26,8 @@ The new Financial Aid Self-Service module has all the financial aid details you 
 
 You'll find: FAFSA status, next steps/process, forms (links and downloads), award info, and more! Make sure to return any requested documents as soon as possible to ensure file completion in a timely manner.
 
-### Self-Service Checklist Items
-{: .typography__h3.links__offset}
+## Self-Service Checklist Items
+{: .typography__h2}
 
 Submit a [Free Application for Federal Student Aid](https://studentaid.gov/h/apply-for-aid/fafsa){: target="_blank" rel="noopener noreferrer"} (FAFSA): School Code-007690
 
@@ -52,7 +52,7 @@ Review and sign your Financial Aid Award Letter
 
 * If you are not eligible for any awards, and wish to apply for Federal Stafford Student Loans, please visit our office for a loan application.
 
-### Refunds/Disbursements
-{: .typography__h3.links__offset}
+## Refunds/Disbursements
+{: .typography__h2}
 
 You can view your “anticipated” refund in [Self-Service](https://selfservice.kcc.edu/Student/FinancialAid/Home){: target="_blank" rel="noopener noreferrer"}, after signing in. You can check disbursement dates on the Financial Aid Calendar, found on the [Financial Aid Forms tab](#financial-aid-forms) of this page. If award funds exceed KCC costs, a refund check will be issued to you. The date of financial aid disbursement is affected by enrollment in late-starting classes.
