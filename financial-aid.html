@@ -12,18 +12,18 @@ hero_banner_link: '#'
 ---
 
 <!-- Build -->
-<main class="container" id="content">
+<div class="container">
   <div class="row mb-5">
     <div class="col">
       {%- comment -%}
       {% include hero-banner.html %}
       {%- endcomment -%}
       {% include breadcrumbs.html %}
-      <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
+      <h1 class="typography__h1 mb-3">{{ page.title }}</h1>
       <div class="editable mb-3">
         
       </div>
-      {% include accordion.html alternate_heading_level="h3" %}
+      {% include accordion.html %}
     </div>
   </div>
   <div class="row">
@@ -31,5 +31,5 @@ hero_banner_link: '#'
       {% include tabbed-content.html disable_links_offset="true" %}
     </div>
   </div>
-</main>
-{% include contacts.html %}
+</div>
+{% include contacts.html section_heading_level="h2" name_heading_level="h3" %}

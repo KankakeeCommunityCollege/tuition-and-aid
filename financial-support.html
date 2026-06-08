@@ -17,9 +17,7 @@ _inputs:
   page_lead:
     comment: Lead paragraph for the page (larger intro text)
 ---
-
-<!-- Build -->
-<main class="container" id="content">
+<div class="container">
   <div class="row mb-5">
     <div class="col">
       {% include breadcrumbs.html %}
@@ -35,7 +33,7 @@ _inputs:
           class="img-fluid mb-3"
           alt="{{ page.banner_alt_text }}">
       </div>
-      <h2 class="typography__h2 mb-3">{{ page.title }}</h2>
+      <h1 class="typography__h1 mb-3">{{ page.title }}</h1>
       <p class="lead">{{ page.page_lead }}</p>
       <div class="editable mb-3">
         <p class="mb-1"><strong>To be considered:</strong></p>
@@ -53,7 +51,7 @@ _inputs:
         src="https://form.jotform.com/jsform/250055837455056"
       ></script>
       <div class="editable">
-        <h3 class="typography__h3">Current Funds Available</h3>
+        <h2 class="typography__h2">Current Funds Available</h2>
         <p class="mb-1">
           <strong>JTED</strong> - Job Training Economic Development<br>
           <strong>ARPA</strong> - American Rescue Plan Act<br>
@@ -89,4 +87,4 @@ _inputs:
       </div>
     </div>
   </div>
-</main>
+</div>
