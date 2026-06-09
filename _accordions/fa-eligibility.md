@@ -1,7 +1,7 @@
 ---
 accordion_page: 'Financial Aid'
 card_heading: 'Financial Aid Eligibility'
-order: 2
+order: 20
 ---
 
 To be eligible for financial aid at KCC, you must:

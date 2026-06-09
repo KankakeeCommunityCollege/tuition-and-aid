@@ -1,7 +1,7 @@
 ---
 accordion_page: 'Financial Aid'
 card_heading: 'Applying for Aid'
-order: 1
+order: 10
 ---
 
 Whether you are hoping to receive grants, looking for student employment or need a student loan, follow these steps to apply for financial aid:
