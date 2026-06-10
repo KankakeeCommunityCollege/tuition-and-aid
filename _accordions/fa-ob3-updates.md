@@ -1,7 +1,7 @@
 ---
 accordion_page: 'Financial Aid'
 card_heading: 'One Big Beautiful Bill Act (OB3) Updates'
-order: 1
+order: 40
 ---
 
 The One Big Beautiful Bill Act (H.R.1), signed into law on July 4, 2025, enacts changes that become effective July 1, 2026. Changes include limits and requirements for Federal Loan funding, Federal Loan repayment options (for new and current borrowers), and Federal Pell eligibility calculations. These changes will be effective for the 2026-27 academic year. For example, the U.S. Department of Education (ED) will require annual Direct Loan limits to be prorated based on how many credits a student is enrolled in compared to full-time status. ED will also require annual eligibility to be recalculated based on any reduction in enrollment.
