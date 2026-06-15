@@ -24,3 +24,5 @@ The One Big Beautiful Bill Act (H.R.1), signed into law on July 4, 2025, enacts 
 * [One Big Beautiful Bill Act – Important Definitions](https://studentaid.gov/announcements-events/big-updates/definitions){: .links__launch target='_blank' rel='noopener noreferrer' }
 * [(GEN-25-24) Federal Student Loan Program Provisions Effective Upon Enactment Under the One Big Beautiful Bill Act](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act){: .links__launch target='_blank' rel='noopener noreferrer' }
 * [Federal Student Aid Changes from the One Big Beautiful Bill Act](https://www.nasfaa.org/uploads/documents/Federal_Student_Aid_Change_OB3.pdf){: .links__launch target='_blank' rel='noopener noreferrer' }
+
+{% include loan-proration-tables.html %}
