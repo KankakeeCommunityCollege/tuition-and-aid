@@ -23,8 +23,8 @@ To be eligible for student employment, you must:
 
 * have a high school or GED diploma
 * be eligible to work in the United States
-* be enrolled in six or more credit hours during the fall and spring semesters (enrollment in summer classes is optional)
-* complete a Free Application for Federal Student Aid (FAFSA). *Even if you believe you wouldn't qualify for financial aid grants, you might qualify for Federal Work Study programs which would make you eligible for more student jobs at KCC.*
+* be enrolled half-time
+* complete a Free Application for Federal Student Aid (FAFSA). *Even if you believe you wouldn't qualify for financial aid grants, you might qualify for Federal Work Study programs.*
 
 ## Apply online
 {: .typography__h2}
