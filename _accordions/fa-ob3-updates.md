@@ -15,14 +15,14 @@ The One Big Beautiful Bill Act (H.R.1), signed into law on July 4, 2025, enacts 
 * If enrollment decreases before loan disbursement, loan amounts may be adjusted
 * If enrollment decreases after loan disbursement, annual loan eligibility may be recalculated
 
-**Important Disclaimer:** The information provided by KCC Financial Aid is intended to help students understand recent changes to federal student aid programs. While this information reflects our current understanding of evolving federal requirements, it is not official federal guidance and should not be considered final or authoritative. For official information and updates, please refer to the U.S. Department of Education and Federal Student Aid at [StudentAid.gov](https://studentaid.gov/){: .links__launch target='_blank' rel='noopener noreferrer' }.
+**Important Disclaimer:** The information provided by KCC Financial Aid is intended to help students understand recent changes to federal student aid programs. While this information reflects our current understanding of evolving federal requirements, it is not official federal guidance and should not be considered final or authoritative. For official information and updates, please refer to the U.S. Department of Education and Federal Student Aid at [StudentAid.gov](https://studentaid.gov/){: target='_blank' rel='noopener noreferrer' }.
 
 ### Resources
 {: .typography__h3 }
 
-* [One Big Beautiful Bill Act Updates](https://studentaid.gov/announcements-events/big-updates){: .links__launch target='_blank' rel='noopener noreferrer' }
-* [One Big Beautiful Bill Act – Important Definitions](https://studentaid.gov/announcements-events/big-updates/definitions){: .links__launch target='_blank' rel='noopener noreferrer' }
-* [(GEN-25-24) Federal Student Loan Program Provisions Effective Upon Enactment Under the One Big Beautiful Bill Act](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act){: .links__launch target='_blank' rel='noopener noreferrer' }
-* [Federal Student Aid Changes from the One Big Beautiful Bill Act](https://www.nasfaa.org/uploads/documents/Federal_Student_Aid_Change_OB3.pdf){: .links__launch target='_blank' rel='noopener noreferrer' }
+* [One Big Beautiful Bill Act Updates](https://studentaid.gov/announcements-events/big-updates){: target='_blank' rel='noopener noreferrer' }
+* [One Big Beautiful Bill Act – Important Definitions](https://studentaid.gov/announcements-events/big-updates/definitions){: target='_blank' rel='noopener noreferrer' }
+* [(GEN-25-24) Federal Student Loan Program Provisions Effective Upon Enactment Under the One Big Beautiful Bill Act](https://fsapartners.ed.gov/knowledge-center/library/dear-colleague-letters/2025-07-18/federal-student-loan-program-provisions-effective-upon-enactment-under-one-big-beautiful-bill-act){: target='_blank' rel='noopener noreferrer' }
+* [Federal Student Aid Changes from the One Big Beautiful Bill Act](https://www.nasfaa.org/uploads/documents/Federal_Student_Aid_Change_OB3.pdf){: target='_blank' rel='noopener noreferrer' }
 
 {% include loan-proration-tables.html %}
