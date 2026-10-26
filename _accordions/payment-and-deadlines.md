@@ -18,30 +18,43 @@ Payment deadlines may vary based on your registration dates. Full payments are a
   </thead>
   <tbody>
     <tr>
-      <th scope="row" rowspan="3">Summer 2026</th>
-      <td>Online:  March 16 - April 30, 2026</td>
-      <td>by 5 p.m. April 30, 2026</td>
+      <th scope="row" rowspan="3">Spring 2027</th>
+      <td>Online: October 5 - December 3, 2026</td>
+      <td>by 5 p.m. December 3, 2026</td>
     </tr>
     <tr>
-      <td>In-Person:  March 23 - April 30, 2026</td>
-      <td>by 5 p.m. April 30, 2026</td>
+      <td>In-Person: October 12 - December 3, 2026</td>
+      <td>by 5 p.m. December 3, 2026</td>
     </tr>
     <tr>
-      <td>In-Person/Online:  May 1, 2026</td>
-      <td>by 5 p.m. June 9, 2026</td>
+      <td>In-Person/Online: December 4, 2026</td>
+      <td>by 5 p.m. January 26, 2027</td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">Fall 2026</th>
-      <td>Online:  April 6 - July 29, 2026</td>
-      <td>by 5 p.m. July 29, 2026</td>
+      <th scope="row" rowspan="3">Summer 2027</th>
+      <td>Online: March 29 - April 29, 2027</td>
+      <td>by 5 p.m. April 29, 2027</td>
     </tr>
     <tr>
-      <td>In-Person:  April 13 - July 29, 2026</td>
-      <td>by 5 p.m. July 29, 2026</td>
+      <td>In-Person: April 5 - April 29, 2027</td>
+      <td>by 5 p.m. April 29, 2027</td>
     </tr>
     <tr>
-      <td>In-Person/Online:  July 20, 2026</td>
-      <td>by 5 p.m. September 1, 2026</td>
+      <td>In-Person/Online: April 30, 2027</td>
+      <td>by 5 p.m. June 8, 2027</td>
+    </tr>
+    <tr>
+      <th scope="row" rowspan="3">Fall 2027</th>
+      <td>Online: March 22 - July 28, 2027</td>
+      <td>by 5 p.m. July 28, 2027</td>
+    </tr>
+    <tr>
+      <td>In-Person: April 5 - July 28, 2027</td>
+      <td>by 5 p.m. July 28, 2027</td>
+    </tr>
+    <tr>
+      <td>In-Person/Online: July 29, 2027</td>
+      <td>by 5 p.m. August 31, 2027</td>
     </tr>
   </tbody>
 </table>
