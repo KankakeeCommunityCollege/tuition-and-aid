@@ -7,5 +7,5 @@ order: 3
 * [Financial Aid Eligibility](./financial-aid/#financial-aid-eligibility)
 * [Types of Financial Aid](./financial-aid/#types-of-financial-aid)
 * [Check Financial Aid Status](./financial-aid/#check-financial-aid-status)
-* [Financial Aid Forms](./financial-aid/#financial-aid-forms)
+* [Financial Aid Forms](./financial-aid/forms/)
 * [Financial Aid FAQ](./financial-aid/faq/)
